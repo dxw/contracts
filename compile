@@ -1,0 +1,36 @@
+#! /usr/bin/env ruby
+
+require 'kramdown'
+
+#
+# Make sure we have the directories
+#
+
+agreements = "#{File.dirname(__FILE__)}/agreements"
+unless File.exists?(agreements)
+  STDERR.puts("Couldn't find the agreements directory at: #{agreements}")
+  exit 1
+end
+
+build = "#{File.dirname(__FILE__)}/build"
+unless File.exists?(build)
+  STDERR.puts("Couldn't find the build directory at: #{build}")
+  exit 1
+end
+
+html = "#{File.dirname(__FILE__)}/html"
+unless File.exists?(html)
+  STDERR.puts("Couldn't find the html directory at: #{html}")
+  exit 1
+end
+
+Dir.entries(agreements).each do |file|
+  next if file[0] == '.'
+
+  content =
+    File.read("#{html}/top.html") +
+    Kramdown::Document.new(File.read("#{agreements}/#{file}")).to_html
+    File.read("#{html}/bottom.html")
+
+  File.open("#{build}/#{file}.html", 'w') { |f| f.write(content) }
+end
