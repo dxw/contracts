@@ -1,63 +1,77 @@
-1.  ### Parties
+# Web Development Agreement
+
+1. ### Parties
 
     1.  This agreement is between The Dextrous Web Ltd, a company
         registered in England and Wales under number 6617101, trading as
         "dxw", and the organisation or person specified on the order
         summary accompanying this document.
 
-2.  ### Definitions
+2. ### Definitions
 
     Sprint
     :   A Sprint is our basic unit of development. A sprint consists of
         the services of a given number of developers for a given period
         of time, and any Surrounding Activities you require.
+
     Acceptance Criteria
     :   Acceptance Criteria document attributes of the Product which a
         Story must provide in order for the Story to be considered
         Finished.
+
     Backlog
     :   The Backlog is a prioritised list of Stories for implementation
         by developers.
+
     Finished
     :   A Story is Finished when its Acceptance Criteria have been met.
+
     Product
     :   The collection of software and services which, when operational,
         will meet the goals specified in your Product Description.
+
     Product Description
     :   A Product Description is a written explanation of your Project's
         goals and the nature of the functionality that you expect will
         be required to achieve those goals.
+
     Project
     :   A Project is a sequence of Sprints used to develop features a
         Product.
+
     Reject
     :   A Rejected story is one which, following its implementation, you
         do not believe has been Finished.
+
     Required Materials
     :   Required Materials are things that dxw needs in order to
         complete a particular piece of work, including but not limited
         to images, text content, licences, consents, or clear
         instructions.
+
     Sprints Estimate
     :   The number of Sprints dxw estimates will be required to deliver
         a Product, as specified in the Product Description. Generally
         expressed as a range; for example: "Between X and Y sprints".
         These numbers are estimates, and are not binding.
+
     Started
     :   A Story has been Started when a developer has begun its
         implementation.
+
     Story
     :   A Story is a description of some work to be completed. In order
         for Story to be considered complete, it must specify a user
         need, identify the user who has the need, and describe some
         behaviour that (having been implemented) will meet that need.
+
     Surrounding Activities
     :   Surrounding Activities are services dxw provides as part of the
         Project but are not part of a Sprint; for example user testing
         and discovery, penetration testing, research or business
         analysis.
 
-3.  ### Proposal
+3. ### Proposal
 
     1.  Before starting a Project, dxw will provide a proposal.
     2.  The proposal dxw provides will:
@@ -86,7 +100,7 @@
         specification and neither commit us to providing any particular
         features or deliverables, other than the provision of Sprints.
 
-4.  ### Sprints
+4. ### Sprints
 
     1.  dxw will deliver a number of Sprints in order to create a
         Product.
@@ -141,7 +155,7 @@
             the changes you require, and new Acceptance Criteria must be
             agreed.
 
-5.  ### Sprint fees, estimates and administration
+5. ### Sprint fees, estimates and administration
 
     1.  If you accept our proposal, dxw will provide an order summary
         detailing:
@@ -179,7 +193,7 @@
             understand or describe your requirements;
         2.  You have breached the terms of this agreement.
 
-6.  ### Required Materials
+6. ### Required Materials
 
     1.  In order to complete Stories, there will occasionally be
         Required Materials that you must provide.
@@ -190,7 +204,7 @@
         Backlog. This may cause a Story not to be delivered in the
         Sprint you have specified.
 
-7.  ### Subcontracting
+7. ### Subcontracting
 
     1.  At dxw's sole discretion, freelancers or contractors may be used
         in place of dxw employees in order to complete Sprints or
@@ -199,7 +213,7 @@
         without your prior agreement, which must not be unreasonably
         withheld.
 
-8.  ### Quality
+8. ### Quality
 
     1.  dxw will deliver work of a professional standard.
     2.  dxw will make deliver code that is as free of bugs and security
@@ -207,7 +221,7 @@
     3.  dxw is insured against professional negligence to a value of
         £1,000,000.
 
-9.  ### Limitation of liability
+9. ### Limitation of liability
 
     1.  dxw cannot guarantee perfect reliability.
     2.  dxw will deliver work that is as robust and reliable as is
