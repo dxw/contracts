@@ -1,5 +1,4 @@
-Contracts
-=========
+## Contracts
 
 This is where we keep, version control and collaborate on improvements to our contracts. 
 
