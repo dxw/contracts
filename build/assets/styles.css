@@ -74,6 +74,7 @@ li:before, dt:before
 li:before
 {
   display: table-cell;
+  vertical-align: top;
 }
 
 h1, h2, h3, h4, h5
