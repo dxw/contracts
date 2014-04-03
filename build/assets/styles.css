@@ -55,12 +55,17 @@ ol, dl
   counter-reset: item;
   display: table;
   padding: 0 0 0 20px;
+  margin-top: 0;
 }
 
 li
 {
   line-height: 28px;
   display: table-row;
+}
+
+li ol {
+  margin-bottom: 15px;
 }
 
 li:before, dt:before
@@ -82,6 +87,12 @@ h1, h2, h3, h4, h5
   font-family: Raleway, sans-serif;
   display: inline-block;
   font-weight: 400;
+  margin-top: 20px;
+}
+
+h2, h3, h4, h5
+{
+  margin-top: 0;
 }
 
 p
