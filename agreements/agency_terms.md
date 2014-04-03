@@ -28,10 +28,10 @@
 
     Product
     :   The collection of software and services which, when operational,
-        will meet the goals specified in your Product Description.
+        will meet the goals specified in your Project Description.
 
-    Product Description
-    :   A Product Description is a written explanation of your Project's
+    Project Description
+    :   A Project Description is a written explanation of your Project's
         goals, the user needs you are addressing and the nature of the
         functionality that you expect will be required to achieve those
         needs and goals.
@@ -52,7 +52,7 @@
 
     Sprints Estimate
     :   The number of Sprints dxw estimates will be required to deliver
-        a Product, as specified in the Product Description. Generally
+        a Product, as specified in the Project Description. Generally
         expressed as a range; for example: "Between X and Y sprints".
         These numbers are estimates, and are not binding.
 
@@ -62,9 +62,10 @@
 
     Story
     :   A Story is a description of some work to be completed. In order
-        for Story to be considered complete, it must specify a user
-        need, identify the user who has the need, and describe some
-        behaviour that (having been implemented) will meet that need.
+        for Story to be considered ready for implementation, it must
+        specify a user need, identify the user who has the need, and
+        describe some behaviour that (having been implemented) will meet
+        that need.
 
     Surrounding Activities
     :   Surrounding Activities are services dxw provides as part of the
@@ -92,7 +93,7 @@
     4.  At any time during a Project if the goals or user needs your
         project is addressing change substantially, you must tell us,
         and a new Project Description must be agreed in writing.
-    5.  If the Product Description is changed during the Project, dxw may
+    5.  If the Project Description is changed during the Project, dxw may
         provide a new Sprints Estimate.
     6.  Neither the Project Description nor the proposal is a
         specification and neither commit us to providing any particular
@@ -106,7 +107,8 @@
         the proposal.
     3.  At any time, you may request that the length of the Sprint or
         the number of developers be changed. Subject to our available
-        resources, dxw will accommodate such requests.
+        resources and your acceptance of the revised sprint fees,
+        dxw will accommodate such requests.
     4.  At the beginning of the Project, dxw will work with you to
         define an initial set of Stories for implementation. This list
         of Stories form the Project's Backlog.
@@ -124,7 +126,7 @@
         Stories completed in each Sprint will vary.
     10. A Story cannot be Started unless:
 
-        1.  It is complete;
+        1.  It is ready (see clause 2.12);
         2.  It has agreed Acceptance Criteria;
         3.  All Required Materials for the Story's implementation have
             been provided to us
@@ -136,7 +138,7 @@
         3.  dxw will make every reasonable effort to complete the Story
             within the Sprint.
 
-    12. After a Story has been Finished:
+    12. After dxw believe a Story has been Finished:
 
         1.  dxw will make it available to you for your testing and
             review;
@@ -145,8 +147,8 @@
             Sprint;
         3.  You must not Reject the Story unless it has not met its
             Acceptance Criteria;
-        4.  If you Reject a Story, it will be returned to the Backlog
-            for inclusion in a future Sprint;
+        4.  If you Reject a Story, it will be returned to the Backlog for
+            you to prioritise;
         5.  If having tested the Story's implementation you decide that
             its functionality should be materially different from the
             Acceptance Criteria, you must make a new Story describing
@@ -179,7 +181,7 @@
         the cost of the Sprint.
     6.  If the upper value in the Sprints Estimate is met and the
         Product falls materially short of the standard specified in the
-        original Product Description ("Unacceptable"), dxw will discount
+        original Project Description ("Unacceptable"), dxw will discount
         the cost of further sprints by 35%.
     7.  As soon as the Product is no longer Unacceptable, no further
         discounts will apply.
