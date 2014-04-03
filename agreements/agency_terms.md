@@ -32,8 +32,9 @@
 
     Product Description
     :   A Product Description is a written explanation of your Project's
-        goals and the nature of the functionality that you expect will
-        be required to achieve those goals.
+        goals, the user needs you are addressing and the nature of the
+        functionality that you expect will be required to achieve those
+        needs and goals.
 
     Project
     :   A Project is a sequence of Sprints used to develop features a
@@ -74,11 +75,9 @@
 3. ### Proposal
 
     1.  Before starting a Project, dxw will provide a proposal.
-    2.  The proposal dxw provides will:
+    2.  The proposal dxw provides will contain:
 
-        1.  Describe the nature of your Project and its goals as dxw
-            understands them and the general nature of the functionality
-            that you require (the Product Description);
+        1.  The inital Project Description;
         2.  A recommendation for the duration of a Sprint, its
             Surrounding Activities and a number of developers;
         3.  Our fees, based on the recommended Sprint;
@@ -90,12 +89,11 @@
     3.  The Project Description dxw provides will represent our best
         understanding of the work that you require to be completed as
         part of the Project, at the time it was written.
-    4.  At any time during a Project if the Project Description changes
-        substantially, you must tell us, and a new Project Description
-        must be agreed in writing.
-    5.  If the Product Description is amended during the Project, the
-        Sprints Estimate must also be amended. If it is not, the Sprints
-        Estimate originally provided in the proposal will apply.
+    4.  At any time during a Project if the goals or user needs your
+        project is addressing change substantially, you must tell us,
+        and a new Project Description must be agreed in writing.
+    5.  If the Product Description is changed during the Project, dxw may
+        provide a new Sprints Estimate.
     6.  Neither the Project Description nor the proposal is a
         specification and neither commit us to providing any particular
         features or deliverables, other than the provision of Sprints.
