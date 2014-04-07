@@ -10,22 +10,29 @@
 2. ### Definitions
 
     Emergency Support Ticket
-    :   Flabble-jabble
+    :   An Emergency Support Ticket is a Support Ticket created by emailing
+        support-emergency@dxw.com. Its creation will result in alerts
+        being sent to members of dxw staff at any time of day or night.
 
     Service Usage
-    :   Bloodle
+    :   Service Usage is the accumulated quantity of hours of computing time
+        and gigabytes of data stored or transferred in a given period.
 
     Support Ticket
-    :   asjdfhnaods
+    :   A Support Ticket is a task, created by completing an online form or
+        sending an email to support@dxw.com, which will be assigned to
+        a member of staff at dxw for their attention or action.
 
     Time Allowance
-    :   Floodle
+    :   The Time Allowance is a quantity of time allocated for use in
+        providing services under this contract.
 
     Overprovisioned Capacity
-    :   Blah
-
-
-
+    :   Overprovisioned Capacity is a quantity of computing time, or any
+        other resource, which is made available to your site but is in excess
+        of the quantity we believe your site will require. It is allocated
+        in order to reduce the risk of failure when sites are launched
+        whose capcity requirements are uncertain.
 
 3. ### Proposal
 
@@ -63,7 +70,6 @@
         3.  Understand hat the total fees over the life of the contract
             may vary according to your Service Usage and your
             instructions.
-        4.  Moar? TODO
 
 4. ### The service
 
@@ -86,7 +92,7 @@
         1.  Installation of WordPress plugin upgrades;
         2.  Monitoring of production logs for issues of concern;
         3.  WordPress plugin reviews;
-        4.  Installation of WordPress plugins subject to the terms in section TODO;
+        4.  Installation of WordPress plugins subject to the terms in section 8;
         5.  Minor modifications to theme files;
         6.  Assistance and advice on the usage of WordPress's administration area.
 
@@ -98,8 +104,7 @@
             service relies;
         2.  Changes to your site which constitute new functionality;
         3.  In any particular month, any of the services in clause 8
-            after the Time Allowance has been exceeded;
-        4.  TODO?
+            after the Time Allowance has been exceeded.
 
     2.  You agree that occasional unavailability of your site is not
         something that can reasonably be avoided.
@@ -120,7 +125,10 @@
     2.  dxw will not make any changes that reduce or remove the services
         described in clause 4.3 of this contract.
 
-    3.  If dxw makes a change to GovPress TODO BLAH - "you shouldn't care but if you do we'll sort it out unless you're being a dick"
+    3.  Francis - help? If dxw makes a change to GovPress - "you probably
+        won't notice or care but if you do or something goes wrong we'll
+        sort it out (unless you're being unreasonable)". Also such changes
+        are generally to make things better, so hopefully welcome. TODO
 
 6. ### Support
 
@@ -199,7 +207,29 @@
     11. The Time Allowance will have no bearing on dxw's provision of the
         services detailed in clauses 4.1.1, 4.1.2, 4.1.3 and 4.1.4.
 
-8. ### Suspension
+8. ### Installation of plugins
+
+    1.  The terms in this section only apply to you if your site is Fully
+        Managed, or if your Partly Managed service includes WordPress plugin
+        updates or installation.
+
+    2.  At any time, you may create a Support Ticket to ask us to install a
+        plugin on your site.
+
+    3.  If you ask dxw to install a plugin, we will conduct an assessment of
+        that plugin intended to give a broad understanding of the kinds of
+        security problems that plugin may have.
+
+    4.  Based on a plugin's assessment, dxw may refuse to install that plugin
+        or updates for that plugin.
+
+    5.  Plugin security assessments are intended only to give a broad
+        understanding of a plugin's security status. The results are opinions
+        only. dxw neither offers any guarantee that a plugin whose assessment
+        produced positive results does not contain security vulnerabilities,
+        nor vice versa.
+
+9. ### Suspension
 
     1.  dxw may suspend the services provided as part of this agreement if:
 
@@ -212,18 +242,6 @@
     2.  In the event that the services are suspended, dxw will replace your
         site with a message stating that your site is down for maintenance.
 
-9. ### Fees
-
-    1.  dxw's fees for infrastructure, as specified in your proposal,
-        will be calculated every calendar month and billed in arrears.
-
-    2.  dxw's fees for support, whether Fully Managed or Partly Managed,
-        will be billed each month in arrears.
-
-    3.  if any Surrounding Activies are being provided as part of this
-        contract, they will be billed on completion, or at points as
-        otherwise specified in your proposal.
-
 10. ### Required Materials
 
     1.  In order to resolve Support Tickets, there will occasionally be
@@ -233,35 +251,38 @@
     3.  If work on a Support Ticket cannot take place without Required
         Materials, we will suspend work on that ticket.
 
-8. ### Quality
+11. ### Quality
 
     1.  dxw will deliver work of a professional standard.
-    2.  dxw will make deliver code that is as free of bugs and security
-        vulnerabilities as is reasonably practical.
-    3.  dxw is insured against professional negligence to a value of
-        £1,000,000.
+    2.  dxw is insured against professional negligence to a value of
+        £1,000,000 (the "insured sum"). dxw would be willing to negotiate
+        an increase in the insured sum on condition that we were able to
+        pass on any corresponding increase in the premium.
 
-9. ### Limitation of liability
+12. ### Limitation of liability
 
     1.  dxw cannot guarantee perfect reliability.
     2.  dxw will deliver work that is as robust and reliable as is
         reasonably practical.
-    3.  You agree that all software of non-trivial size contains bugs,
+    3.  You acknowledge that all software of non-trivial size contains bugs,
         including security vulnerabilities, and that it is not
         reasonably practical to deliver bug-free software.
     4.  dxw will not be liable for any loss of profits or reputation
         that you suffer, directly or indirectly, as a consequence of any
         failure of the Product.
     5.  You agree that it is your responsibility to ensure that you put
-        in place measures that make you able to operate ion the event of
+        in place measures that make you able to operate in the event of
         any such failure. dxw can work with you to design or implement
-        such measures at your request. HMM TODO
+        such measures at your request for an agreed fee.
     6.  Nothing in this agreement should be read as excluding our
         liability for death or personal injury caused by our negligence.
     7.  In any event, dxw's total liability under this agreement is
-        limited to the total cost of the Project.
+        limited to the lesser of:
 
-10. ### Confidentiality
+        1. The total cost of the Project.
+        2. The insured sum.
+
+13. ### Confidentiality
 
     1.  dxw believe that it is best to be open.
     2.  dxw will generally not keep the details of your site
@@ -286,68 +307,45 @@
         us in writing as soon as is reasonably practical.
 
 
+14. ### Intellectual property in GovPress
+
+    1.  Francis - can you do this bit? In a nutshell: everything that is
+        part of GovPress is ours (unless it's someone else's) and in any
+        case, it's none of the client's business. Any time we spend doing
+        anything for them that's not on their site's source code is ours. TODO
+
+15. ### Intellectual property in your site
+
+    1.  Francis - ditto - had a go at this and got myself into a mess. This
+        should be the same as the IP section in the agency contract, except
+        that we shouldn't get a licence back on anything we didn't make (eg
+        when we're hosting something made by someone else). TODO
 
 
+16. ### Payments
 
-
-
-
-11. ### Intellectual property
-
-    1.  When creating the Product, dxw may reuse intellectual property
-        which was originally created during other Projects ("Reused
-        Materials").
-    2.  Work originally created for you may become Reused Materials in
-        other Products dxw creates.
-    3.  You do not become the owner of any Reused Materials.
-    4.  If Reused Materials form part of your Product, you are granted a
-        perpetual, irrevocable, non-exclusive, royalty-free licence for
-        the materials' use exclusively in your Product.
-    5.  If any materials dxw creates for you become Reused Materials,
-        you grant us a perpetual, irrevocable, non-exclusive,
-        royalty-free licence for the materials' use in any Product
-        created by dxw.
-    6.  dxw may use third party materials in your Product. In such cases
-        we will ensure that the materials are appropriately licenced.
-    7.  In the course of the Project, dxw may create materials that are
-        incidental to the Product. We create them to help us create the
-        Product, but they do not form a part of it. Intellectual
-        property in those materials is retained by us.
-    8.  dxw may place links or representative screenshots of the
-        materials we create for our clients along with their names or
-        logos on a dxw website or within other promotional material. To
-        the extent that these materials are owned by you, you agree to
-        grant us a perpetual, irrevocable, non-exclusive, royalty-free
-        licence that authorises this use.
-    9.  Subject to these terms, intellectual property in the materials
-        dxw creates for the you is owned by you and all other rights
-        reside with you.
-    10. With the exception of third party materials, dxw is not able to
-        enumerate the intellectual property your Product contains, or to
-        state which parts are owned by you and which are used under
-        licence.
-
-12. ### Payments
-
-    1.  dxw will issue invoices for Sprints on the day after the last
-        day of the Sprint.
-    2.  dxw will issue invoices for Surrounding Activities upon
-        completion.
-    3.  Invoices are payable within 14 days.
-    4.  dxw may charge interest on overdue invoices at 5% over the
+    1.  dxw's fees for infrastructure, as specified in your proposal,
+        will be calculated every calendar month based on your Service Usage
+        and billed in arrears.
+    2.  dxw's fees for support, whether Fully Managed or Partly Managed,
+        will be billed each month in arrears.
+    3.  if any Surrounding Activies are being provided as part of this
+        contract, they will be billed on completion, or at points as
+        otherwise specified in your proposal.
+    4.  Invoices are payable within 14 days.
+    5.  dxw may charge interest on overdue invoices at 5% over the
         Barclay's Bank base rate.
-    5.  dxw does not accept cheques. Valid payment methods are BACS
-        transfer or a credit or debit card.
-    6.  Credit and debit card payments are subject to a 2.5% fee, and
-        can only be accepted by prior agreement.
-    7.  All estimates exclude VAT unless otherwise specified.
+    6.  You shall make payment by BACS transfer or (if agreed in advance with
+        dxw) credit or debit card. dxw does not accept cheques.
+    7.  Credit and debit card payments are subject to a 2.5% fee.
+    8.  VAT (where applicable) is payable on, and in addition to, all sums due under this agreement.
 
-13. ### Circumstances beyond our control
+17. ### Circumstances beyond our control
 
     1.  dxw will not be liable for any failure caused by industrial
         action or other circumstances beyond our reasonable control.
 
-14. ### Changes to these terms
+18. ### Changes to these terms
 
     1.  dxw may vary these terms at any time upon giving you prior
         written notice.
@@ -359,23 +357,25 @@
     4.  This clause does not apply if it would violate the terms of a
         framework agreement of which this agreement forms a part.
 
-15. ### Proper law
+19. ### Proper law
 
     1.  This agreement is governed by English law and the parties agree
         that any disputes arising from the agreement will be subject to
         the exclusive jurisdiction of the courts of England and Wales.
 
-16. ### Headings
+20. ### Email
+    1.  Any reference to "in writing" includes email and excludes fax
+        transmissions.
+
+21. ### Headings
 
     1.  The section headings contained in this agreement are for
         reference only and shall not in any way affect the meaning or
         interpretation of this agreement.
 
-17. ### Whole agreement
+22. ### Whole agreement
 
-    1.  With the exception of any framework agreement of which this
-        agreement forms a part, this Agreement constitutes the entire
-        agreement between the us with respect to the Project, and
-        replaces any prior oral or written agreement which may exist.
-
-
+    1.  With the exception of any framework agreement of which this agreement forms a part,
+        this Agreement and the order summary that accompanies it constitute the entire
+        agreement between us with respect to the Project, and replaces any prior oral or
+        written agreement which may exist.
