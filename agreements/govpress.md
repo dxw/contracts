@@ -32,21 +32,24 @@
     1.  Before hosting a WordPress website, dxw will provide a proposal.
     2.  The proposal dxw provides will contain:
 
-        1.  Describe the steps dxw has taken to make an initial assessment
-            of the server capacity your site will require;
+        1.  A description of the steps dxw has taken to make an initial
+            assessment of the server capacity your site will require;
         2.  A recommendation for the number and size of the instances you
             will need, the size of your database and your initial file
             storage;
-        3.  Overprivisioned Capacity, if any;
-        4.  A description of the support dxw will provide: Fully
-            Managed or Partly Managed;
-        5.  If Partly Managed, an explanation of what services dxw will
+        3.  Details of Overprovisioned Capacity, if any;
+        4.  A statement of the support dxw will provide: Fully Managed
+            or Partly Managed;
+        5.  If Fully Managed, a description of the steps dxw has taken
+            to make an initial assessment of the support your site will
+            require, and thus to determin an initial Time Allowance.
+        6.  If Partly Managed, an explanation of what services dxw will
             and will not be providing under this contract;
-        6.  A breakdown of dxw's predicted monthly fees, showing separately
+        7.  A breakdown of dxw's predicted monthly fees, showing separately
             the fees for infrastructure, support, and any other services;
-        7.  A breakdown of any costs to migrate your site onto GovPress,
+        8.  A breakdown of any costs to migrate your site onto GovPress,
             if applicable;
-        8.  Any other information that we have agreed must be recorded
+        9.  Any other information that we have agreed must be recorded
             and agreed prior to the commencement of the Project.
 
     3.  The proposal dxw provides will represent our best understanding
@@ -68,27 +71,45 @@
 
         1.  A hosting service which makes your site available for access
             over the internet;
-        2.  Availability monitoring and response;
-        3.  Backups and backup restoration;
-        4.  Storage and deployment of your site's source code;
-        5.  Operating system and infrastructure upgrades and maintenance;
-        6.  Installation of WordPress core upgrades;
-        7.  A separate Staging Environment;
+        2.  Backups and backup restoration;
+        3.  Storage and deployment of your site's source code;
+        4.  A separate Staging Environment;
+        5.  Availability monitoring and response;
+        6.  Operating system and infrastructure upgrades and maintenance;
+        7.  Installation of WordPress core upgrades;
         8.  A support helpdesk.
 
-    2.  You agree that occasional unavailability is not something that can
-        reasonably be avoided.
+    2.  If your proposal specifies that the site we host will be Fully Managed,
+        dxw will provide the following services as part of this contract, in
+        addition to the services specified in clause 4.1:
+
+        1.  Installation of WordPress plugin upgrades;
+        2.  Monitoring of production logs for issues of concern;
+        3.  WordPress plugin reviews;
+        4.  Installation of WordPress plugins subject to the terms in section TODO;
+        5.  Minor modifications to theme files;
+        6.  Assistance and advice on the usage of WordPress's administration area.
+
+    3.  Unless otherwise agreed, dxw cannot under this contract provide any
+        service not specified in clause 4.1 or 4.2 unless it is specified
+        in the Proposal, including but not limited to:
+
+        1.  Support for any third-party services upon which your
+            service relies;
+        2.  Changes to your site which constitute new functionality;
+        3.  In any particular month, any of the services in clause 8
+            after the Time Allowance has been exceeded;
+        4.  TODO?
+
+    2.  You agree that occasional unavailability of your site is not
+        something that can reasonably be avoided.
 
     3.  Nonetheless, dxw will make every reasonable effort to ensure that
         your site is accessible over the internet 100% of the time.
 
-    4.  If, despite dxw's reasonable efforts, your site is unavailable
-        for any length of time, dxw will refund or waive the infrastructure
-        fees for any period of unavailability longer than one hour.
-
-    5.  dxw will provide support for your website, and any other service
-        detailed in your proposal. dxw's support service is described in
-        more detail in section 7 of this contract.
+    4.  If despite dxw's reasonable efforts your site becomes unavailable,
+        dxw will refund or waive the infrastructure fees for any period of
+        unavailability longer than one hour.
 
 5. ### Enhancement of the service
 
@@ -96,7 +117,10 @@
         notice. We will inform you as soon as is practical of any change
         which may have an impact upon your use of GovPress.
 
-    2.  If dxw makes a change to GovPress TODO BLAH - "you shouldn't care but if you do we'll sort it out unless you're being a dick"
+    2.  dxw will not make any changes that reduce or remove the services
+        described in clause 4.3 of this contract.
+
+    3.  If dxw makes a change to GovPress TODO BLAH - "you shouldn't care but if you do we'll sort it out unless you're being a dick"
 
 6. ### Support
 
@@ -109,7 +133,7 @@
     3.  All contact regarding the services dxw provides as part of this
         contract must be made via Support Tickets.
 
-    4.  You agree that any contact you make with us that is not via a
+    4.  You understand that any contact you make with us that is not via a
         Support Ticket may be overlooked or disregarded and that any
         consequent failure on our part to respond to you will not be
         a breach of this contract.
@@ -127,32 +151,55 @@
         may be considerably increased and your service may be disrupted
         for a prolonged period as a result.
 
-    8.  If your proposal specifies that the site we host will be Fully Managed,
-        dxw will provide the following services as part of this contract, in
-        addition to the services specified in clause 4.1:
+7. ### Time allowance
 
-        1.  Installation of WordPress plugin upgrades;
-        2.  Monitoring of production logs for issues of concern;
-        3.  WordPress plugin reviews;
-        4.  Installation of WordPress plugins subject to the terms in section TODO;
-        5.  Minor modifications to theme files;
-        6.  Assistance and advice on the usage of WordPress's administration area.
+    1.  dxw's initial fee for Fully Managed support is calculated from the
+        Time Allowance, which is based on our assessment of your site's
+        likely support requirements, as stated in the proposal.
 
-    9.  Unless otherwise agreed, dxw cannot:
+    2.  dxw will track time spent providing the services specified in this
+        contract in sufficient detail to be able to provide an approximation
+        of the time required to service your site in any given month.
 
-        1.  Provide support for any third-party services upon which your
-            service relies;
-        2.  Make changes to your site which constitute new functionality;
-        3.  In any particular month, perform any of the services in clause 8
-            after the Time Allowance has been exceeded;
-        4.  TODO?
+    3.  In any given month, dxw will carry out all of the services provided
+        under this contract with no additional fee, provided that the Time
+        Allowance has not been exceeded.
 
-    10. Pending tickets etc TODO
+    4.  In any given month, if dxw chooses to complete work in excess of the
+        Time Allowance, no additional fee will be payable. Any such work is
+        completed at dxw's absolute discretion and the fact that dxw does so on
+        some occasion will not imply that dxw will do so on subsequent occasions.
 
-8. ### Time limit
+    4.  In any given month, if dxw chooses not to complete work in excess of
+        the Time Allowance, we may notify you, and can complete that work if
+        additional fees are paid. dxw will not complete any such work without
+        your authorisation.
 
+    6.  The Time Allowance may be varied by agreement, and with a corresponding
+        change to dxw's fees.
 
-9. ### Suspension
+    7.  dxw will not ordinarily agree to a reduction in the Time Allowance if
+        to do so would impede our ability to provide services under this
+        to a professional standard.
+
+    8.  If your Time Allowance is reguarly exceeded, or almost exceeded, dxw
+        may notify you that this is the case, and request that the Time
+        Allowance be increased.
+
+    9.  If you do not agree to increase the Time Allowance, dxw may require
+        you to reduce the workload that your site generates; for example, by
+        submitting fewer Support Tickets.
+
+    10. The Time Allowance is calculated per month. Unusused time in one month
+        cannot be used in any subsequent month.
+
+    10. dxw may, for a fee, be able to advise you on alternative approaches
+        to managing your site that could reduce your operational costs.
+
+    11. The Time Allowance will have no bearing on dxw's provision of the
+        services detailed in clauses 4.1.1, 4.1.2, 4.1.3 and 4.1.4.
+
+8. ### Suspension
 
     1.  dxw may suspend the services provided as part of this agreement if:
 
@@ -165,14 +212,19 @@
     2.  In the event that the services are suspended, dxw will replace your
         site with a message stating that your site is down for maintenance.
 
-12. ### Fees
+9. ### Fees
 
-    1.  Infrastructure
-    2.  Basic stuffs
-    3.  Fully managed
-    4.  Surrounding Activities
+    1.  dxw's fees for infrastructure, as specified in your proposal,
+        will be calculated every calendar month and billed in arrears.
 
-13. ### Required Materials
+    2.  dxw's fees for support, whether Fully Managed or Partly Managed,
+        will be billed each month in arrears.
+
+    3.  if any Surrounding Activies are being provided as part of this
+        contract, they will be billed on completion, or at points as
+        otherwise specified in your proposal.
+
+10. ### Required Materials
 
     1.  In order to resolve Support Tickets, there will occasionally be
         Required Materials that you must provide.
