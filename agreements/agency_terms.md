@@ -15,7 +15,7 @@
         of time, and any Surrounding Activities you require.
 
     Acceptance Criteria
-    :   Acceptance Criteria document attributes of the Product which a
+    :   Acceptance Criteria are attributes of the Product, embodied in a document, that a
         Story must provide in order for the Story to be considered
         Finished.
 
@@ -27,8 +27,10 @@
     :   A Story is Finished when its Acceptance Criteria have been met.
 
     Product
-    :   The collection of software and services which, when operational,
+    :   The collection of services and software which, when operational,
         will meet the goals specified in your Project Description.
+
+<!-- A small niggle: software can be operational but, since you aren't hosting, services can't be, but you may have something more generic in mind, so I'll leave it. -->
 
     Project Description
     :   A Project Description is a written explanation of your Project's
@@ -62,14 +64,14 @@
 
     Story
     :   A Story is a description of some work to be completed. In order
-        for Story to be considered ready for implementation, it must
-        specify a user need, identify the user who has the need, and
+        for Story to be considered "ready" for implementation, it must:
+        specify a user need; identify the user who has the need; and
         describe some behaviour that (having been implemented) will meet
         that need.
 
     Surrounding Activities
     :   Surrounding Activities are services dxw provides as part of the
-        Project but are not part of a Sprint; for example user testing
+        Project which are not part of a Sprint; for example: assisting you with the definition and prioritisation of Stories at the start of the Project, user testing
         and discovery, penetration testing, research or business
         analysis.
 
@@ -81,16 +83,16 @@
         1.  The inital Project Description;
         2.  A recommendation for the duration of a Sprint, its
             Surrounding Activities and a number of developers;
-        3.  Our fees, based on the recommended Sprint;
+        3.  Our fees, including a per-Sprint fee (based on the recommended Sprint) and our fees for any Surrounding Activities;
         4.  An indication of when dxw is available to start the work and
             a Sprints Estimate;
         5.  Any other information that we have agreed must be recorded
             and agreed prior to the commencement of the Project.
 
-    3.  The Project Description dxw provides will represent our best
+    3. 	Any Project Description that we provide will represent our best
         understanding of the work that you require to be completed as
         part of the Project, at the time it was written.
-    4.  At any time during a Project if the goals or user needs your
+    4.  At any time during a Project if the goals or user needs that your
         project is addressing change substantially, you must tell us,
         and a new Project Description must be agreed in writing.
     5.  If the Project Description is changed during the Project, dxw may
@@ -107,15 +109,15 @@
         the proposal.
     3.  At any time, you may request that the length of the Sprint or
         the number of developers be changed. Subject to our available
-        resources and your acceptance of the revised sprint fees,
-        dxw will accommodate such requests.
-    4.  At the beginning of the Project, dxw will work with you to
+        resources and your acceptance of a revised per-sprint fee,
+        we dxw will accommodate such requests.
+    4.  At the beginning of the Project, we will work with you (as a Surrounding Activity) to
         define an initial set of Stories for implementation. This list
         of Stories form the Project's Backlog.
-    5.  At the beginning of each Sprint, dxw will work with you to
+    5.  At the beginning of each Sprint, we will work with you (as a Surrounding Activity) to
         prioritise the Stories in the Backlog and agree Acceptance
         Criteria.
-    6.  At any time, you may add Stories to the Backlog.
+    6.  At any time, you may add Stories to the Backlog provided that we have agreed the Acceptance Criteria.
     7.  At any time, you may change the priority of Stories in the
         Backlog.
     8.  During each Sprint, dxw will implement Stories, starting with
@@ -135,7 +137,7 @@
 
         1.  You may not change the Story without dxw's prior consent;
         2.  You may instruct us to cease work on the Story;
-        3.  dxw will make every reasonable effort to complete the Story
+        3.  we will make all reasonable efforts, using the resources allocated to the Sprint,<!-- you could do better if you allocated other resources, clearly you don't want to do that --> to complete the Story
             within the Sprint.
 
     12. After dxw believe a Story has been Finished:
@@ -170,16 +172,16 @@
             to contact, including an escalation contact.
 
     2.  At any time, you may request further Sprints. Subject to our
-        availability, dxw will make every reasonable effort to schedule
+        availability, dxw will make reasonable efforts to schedule
         Sprints at a time that is convenient to you.
     3.  Whenever further Sprints are requested, dxw will provide an
-        additional order summary.
+        additional order summary for those Sprints.
     4.  Upon your acceptance of an order summary, the specified Sprints
         will be booked.
     5.  If you cancel a Sprint which has been booked, a cancellation fee
         will immediately become payable. The cancellation fee is 35% of
         the cost of the Sprint.
-    6.  If the upper value in the Sprints Estimate is met and the
+    6.  If the upper value in the Sprints Estimate is reached and the
         Product falls materially short of the standard specified in the
         original Project Description ("Unacceptable"), dxw will discount
         the cost of further sprints by 35%.
@@ -187,10 +189,7 @@
         discounts will apply.
     8.  dxw reserves the right not to provide discounted Sprints if:
 
-        1.  The Product is Unacceptable primarily due to your
-            negligence, poor project management, unresponsiveness,
-            failure to provide Required Materials or failure to
-            understand or describe your requirements;
+        1.  The Product is Unacceptable in part or in whole because of your failure to "engage" (see below); or
         2.  You have breached the terms of this agreement.
 
 6. ### Required Materials
@@ -204,6 +203,16 @@
         Backlog. This may cause a Story not to be delivered in the
         Sprint you have specified.
 
+6. ### Engagement
+
+    1.  It is essential that you fully engage with our development process in order for Project completion to take place. In this context "engage" includes promptly:
+    
+	1.  responding to our enquiries.
+
+	2.  indicating whether you Reject a Story or not
+
+	3.  supplying to us any Required Materials
+
 7. ### Subcontracting
 
     1.  At dxw's sole discretion, freelancers or contractors may be used
@@ -211,7 +220,7 @@
         Surrounding Activities
     2.  dxw will not outsource any Sprint or Surrounding Activity
         without your prior agreement, which must not be unreasonably
-        withheld.
+        withheld or delayed.
 
 8. ### Quality
 
@@ -219,27 +228,31 @@
     2.  dxw will make deliver code that is as free of bugs and security
         vulnerabilities as is reasonably practical.
     3.  dxw is insured against professional negligence to a value of
-        £1,000,000.
+        £1,000,000 (the "insured sum"). We would be willing to negotiate an increase in the insured sum on condition that we were able to pass on any corresponding increase in the premium.
 
 9. ### Limitation of liability
 
     1.  dxw cannot guarantee perfect reliability.
     2.  dxw will deliver work that is as robust and reliable as is
         reasonably practical.
-    3.  You agree that all software of non-trivial size contains bugs,
+    3.  You acknowledge that all software of non-trivial size contains bugs,
         including security vulnerabilities, and that it is not
         reasonably practical to deliver bug-free software.
     4.  dxw will not be liable for any loss of profits or reputation
         that you suffer, directly or indirectly, as a consequence of any
         failure of the Product.
     5.  You agree that it is your responsibility to ensure that you put
-        in place measures that make you able to operate ion the event of
+        in place measures that make you able to operate in the event of
         any such failure. dxw can work with you to design or implement
-        such measures at your request.
+        such measures at your request for an agreed fee.
     6.  Nothing in this agreement should be read as excluding our
         liability for death or personal injury caused by our negligence.
     7.  In any event, dxw's total liability under this agreement is
-        limited to the total cost of the Project.
+        limited to the lesser of:
+
+	1. The total cost of the Project.
+
+	2. The insured sum.
 
 10. ### Confidentiality
 
@@ -267,38 +280,25 @@
 
 11. ### Intellectual property
 
-    1.  When creating the Product, dxw may reuse intellectual property
-        which was originally created during other Projects ("Reused
-        Materials").
-    2.  Work originally created for you may become Reused Materials in
-        other Products dxw creates.
-    3.  You do not become the owner of any Reused Materials.
-    4.  If Reused Materials form part of your Product, you are granted a
-        perpetual, irrevocable, non-exclusive, royalty-free licence for
-        the materials' use exclusively in your Product.
-    5.  If any materials dxw creates for you become Reused Materials,
-        you grant us a perpetual, irrevocable, non-exclusive,
-        royalty-free licence for the materials' use in any Product
-        created by dxw.
-    6.  dxw may use third party materials in your Product. In such cases
-        we will ensure that the materials are appropriately licenced.
-    7.  In the course of the Project, dxw may create materials that are
-        incidental to the Product. We create them to help us create the
-        Product, but they do not form a part of it. Intellectual
-        property in those materials is retained by us.
+    1.  Intellectual property in work created by us in the course of working on a Story and that also forms a part of the Product ("Project IP") shall,  (as a future assignment of intellectual property) belong to you, subject to the licence back set out in this agreement.
+    2.  "Background IP" means any intellectual property used in the Product that is not Project IP and "Reused IP" means any Background IP which we own.
+<!-- Reused IP will only be IP in the product because that is part of the definition of background IP -->
+    3.  You do not become the owner of any Background IP.
+    4.  We grant you a
+        perpetual, irrevocable, non-exclusive, royalty-free licence to the Reused IP for their use exclusively in the Product.
+    5.  You grant us a perpetual, irrevocable, non-exclusive,
+        royalty-free licence for use of the Project IP in any Product
+        created by dxw, including the right to licence the use of the Project IP in any Product ("the licence back").
+    6.  We will take all reasonable steps to ensure that Background IP that is not Reused IP is licensed in such a way that you are able to make use of it as part of the Product. 
     8.  dxw may place links or representative screenshots of the
         materials we create for our clients along with their names or
         logos on a dxw website or within other promotional material. To
         the extent that these materials are owned by you, you agree to
         grant us a perpetual, irrevocable, non-exclusive, royalty-free
         licence that authorises this use.
-    9.  Subject to these terms, intellectual property in the materials
-        dxw creates for the you is owned by you and all other rights
-        reside with you.
-    10. With the exception of third party materials, dxw is not able to
+    10. We are not able to
         enumerate the intellectual property your Product contains, or to
-        state which parts are owned by you and which are used under
-        licence.
+        state which parts are owned by you and which are Project IP or Reused IP.
 
 12. ### Payments
 
@@ -309,11 +309,9 @@
     3.  Invoices are payable within 14 days.
     4.  dxw may charge interest on overdue invoices at 5% over the
         Barclay's Bank base rate.
-    5.  dxw does not accept cheques. Valid payment methods are BACS
-        transfer or a credit or debit card.
-    6.  Credit and debit card payments are subject to a 2.5% fee, and
-        can only be accepted by prior agreement.
-    7.  All estimates exclude VAT unless otherwise specified.
+    5.  You shall make payment by BACS transfer or (if agreed in advance with dxw) credit or debit card). dxw does not accept cheques. 
+    6.  Credit and debit card payments are subject to a 2.5% fee.
+    7.  VAT (where applicable) is payable on, and in addition to, all sums due under this agreement.
 
 13. ### Circumstances beyond our control
 
@@ -347,8 +345,8 @@
 17. ### Whole agreement
 
     1.  With the exception of any framework agreement of which this
-        agreement forms a part, this Agreement constitutes the entire
-        agreement between the us with respect to the Project, and
+        agreement forms a part, this Agreement and the order summary that accompanies it constitute the entire
+        agreement between us with respect to the Project, and
         replaces any prior oral or written agreement which may exist.
 
 
