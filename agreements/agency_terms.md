@@ -117,9 +117,8 @@
     5.  At the beginning of each Sprint, we will work with you (as a Surrounding Activity) to
         prioritise the Stories in the Backlog and agree Acceptance
         Criteria.
-    6.  At any time, you may add Stories to the Backlog provided that we have agreed the Acceptance Criteria.
-    7.  At any time, you may change the priority of Stories in the
-        Backlog.
+    6.  At any time, you may add Stories to the Backlog.
+    7.  At any time, you may change the priority of Stories in the Backlog.
     8.  During each Sprint, dxw will implement Stories, starting with
         the most important Story in the Backlog.
     9.  At the beginning of each Sprint, dxw will give an indication of
@@ -137,8 +136,8 @@
 
         1.  You may not change the Story without dxw's prior consent;
         2.  You may instruct us to cease work on the Story;
-        3.  we will make all reasonable efforts, using the resources allocated to the Sprint,<!-- you could do better if you allocated other resources, clearly you don't want to do that --> to complete the Story
-            within the Sprint.
+        3.  we will make all reasonable efforts, using the resources allocated
+            to the Sprint, to complete the Story within the Sprint.
 
     12. After dxw believe a Story has been Finished:
 
@@ -189,7 +188,8 @@
         discounts will apply.
     8.  dxw reserves the right not to provide discounted Sprints if:
 
-        1.  The Product is Unacceptable in part or in whole because of your failure to "engage" (see below); or
+        1.  The Product is Unacceptable in part or in whole because of your
+            failure to "engage" (see below); or
         2.  You have breached the terms of this agreement.
 
 6. ### Required Materials
@@ -205,13 +205,13 @@
 
 6. ### Engagement
 
-    1.  It is essential that you fully engage with our development process in order for Project completion to take place. In this context "engage" includes promptly:
-    
-	1.  responding to our enquiries.
+    1.  It is essential that you fully engage with our development process in
+        order for Project completion to take place. In this context "engage"
+        includes promptly:
 
-	2.  indicating whether you Reject a Story or not
-
-	3.  supplying to us any Required Materials
+    	1.  responding to our enquiries.
+    	2.  indicating whether you Reject a Story or not
+    	3.  supplying to us any Required Materials
 
 7. ### Subcontracting
 
@@ -250,9 +250,8 @@
     7.  In any event, dxw's total liability under this agreement is
         limited to the lesser of:
 
-	1. The total cost of the Project.
-
-	2. The insured sum.
+    	1. The total cost of the Project.
+    	2. The insured sum.
 
 10. ### Confidentiality
 
@@ -280,25 +279,30 @@
 
 11. ### Intellectual property
 
-    1.  Intellectual property in work created by us in the course of working on a Story and that also forms a part of the Product ("Project IP") shall,  (as a future assignment of intellectual property) belong to you, subject to the licence back set out in this agreement.
-    2.  "Background IP" means any intellectual property used in the Product that is not Project IP and "Reused IP" means any Background IP which we own.
-<!-- Reused IP will only be IP in the product because that is part of the definition of background IP -->
+    1.  Intellectual property in work created by us in the course of working on
+        a Story and that also forms a part of the Product ("Project IP") shall,
+        (as a future assignment of intellectual property) belong to you, subject
+        to the licence back set out in this agreement.
+    2.  "Background IP" means any intellectual property used in the Product that
+        is not Project IP and "Reused IP" means any Background IP which we own.
     3.  You do not become the owner of any Background IP.
-    4.  We grant you a
-        perpetual, irrevocable, non-exclusive, royalty-free licence to the Reused IP for their use exclusively in the Product.
-    5.  You grant us a perpetual, irrevocable, non-exclusive,
-        royalty-free licence for use of the Project IP in any Product
-        created by dxw, including the right to licence the use of the Project IP in any Product ("the licence back").
-    6.  We will take all reasonable steps to ensure that Background IP that is not Reused IP is licensed in such a way that you are able to make use of it as part of the Product. 
-    8.  dxw may place links or representative screenshots of the
-        materials we create for our clients along with their names or
-        logos on a dxw website or within other promotional material. To
-        the extent that these materials are owned by you, you agree to
-        grant us a perpetual, irrevocable, non-exclusive, royalty-free
-        licence that authorises this use.
-    10. We are not able to
-        enumerate the intellectual property your Product contains, or to
-        state which parts are owned by you and which are Project IP or Reused IP.
+    4.  We grant you a perpetual, irrevocable, non-exclusive, royalty-free licence
+        to the Reused IP for their use exclusively in the Product.
+    5.  You grant us a perpetual, irrevocable, non-exclusive, royalty-free licence
+        for use of the Project IP in any Product created by dxw, including the
+        right to licence the use of the Project IP in any Product ("the licence
+        back").
+    6.  We will take all reasonable steps to ensure that Background IP that is
+        not Reused IP is licensed in such a way that you are able to make use of
+        it as part of the Product.
+    8.  dxw may place links or representative screenshots of the materials we create
+        for our clients along with their names or logos on a dxw website or within
+        other promotional material. To the extent that these materials are owned by
+        you, you agree to grant us a perpetual, irrevocable, non-exclusive,
+        royalty-free licence that authorises this use.
+    10. We are neither able to enumerate the intellectual property your Product
+        contains, nor to state which parts are owned by you and which are Project
+        IP or Reused IP.
 
 12. ### Payments
 
@@ -309,7 +313,8 @@
     3.  Invoices are payable within 14 days.
     4.  dxw may charge interest on overdue invoices at 5% over the
         Barclay's Bank base rate.
-    5.  You shall make payment by BACS transfer or (if agreed in advance with dxw) credit or debit card). dxw does not accept cheques. 
+    5.  You shall make payment by BACS transfer or (if agreed in advance with dxw)
+        credit or debit card. dxw does not accept cheques.
     6.  Credit and debit card payments are subject to a 2.5% fee.
     7.  VAT (where applicable) is payable on, and in addition to, all sums due under this agreement.
 
@@ -336,17 +341,22 @@
         that any disputes arising from the agreement will be subject to
         the exclusive jurisdiction of the courts of England and Wales.
 
-16. ### Headings
+16. ### Email
+    1.  Any reference to "in writing" includes email and excludes fax
+        transmissions.
+
+
+17. ### Headings
 
     1.  The section headings contained in this agreement are for
         reference only and shall not in any way affect the meaning or
         interpretation of this agreement.
 
-17. ### Whole agreement
+18. ### Whole agreement
 
-    1.  With the exception of any framework agreement of which this
-        agreement forms a part, this Agreement and the order summary that accompanies it constitute the entire
-        agreement between us with respect to the Project, and
-        replaces any prior oral or written agreement which may exist.
+    1.  With the exception of any framework agreement of which this agreement forms a part,
+        this Agreement and the order summary that accompanies it constitute the entire
+        agreement between us with respect to the Project, and replaces any prior oral or
+        written agreement which may exist.
 
 
