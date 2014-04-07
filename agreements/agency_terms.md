@@ -30,8 +30,6 @@
     :   The collection of services and software which, when operational,
         will meet the goals specified in your Project Description.
 
-<!-- A small niggle: software can be operational but, since you aren't hosting, services can't be, but you may have something more generic in mind, so I'll leave it. -->
-
     Project Description
     :   A Project Description is a written explanation of your Project's
         goals, the user needs you are addressing and the nature of the
@@ -209,9 +207,9 @@
         order for Project completion to take place. In this context "engage"
         includes promptly:
 
-    	1.  responding to our enquiries.
-    	2.  indicating whether you Reject a Story or not
-    	3.  supplying to us any Required Materials
+        1.  Responding to our enquiries;
+        2.  Rejecting and Accepting Stories in good time;
+        3.  Supplying to us any Required Materials.
 
 7. ### Subcontracting
 
@@ -250,8 +248,8 @@
     7.  In any event, dxw's total liability under this agreement is
         limited to the lesser of:
 
-    	1. The total cost of the Project.
-    	2. The insured sum.
+        1. The total cost of the Project.
+        2. The insured sum.
 
 10. ### Confidentiality
 
@@ -344,7 +342,6 @@
 16. ### Email
     1.  Any reference to "in writing" includes email and excludes fax
         transmissions.
-
 
 17. ### Headings
 
