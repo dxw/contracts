@@ -10,9 +10,28 @@
 2. ### Definitions
 
     Emergency Support Ticket
-    :   An Emergency Support Ticket is a Support Ticket created by emailing
+    :   An Emergency Support Ticket is a Support Ticket created when an email is sent to <!-- better: when it arrives, but I think this is good enoguh -->
         support-emergency@dxw.com. Its creation will result in alerts
         being sent to members of dxw staff at any time of day or night.
+
+    Govpress
+    :	The software and hardware platform, including WordPress, on which dxw will host your website is known as Govpress.
+
+    Initial Proposal
+    : 	The Initial Proposal is Proposal supplied by dxw under clause 3.1.
+
+    Overprovisioned Capacity
+    :   Overprovisioned Capacity is a quantity of computing time, or any
+        other resource, which is made available to your site but is in excess
+        of the quantity we believe your site will require. It is allocated
+        in order to reduce the risk of failure when sites are launched
+        whose capacity requirements are uncertain.
+
+    Proposal
+    :	A Proposal is a document containing the information listed in clause 3.2.
+
+    Service Level Agreement
+    :	Service Level Agreement refers to the service levels promised either in the order summary or [_I am not sure where the SLA comes from, if it is published rather than included in an order summary then that could be indicated here_]
 
     Service Usage
     :   Service Usage is the accumulated quantity of hours of computing time
@@ -27,20 +46,13 @@
     :   The Time Allowance is a quantity of time allocated for use in
         providing services under this contract.
 
-    Overprovisioned Capacity
-    :   Overprovisioned Capacity is a quantity of computing time, or any
-        other resource, which is made available to your site but is in excess
-        of the quantity we believe your site will require. It is allocated
-        in order to reduce the risk of failure when sites are launched
-        whose capcity requirements are uncertain.
-
 3. ### Proposal
 
-    1.  Before hosting a WordPress website, dxw will provide a proposal.
-    2.  The proposal dxw provides will contain:
+    1.  Before hosting a WordPress website, dxw will provide the Initial Proposal.
+    2.  The Initial Proposal will contain:
 
         1.  A description of the steps dxw has taken to make an initial
-            assessment of the server capacity your site will require;
+            assessment of the server capacity your site is likely to require;
         2.  A recommendation for the number and size of the instances you
             will need, the size of your database and your initial file
             storage;
@@ -49,7 +61,7 @@
             or Partly Managed;
         5.  If Fully Managed, a description of the steps dxw has taken
             to make an initial assessment of the support your site will
-            require, and thus to determin an initial Time Allowance.
+            require, and thus to determining an initial Time Allowance.
         6.  If Partly Managed, an explanation of what services dxw will
             and will not be providing under this contract;
         7.  A breakdown of dxw's predicted monthly fees, showing separately
@@ -65,7 +77,7 @@
 
         1.  Agree that our recommendations are appropriate based on the
             information available;
-        2.  Understand that the fees quoted are predicions based on the
+        2.  Understand that the breakdown of fees in the Proposal is a predicion based on the
             assumptions made in the proposal;
         3.  Understand hat the total fees over the life of the contract
             may vary according to your Service Usage and your
@@ -96,7 +108,7 @@
         5.  Minor modifications to theme files;
         6.  Assistance and advice on the usage of WordPress's administration area.
 
-    3.  Unless otherwise agreed, dxw cannot under this contract provide any
+    3.  Unless otherwise agreed, dxw will not, under this contract, provide any
         service not specified in clause 4.1 or 4.2 unless it is specified
         in the Proposal, including but not limited to:
 
@@ -122,13 +134,10 @@
         notice. We will inform you as soon as is practical of any change
         which may have an impact upon your use of GovPress.
 
-    2.  dxw will not make any changes that reduce or remove the services
-        described in clause 4.3 of this contract.
+    2.  dxw will not make any changes that remove or materially impair the supply of the services
+        described in clauses 4.1 and 4.2 of this contract.
 
-    3.  Francis - help? If dxw makes a change to GovPress - "you probably
-        won't notice or care but if you do or something goes wrong we'll
-        sort it out (unless you're being unreasonable)". Also such changes
-        are generally to make things better, so hopefully welcome. TODO
+    3.  Changes made by dxw under this clause 5 will normally have no detectable effect on the operation of your site. If you make a reasonable request to us to dix a problem with the operation of your site that has arisen out of any change we have made to GovPress, we will make reasonable efforts to fix the reported problem.
 
 6. ### Support
 
@@ -176,18 +185,18 @@
     4.  In any given month, if dxw chooses to complete work in excess of the
         Time Allowance, no additional fee will be payable. Any such work is
         completed at dxw's absolute discretion and the fact that dxw does so on
-        some occasion will not imply that dxw will do so on subsequent occasions.
+        one occasion will not imply that dxw will do so on subsequent occasions.
 
     4.  In any given month, if dxw chooses not to complete work in excess of
-        the Time Allowance, we may notify you, and can complete that work if
-        additional fees are paid. dxw will not complete any such work without
+        the Time Allowance, we may notify you, and, subject to our availability, wil complete that work if
+        dxw's fees for the additional work are paid. dxw will not complete any such work without
         your authorisation.
 
     6.  The Time Allowance may be varied by agreement, and with a corresponding
         change to dxw's fees.
 
     7.  dxw will not ordinarily agree to a reduction in the Time Allowance if
-        to do so would impede our ability to provide services under this
+        to do so would impede our ability to provide services under this agreement
         to a professional standard.
 
     8.  If your Time Allowance is reguarly exceeded, or almost exceeded, dxw
@@ -198,8 +207,8 @@
         you to reduce the workload that your site generates; for example, by
         submitting fewer Support Tickets.
 
-    10. The Time Allowance is calculated per month. Unusused time in one month
-        cannot be used in any subsequent month.
+    10. The Time Allowance is calculated per month. Unusused time is not carried over and may not
+    	be used in any subsequent month.
 
     10. dxw may, for a fee, be able to advise you on alternative approaches
         to managing your site that could reduce your operational costs.
@@ -220,20 +229,20 @@
         that plugin intended to give a broad understanding of the kinds of
         security problems that plugin may have.
 
-    4.  Based on a plugin's assessment, dxw may refuse to install that plugin
+    4.  Based on dxw's assessment of a plugin, dxw may refuse to install that plugin
         or updates for that plugin.
 
     5.  Plugin security assessments are intended only to give a broad
         understanding of a plugin's security status. The results are opinions
         only. dxw neither offers any guarantee that a plugin whose assessment
         produced positive results does not contain security vulnerabilities,
-        nor vice versa.
+        nor that negative results arising from our assessment of a plugin necessarily implies that it does contain security vulnerabilities. 
 
 9. ### Suspension
 
     1.  dxw may suspend the services provided as part of this agreement if:
 
-        1.  You fail to pay invoices whose value is greater than or equal
+        1.  You fail to pay invoices whose total value is greater than or equal
             to our fee for two average months' usage of GovPress;
         2.  As a last resort, it is necessary for us to do so in order to
             protect your data or another GovPress user's information
@@ -309,17 +318,19 @@
 
 14. ### Intellectual property in GovPress
 
-    1.  Francis - can you do this bit? In a nutshell: everything that is
-        part of GovPress is ours (unless it's someone else's) and in any
-        case, it's none of the client's business. Any time we spend doing
-        anything for them that's not on their site's source code is ours. TODO
+    1.  Except as provided for in clause 15, nothing in this agreement is intended to transfer any intellectual property right.
+
+    2.	To the extent that it is able (either through ownership or because it is licensed under a licence that permits sublicensing) dxw licenses all intellectual property rights in GovPress to you for the sole purpose of carrying out this agreement. 
+
+    3.	To the extent that it is not able to give the licence in 14.2 above, dxw has taken reasonable steps to check that all intellectual property rights owned by third parties in GovPress permit the dxw and you to enter into this agreement and for you to operate your site through GovPress as envisaged under this agreement. 
 
 15. ### Intellectual property in your site
 
-    1.  Francis - ditto - had a go at this and got myself into a mess. This
-        should be the same as the IP section in the agency contract, except
-        that we shouldn't get a licence back on anything we didn't make (eg
-        when we're hosting something made by someone else). TODO
+    1.  To the extent that you are able, you grant us a sufficient licence over any material you supply to us, to allow us to host your site on GovPress for the duration of this agreement.
+
+    2. 	To the extent that you are unable to grant the licence under clause 15.1 above, you shall take all reasonable steps to ensure that any material supplied to us that is affected by third party intellectual property rights, may be used as part of the operation of your site under this agreement.
+
+    3.	Where, under this agreement,  we create works, such as computer programs and documentation, that were specifically written for and incorporated in your site, then we assign to you (as a future assignment of copyright) the copyright in such works, subject to a licence from you to dxw to use any works assigned by in the course of our business and, in particular, as part of any website we may host.
 
 
 16. ### Payments
