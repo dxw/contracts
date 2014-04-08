@@ -10,7 +10,7 @@
 2. ### Definitions
 
     Emergency Support Ticket
-    :   An Emergency Support Ticket is a Support Ticket created when an email is sent to <!-- better: when it arrives, but I think this is good enoguh -->
+    :   An Emergency Support Ticket is a Support Ticket created when an email is sent to
         support-emergency@dxw.com. Its creation will result in alerts
         being sent to members of dxw staff at any time of day or night.
 
@@ -31,11 +31,17 @@
     :	A Proposal is a document containing the information listed in clause 3.2.
 
     Service Level Agreement
-    :	Service Level Agreement refers to the service levels promised either in the order summary or [_I am not sure where the SLA comes from, if it is published rather than included in an order summary then that could be indicated here_]
+    :	Service Level Agreement refers to the document available at http://dext.ly/sla,
+        which sets out our responsiveness targets.
 
     Service Usage
     :   Service Usage is the accumulated quantity of hours of computing time
         and gigabytes of data stored or transferred in a given period.
+
+    Staging Environment
+    :   A Staging Environment is a private copy of your live website, which
+        can be used to test changes or new content in private before making
+        changes to your publicly available live website.
 
     Support Ticket
     :   A Support Ticket is a task, created by completing an online form or
@@ -236,14 +242,14 @@
         understanding of a plugin's security status. The results are opinions
         only. dxw neither offers any guarantee that a plugin whose assessment
         produced positive results does not contain security vulnerabilities,
-        nor that negative results arising from our assessment of a plugin necessarily implies that it does contain security vulnerabilities. 
+        nor that negative results arising from our assessment of a plugin necessarily implies that it does contain security vulnerabilities.
 
 9. ### Suspension
 
     1.  dxw may suspend the services provided as part of this agreement if:
 
         1.  You fail to pay invoices whose total value is greater than or equal
-            to our fee for two average months' usage of GovPress;
+            to our total fee for the preceeding two months' usage of GovPress;
         2.  As a last resort, it is necessary for us to do so in order to
             protect your data or another GovPress user's information
             security, or to protect other users of the internet.
@@ -320,9 +326,9 @@
 
     1.  Except as provided for in clause 15, nothing in this agreement is intended to transfer any intellectual property right.
 
-    2.	To the extent that it is able (either through ownership or because it is licensed under a licence that permits sublicensing) dxw licenses all intellectual property rights in GovPress to you for the sole purpose of carrying out this agreement. 
+    2.	To the extent that it is able (either through ownership or because it is licensed under a licence that permits sublicensing) dxw licenses all intellectual property rights in GovPress to you for the sole purpose of carrying out this agreement.
 
-    3.	To the extent that it is not able to give the licence in 14.2 above, dxw has taken reasonable steps to check that all intellectual property rights owned by third parties in GovPress permit the dxw and you to enter into this agreement and for you to operate your site through GovPress as envisaged under this agreement. 
+    3.	To the extent that it is not able to give the licence in 14.2 above, dxw has taken reasonable steps to check that all intellectual property rights owned by third parties in GovPress permit the dxw and you to enter into this agreement and for you to operate your site through GovPress as envisaged under this agreement.
 
 15. ### Intellectual property in your site
 
