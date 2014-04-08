@@ -128,13 +128,13 @@
         1.  It is ready (see clause 2.12);
         2.  It has agreed Acceptance Criteria;
         3.  All Required Materials for the Story's implementation have
-            been provided to us
+            been provided to us.
 
     11. After a Story has been Started:
 
         1.  You may not change the Story without dxw's prior consent;
         2.  You may instruct us to cease work on the Story;
-        3.  we will make all reasonable efforts, using the resources allocated
+        3.  We will make all reasonable efforts, using the resources allocated
             to the Sprint, to complete the Story within the Sprint.
 
     12. After dxw believe a Story has been Finished:
@@ -215,7 +215,7 @@
 
     1.  At dxw's sole discretion, freelancers or contractors may be used
         in place of dxw employees in order to complete Sprints or
-        Surrounding Activities
+        Surrounding Activities.
     2.  dxw will not outsource any Sprint or Surrounding Activity
         without your prior agreement, which must not be unreasonably
         withheld or delayed.
@@ -260,20 +260,20 @@
         1.  The fact that dxw has a commercial relationship with you;
         2.  The nature and goals of your Project;
         3.  Your Project's likely completion date(s);
-        4.  The cost of your Project
+        4.  The cost of your Project.
 
     3.  However, dxw do regard the following as confidential:
 
         1.  The specific content of documents or copy that will be
             published on any of your websites that is not yet publicly
             available, most especially the content of forthcoming
-            strategy or policy announcements
-        2.  Personal data dxw aquires during the course of the Project
+            strategy or policy announcements;
+        2.  Personal data dxw aquires during the course of the Project;
         3.  The content or existence of any document you send to us that
-            is protectively marked
+            is protectively marked.
 
     4.  If you have addional confidentiality requirements, you must tell
-        us in writing as soon as is reasonably practical
+        us in writing as soon as is reasonably practical.
 
 11. ### Intellectual property
 
