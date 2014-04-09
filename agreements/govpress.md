@@ -378,8 +378,7 @@
         dxw) credit or debit card. dxw does not accept cheques.
     6.  Credit and debit card payments are subject to a 2.5% fee.
     7.  dxw issues invoices by email. If you require a paper invoice to be
-        issued, a fee of 2.5% of the value of the invoice (exclusive of VAT)
-        shall be payable.
+        issued, dxw may charge an additional fee.
     8.  VAT (where applicable) is payable on, and in addition to, all sums
         due under this agreement.
 

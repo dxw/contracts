@@ -145,7 +145,10 @@
     4.  You shall make payment by BACS transfer or (if agreed in advance with dxw)
         credit or debit card. dxw does not accept cheques.
     5.  Credit and debit card payments are subject to a 2.5% fee.
-    6.  VAT (where applicable) is payable on, and in addition to, all sums due under this agreement.
+    6.  VAT (where applicable) is payable on, and in addition to, all sums
+        due under this agreement.
+    7.  dxw issues invoices by email. If you require a paper invoice to be
+        issued, dxw may charge an additional fee.
 
 12. ### Circumstances beyond our control
 
