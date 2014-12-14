@@ -44,7 +44,7 @@
         7.  Installation of WordPress core and plugin upgrades;
         8.  Assistance and advice on the usage of WordPress's administration area.
 
-    2.  Unless otherwise agreed and confirmed in writing, dxw will not, under this
+    2.  Unless otherwise agreed in writing, dxw will not, under this
         contract, provide any service not specified in clause 3.1.
 
 4. ### Availability
@@ -56,11 +56,11 @@
         GovSite is accessible over the internet 100% of the time, excluding periods
         of planned maintenance.
 
-    3.  If despite dxw's reasonable efforts your website becomes unavailable outside
+    3.  If despite dxw's reasonable efforts your website fails to operate outside
         of a planned maintenance period, dxw will on request refund or waive the fees
         for GovSite for any period of unavailability longer than one hour.
 
-    4.  From time to time, we may be required to make GovSite unavailable in order to
+    4.  From time to time, we may need to make GovSite unavailable in order to
         carry out essential maintenance. dxw will make every reasonable effort to
         give you as much notice as possible when planned unavailability will occur,
         and will complete such work outside the hours of 09:00-18:00 Monday-Friday
@@ -81,7 +81,7 @@
         any feature added to GovSite may be made available to all GovSite customers.
 
     4.  If you require functionality that GovSite does not include dxw may, at its
-        sole discretion and for a fee, create that functionality.
+        sole discretion and for an agreed fee, create that functionality.
 
     5.  From time to time, dxw may deprecate GovSite features, making them
         unavailable for use. If we deprecate a feature under this clause 5.5 which
@@ -129,7 +129,7 @@
 
         1.  You fail to pay invoices whose total value is greater than or equal
             to our total fee for the preceeding two months' usage of GovSite;
-        2.  As a last resort, it is necessary for us to do so in order to
+        2.  As a last resort, if we believe that it is necessary for us to do so in order to
             protect your data or another GovSite user's information security,
             or to protect other users of the internet.
 
@@ -150,14 +150,13 @@
         paid.
 
     4.  At the end of this contract, dxw will issue a final invoice for
-        your usage of GovPress up to the date of termination.
+        your usage of GovSite up to the date of termination.
 
 9. ### Required Materials
 
-    1.  In order to resolve Support Tickets, there may be Required Materials
-        that you must provide.
+    1.  In order to resolve Support Tickets, there may be materials ("Required Materials") that dxw requires in order to resolve the ticket either because it is reasonably apparent that they will be required or because dxw has informed you that they will be required.
     2.  You must provide Required Materials as soon as is reasonably
-        practical.
+        practical after becoming aware that they are Required Materials.
     3.  If work on a Support Ticket cannot take place without Required
         Materials, dxw will suspend work on that ticket.
 
@@ -178,7 +177,7 @@
         reasonably practical to deliver bug-free software.
     4.  dxw will not be liable for any loss of profits or reputation
         that you suffer, directly or indirectly, as a consequence of any
-        failure of the Product.
+        failure of GovSite.
     5.  You agree that it is your responsibility to ensure that you put
         in place measures that make you able to operate in the event of
         any such failure. dxw can work with you to design or implement
@@ -188,7 +187,7 @@
     7.  In any event, dxw's total liability under this agreement is
         limited to the lesser of:
 
-        1. The total cost of the Project.
+        1. The total of all fees paid by you to dxw under this agreement.
         2. The insured sum.
 
 12. ### Confidentiality
@@ -229,7 +228,7 @@
         intellectual property rights in GovSite to you for the sole purpose
         of carrying out this agreement.
 
-    4.	To the extent that it is not able to give the licence in 12.3 above,
+    4.	To the extent that it is not able to give the licence in 13.3 above,
         dxw has taken reasonable steps to check that all intellectual property
         rights owned by third parties in GovSite permit dxw and you to enter
         into this agreement and for you to operate your GovSite website as
@@ -240,7 +239,7 @@
         for the duration of this agreement.
 
     6. 	To the extent that you are unable to grant the licence under clause
-        12.5 above, you shall take all reasonable steps to ensure that any
+        13.5 above, you shall take all reasonable steps to ensure that any
         material supplied to us that is affected by third party intellectual
         property rights, may be used as part of the operation of your website
         under this agreement.
