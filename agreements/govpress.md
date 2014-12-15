@@ -127,17 +127,29 @@
         3.  In any particular month, any of the services in clause 8
             after the Time Allowance has been exceeded.
 
-    2.  You agree that occasional unavailability of your website is not
+5. ### Availability
+
+    1.  You agree that occasional unavailability of your website is not
         something that can reasonably be avoided.
 
-    3.  Nonetheless, dxw will make every reasonable effort to ensure that
-        your website is accessible over the internet 100% of the time.
+    2.  Nonetheless, dxw will make every reasonable effort to ensure that
+        your website is accessible over the internet 100% of the time, excluding
+        periods of planned maintenance.
 
-    4.  If despite dxw's reasonable efforts your website becomes unavailable,
-        dxw will refund or waive the infrastructure fees for any period of
-        unavailability longer than one hour.
+    3.  If despite dxw's reasonable efforts your website is unavailable outside
+        of a planned maintenance period, dxw will on request refund or waive the
+        infrastructure fees for any period of unavailability longer than one hour.
 
-5. ### Enhancement of the service
+    4.  Clause 5.3 shall not apply if the unavailability is a result of events that
+        are beyond dxw's control.
+
+    5.  From time to time, we may need to make your website unavailable in order to
+        carry out essential maintenance. dxw will make every reasonable effort to
+        give you as much notice as possible when planned unavailability will occur,
+        and will complete such work outside the hours of 09:00-18:00 Monday-Friday
+        whenever it is reasonably possible.
+
+6. ### Enhancement of the service
 
     1.  dxw may at any time make changes to GovPress without giving
         notice. We will inform you as soon as is practical of any change
@@ -152,7 +164,7 @@
         out of any change we have made to GovPress, we will make reasonable efforts
         to fix the reported problem.
 
-6. ### Support
+7. ### Support
 
     1.  At any time, you may create a Support Ticket.
 
@@ -181,7 +193,7 @@
         may be considerably increased and your service may be disrupted
         for a prolonged period as a result.
 
-7. ### Time allowance
+8. ### Time allowance
 
     1.  dxw's initial fee for Fully Managed support is calculated from the
         Time Allowance, which is based on our assessment of your website's
@@ -229,7 +241,7 @@
     11. The Time Allowance will have no bearing on dxw's provision of the
         services detailed in clauses 4.1.1, 4.1.2, 4.1.3 and 4.1.4.
 
-8. ### Installation of plugins
+9. ### Installation of plugins
 
     1.  The terms in this section only apply to you if your website is Fully
         Managed, or if your Partly Managed service includes WordPress plugin
@@ -252,7 +264,7 @@
         nor that negative results necessarily imply that a plugin does contain
         security vulnerabilities.
 
-9. ### Suspension
+10. ### Suspension
 
     1.  dxw may suspend the services provided as part of this agreement if:
 
@@ -265,7 +277,7 @@
     2.  In the event that the services are suspended, dxw will replace your
         website with a message stating that your website is down for maintenance.
 
-10. ### Required Materials
+11. ### Required Materials
 
     1.  In order to resolve Support Tickets, there will occasionally be
         Required Materials that you must provide.
@@ -274,7 +286,7 @@
     3.  If work on a Support Ticket cannot take place without Required
         Materials, we will suspend work on that ticket.
 
-11. ### Quality
+12. ### Quality
 
     1.  dxw will deliver work of a professional standard.
     2.  dxw is insured against professional negligence to a value of
@@ -282,7 +294,7 @@
         an increase in the insured sum on condition that we were able to
         pass on any corresponding increase in the premium.
 
-12. ### Limitation of liability
+13. ### Limitation of liability
 
     1.  dxw cannot guarantee perfect reliability.
     2.  dxw will deliver work that is as robust and reliable as is
@@ -305,7 +317,7 @@
         1. The total cost of the Project.
         2. The insured sum.
 
-13. ### Confidentiality
+14. ### Confidentiality
 
     1.  dxw believe that it is best to be open.
     2.  dxw will generally not keep the details of your website
@@ -330,7 +342,7 @@
         us in writing as soon as is reasonably practical.
 
 
-14. ### Intellectual property in GovPress
+15. ### Intellectual property in GovPress
 
     1.  Except as provided for in clause 15, nothing in this agreement is
         intended to transfer any intellectual property right.
@@ -340,20 +352,20 @@
         intellectual property rights in GovPress to you for the sole purpose
         of carrying out this agreement.
 
-    3.	To the extent that it is not able to give the licence in 14.2 above,
+    3.	To the extent that it is not able to give the licence in 15.2 above,
         dxw has taken reasonable steps to check that all intellectual property
         rights owned by third parties in GovPress permit dxw and you to enter
         into this agreement and for you to operate your website through
         GovPress as envisaged under this agreement.
 
-15. ### Intellectual property in your website
+16. ### Intellectual property in your website
 
     1.  To the extent that you are able, you grant us a sufficient licence over
         any material you supply to us, to allow us to host your website on
         GovPress for the duration of this agreement.
 
     2. 	To the extent that you are unable to grant the licence under clause
-        15.1 above, you shall take all reasonable steps to ensure that any
+        16.1 above, you shall take all reasonable steps to ensure that any
         material supplied to us that is affected by third party intellectual
         property rights, may be used as part of the operation of your website
         under this agreement.
@@ -366,7 +378,7 @@
         particular, as part of any website we may host.
 
 
-16. ### Payments
+17. ### Payments
 
     1.  dxw's fees for infrastructure, as specified in your proposal,
         will be calculated every calendar month based on your Service Usage
@@ -384,12 +396,12 @@
     8.  VAT (where applicable) is payable on, and in addition to, all sums
         due under this agreement.
 
-17. ### Circumstances beyond our control
+18. ### Circumstances beyond our control
 
     1.  dxw will not be liable for any failure caused by industrial
         action or other circumstances beyond our reasonable control.
 
-18. ### Changes to these terms
+19. ### Changes to these terms
 
     1.  dxw may vary these terms at any time upon giving you prior
         written notice.
@@ -401,23 +413,23 @@
     4.  This clause does not apply if it would violate the terms of a
         framework agreement of which this agreement forms a part.
 
-19. ### Proper law
+20. ### Proper law
 
     1.  This agreement is governed by English law and the parties agree
         that any disputes arising from the agreement will be subject to
         the exclusive jurisdiction of the courts of England and Wales.
 
-20. ### Email
+21. ### Email
     1.  Any reference to "in writing" includes email and excludes fax
         transmissions.
 
-21. ### Headings
+22. ### Headings
 
     1.  The section headings contained in this agreement are for
         reference only and shall not in any way affect the meaning or
         interpretation of this agreement.
 
-22. ### Whole agreement
+23. ### Whole agreement
 
     1.  With the exception of any framework agreement of which this agreement forms a part,
         this Agreement and the order summary that accompanies it constitute the entire
