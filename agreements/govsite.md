@@ -56,11 +56,14 @@
         GovSite is accessible over the internet 100% of the time, excluding periods
         of planned maintenance.
 
-    3.  If despite dxw's reasonable efforts your website fails to operate outside
+    3.  If despite dxw's reasonable efforts your website is unavailable outside
         of a planned maintenance period, dxw will on request refund or waive the fees
         for GovSite for any period of unavailability longer than one hour.
 
-    4.  From time to time, we may need to make GovSite unavailable in order to
+    4.  Clause 4.3 shall not apply if the unavailability is a result of events that
+        are beyond dxw's control.
+
+    5.  From time to time, we may need to make GovSite unavailable in order to
         carry out essential maintenance. dxw will make every reasonable effort to
         give you as much notice as possible when planned unavailability will occur,
         and will complete such work outside the hours of 09:00-18:00 Monday-Friday
