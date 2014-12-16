@@ -23,7 +23,7 @@
 
     3. In order to ensure that you comply with your obligations under the preceding paragraph, We advise that you take steps to ensure that you do not violate the national laws of any territory in which it is reasonable to believe the services we provide to you may be accessed.
 
-    4. You must take reasonable steps to ensure that no-one who you have permitted to make use of our services  (eg visitors to a website) violates any applicable law or any person's rights under any applicable law and you must impose on such persons an obligation in similar terms as paragraph 2 above.
+    4. You must take reasonable steps to ensure that no-one who you have permitted to make use of our services (eg visitors to a website) violates any applicable law or any person's rights under any applicable law and you must impose on such persons an obligation in similar terms as paragraph 2 above.
 
 
 3. ### Fair use of resources
@@ -39,6 +39,7 @@
     3. If we take action as a result of this policy we will, as far as we are reasonably able, take steps to minimise the impact upon your services and work with you to resolve any underlying problem.
 
     4. You must not use our services to send unsolicited commercial email. Please note that this includes email from public sector bodies, and does not imply that a paid service is being offered or advertised.
+
 
 4. ### Security
 

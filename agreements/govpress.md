@@ -38,8 +38,7 @@
         which sets out our responsiveness targets.
 
     Acceptable Usage Policy
-    :
-        Acceptable Usage Policy (AUP) refers to the document available at http://dext.ly/aup,
+    :   Acceptable Usage Policy (AUP) refers to the document available at http://dext.ly/aup,
         which sets out restrictions on the way the service may be used.
 
     Service Usage
