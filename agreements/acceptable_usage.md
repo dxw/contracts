@@ -12,21 +12,25 @@
 
     1. This AUP and all of dxw's services are operated under the legal jurisdiction of England & Wales.
 
-    2. You must not use our services to store or disseminate content which is illegal in England & Wales.
+    2. You must not use our services in violation of any applicable law or of any person's rights under any applicable law. Examples include, but are not limited to:
 
-    3. You must not use our services to violate intellectual property rights.
+       1. infringing the intellectual property rights of any person;
 
-    4. You must ensure that you use our services in compliance with the requirements of the Data Protection Act 1998.
+       2. storing or disseminating material that is defamatory or otherwise infringes any persons's personality rights;
+       3. by infringing the Data Protection Act 1998;
 
-    5. We advise that you take steps to ensure that you do not violate the national laws of any territory in which it is reasonable to believe the services we provide to you may be accessed.
+       4. for the purposes of committing an offence contrary to the Computer Misuse Act 1990
 
-    6. In whatever capacity you are able, you must not allow our services to be used to violate the Computer Misuse Act, or any other legislation in force in England & Wales.
+    3. In order to ensure that you comply with your obligations under the preceding paragraph, We advise that you take steps to ensure that you do not violate the national laws of any territory in which it is reasonable to believe the services we provide to you may be accessed.
+
+    4. You must take reasonable steps to ensure that no-one who you have permitted to make use of our services  (eg visitors to a website) violates any applicable law or any person's rights under any applicable law and you must impose on such persons an obligation in similar terms as paragraph 2 above.
+
 
 3. ### Fair use of resources
 
     1. It is important for our service management that the services we operate consume a reasonably consistent quantity of bandwidth from month-to-month.
 
-    2. Where we detect that a service is using a unusually large quantity of compute resources such as CPU time or bandwidth, we may take steps to reduce that usage, including:
+    2. Where we detect that a service is using an unusually large quantity of compute resources such as CPU time or bandwidth, we may take steps to reduce that usage, including:
 
         1. Throttling or reducing access to a lower level;
         2. Blocking access to files, or any other problematic resource;
