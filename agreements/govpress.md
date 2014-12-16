@@ -443,3 +443,14 @@
         this Agreement and the order summary that accompanies it constitute the entire
         agreement between us with respect to the Project, and replaces any prior oral or
         written agreement which may exist.
+
+18. ### Termination
+
+    1.  Either party may terminate this contract at any time by giving us 30 days'
+        notice in writing.
+
+    2.  dxw may terminate this contract without notice if you are in material
+        breach.
+
+    3.  At the end of this contract, dxw will issue a final invoice for your usage
+        of GovPress up to the date of termination, which you shall pay.
