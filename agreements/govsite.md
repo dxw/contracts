@@ -148,25 +148,31 @@
 
 8. ### Termination
 
-    1.  This contract is subject to a minimum term of 12 months from the date it
+    1.  This contract is subject to a minimum term of 1 month from the date it
         is agreed.
 
     2.  You may terminate this contract at any time by giving us 30 days' notice
         in writing.
 
-    3.  If you terminate this contract earlier than 12 months from the date
-        it was agreed, you agree to immediately pay a fee equal to the
-        fee for 12 months usage of GovSite, less the amount you have already
-        paid.
+    3.  Fees paid for any period paid in advance will not be refunded in the event
+        that you terminate this contract before that period ends.
 
-    4.  At the end of this contract, dxw will issue a final invoice for
-        your usage of GovSite up to the date of termination.
+    4.  dxw may terminate this contract without notice if you are in material
+        breach.
+
+    5.  At the end of this contract, dxw will issue a final invoice for your
+        usage of GovSite up to the date of termination, which you shall pay.
 
 9. ### Required Materials
 
-    1.  In order to resolve Support Tickets, there may be materials ("Required Materials") that dxw requires in order to resolve the ticket either because it is reasonably apparent that they will be required or because dxw has informed you that they will be required.
+    1.  In order to resolve Support Tickets, there may be materials ("Required
+        Materials") that dxw requires in order to resolve the ticket either because
+        it is reasonably apparent that they will be required or because dxw has
+        informed you that they will be required.
+
     2.  You must provide Required Materials as soon as is reasonably
         practical after becoming aware that they are Required Materials.
+
     3.  If work on a Support Ticket cannot take place without Required
         Materials, dxw will suspend work on that ticket.
 
@@ -174,6 +180,7 @@
 
     1.  dxw will provide services under this contract to a professional
         standard.
+
     2.  dxw is insured against professional negligence to a value of
         £1,000,000 (the "insured sum").
 
