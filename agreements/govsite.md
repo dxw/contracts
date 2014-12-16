@@ -16,9 +16,13 @@
         provides configurable WordPress-based websites.
 
     Service Level Agreement
-    :   Service Level Agreement refers to the document available at http://dext.ly/sla,
+    :   Service Level Agreement (SLA) refers to the document available at http://dext.ly/sla,
         which sets out our responsiveness targets.
 
+    Acceptable Usage Policy
+    :
+        Acceptable Usage Policy (AUP) refers to the document available at http://dext.ly/aup,
+        which sets out restrictions on the way the service may be used.
 
     Emergency Support Ticket
     :   An Emergency Support Ticket is a Support Ticket created when an email
@@ -46,6 +50,9 @@
 
     2.  Unless otherwise agreed in writing, dxw will not, under this
         contract, provide any service not specified in clause 3.1.
+
+    3.  GovSite must only be used in accordance with its Acceptable Usage Policy,
+        which forms part of this agreement.
 
 4. ### Availability
 
