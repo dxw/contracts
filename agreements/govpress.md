@@ -37,6 +37,11 @@
     :	Service Level Agreement refers to the document available at http://dext.ly/sla,
         which sets out our responsiveness targets.
 
+    Acceptable Usage Policy
+    :
+        Acceptable Usage Policy (AUP) refers to the document available at http://dext.ly/aup,
+        which sets out restrictions on the way the service may be used.
+
     Service Usage
     :   Service Usage is the accumulated quantity of hours of computing time
         and gigabytes of data stored or transferred in a given period.
@@ -126,6 +131,9 @@
         2.  Changes to your website which constitute new functionality;
         3.  In any particular month, any of the services in clause 8
             after the Time Allowance has been exceeded.
+
+    4.  GovPress must only be used in accordance with its Acceptable Usage Policy,
+        which forms part of this agreement.
 
 5. ### Availability
 
