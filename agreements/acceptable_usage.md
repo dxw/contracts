@@ -51,4 +51,3 @@
        3. Notify UKGOVCERT, the police or any other authority, without regard for the confidentiality provisions of any contract between us.
 
     3. If you come across a suspected security issue in the course of using dxw's services and responsibly disclose it to us, dxw will not take any of the actions in clause 4.2 of this policy.
-
