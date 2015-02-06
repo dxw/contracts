@@ -225,7 +225,7 @@
 8. ### Quality
 
     1.  dxw will deliver work of a professional standard.
-    2.  dxw will make deliver code that is as free of bugs and security
+    2.  dxw will deliver code that is as free of bugs and security
         vulnerabilities as is reasonably practical.
     3.  dxw is insured against professional negligence to a value of
         £1,000,000 (the "insured sum"). We would be willing to negotiate an increase in the insured sum on condition that we were able to pass on any corresponding increase in the premium.
