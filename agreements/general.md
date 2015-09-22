@@ -76,7 +76,7 @@
 
     1.  dxw will deliver the Work to a professional standard.
     2.  dxw is insured against professional negligence to a value of
-        £1,000,000 (the "insured sum"). We would be willing to negotiate an
+        £2,000,000 (the "insured sum"). We would be willing to negotiate an
         increase in the insured sum on condition that we were able to pass
         on any corresponding increase in the premium.
 
