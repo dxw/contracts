@@ -1,6 +1,6 @@
 # GovSite Terms of Service
 
-## 12th December 2014
+## 22nd September 2015
 
 1. ### Parties
 
@@ -36,20 +36,11 @@
 
 3. ### The service
 
-    1.  dxw will provide the following as part of this contract:
-
-        1.  A working WordPress installation with a set of features as advertised
-            on our website
-        2.  A support helpdesk;
-        3.  Backups and backup restoration;
-        4.  Availability monitoring and response;
-        5.  Monitoring of logs for issues of concern;
-        6.  Operating system and infrastructure upgrades and maintenance;
-        7.  Installation of WordPress core and plugin upgrades;
-        8.  Assistance and advice on the usage of WordPress's administration area.
+    1.  As part of this contract, dxw will provide a working WordPress installation 
+        with a set of features as advertised on our website at www.govsite.com.
 
     2.  Unless otherwise agreed in writing, dxw will not, under this
-        contract, provide any service not specified in clause 3.1.
+        contract, provide any service not advertised at www.govsite.com.
 
     3.  GovSite must only be used in accordance with its Acceptable Usage Policy,
         which forms part of this agreement.
@@ -148,7 +139,7 @@
 
 8. ### Termination
 
-    1.  This contract is subject to a minimum term of 1 month from the date it
+    1.  This contract is subject to a minimum term of 1 year from the date it
         is agreed.
 
     2.  You may terminate this contract at any time by giving us 30 days' notice
@@ -182,7 +173,7 @@
         standard.
 
     2.  dxw is insured against professional negligence to a value of
-        £1,000,000 (the "insured sum").
+        £2,000,000 (the "insured sum").
 
 11. ### Limitation of liability
 
@@ -232,7 +223,7 @@
         us in writing as soon as is reasonably practical.
 
 
-13. ### Intellectual property in GovSite
+13. ### Intellectual property
 
     1.  Nothing in this agreement is intended to transfer any intellectual property
         right.
@@ -308,7 +299,7 @@
 19. ### Whole agreement
 
     1.  With the exception of any framework agreement of which this agreement forms a part,
-        this Agreement constitute the entire agreement between us with respect to GovSite,
+        this agreement constitute the entire agreement between us with respect to GovSite,
         and replaces any prior oral or written agreement which may exist.
 
 20. ### Circumstances beyond our control
