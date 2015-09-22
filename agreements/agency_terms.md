@@ -71,9 +71,10 @@
 
     Surrounding Activities
     :   Surrounding Activities are services dxw provides as part of the
-        Project which are not part of a Sprint; for example: assisting you with the definition and prioritisation of Stories at the start of the Project, user testing
-        and discovery, penetration testing, research or business
-        analysis.
+        Project which are not part of a Sprint; for example: assisting 
+        you with the definition and prioritisation of Stories at the start 
+        of the Project, user testing and discovery, penetration testing, 
+        research or product strategy.
 
 3. ### Proposal
 
