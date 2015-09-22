@@ -1,6 +1,6 @@
 # Acceptable Usage Policy
 
-## 12th December 2014
+## 22nd September 2015
 
 1. ### Introduction
 
