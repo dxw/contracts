@@ -84,7 +84,8 @@
         1.  The inital Project Description;
         2.  A recommendation for the duration of a Sprint, its
             Surrounding Activities and a number of developers;
-        3.  Our fees, including a per-Sprint fee (based on the recommended Sprint) and our fees for any Surrounding Activities;
+        3.  Our fees, including a per-Sprint fee (based on the recommended 
+            Sprint) and our fees for any Surrounding Activities;
         4.  An indication of when dxw is available to start the work and
             a Sprints Estimate;
         5.  Any other information that we have agreed must be recorded
@@ -135,10 +136,10 @@
 
     11. After a Story has been Started:
 
-        1.  You may not change the Story without dxw's prior consent;
+        1.  You may not change the Story without dxw's prior agreement;
         2.  You may instruct us to cease work on the Story;
-        3.  We will make all reasonable efforts, using the resources allocated
-            to the Sprint, to complete the Story within the Sprint.
+        3.  We will make reasonable efforts to complete the Story 
+            within the Sprint.
 
     12. After dxw believe a Story has been Finished:
 
@@ -151,6 +152,8 @@
             Acceptance Criteria;
         4.  If you Reject a Story, it will be returned to the Backlog for
             you to prioritise;
+        4.  If you Reject a Story near the end of a Sprint, we may not be
+            able to Finish it until the next Sprint;
         5.  If having tested the Story's implementation you decide that
             its functionality should be materially different from the
             Acceptance Criteria, you must make a new Story describing
@@ -167,7 +170,7 @@
         2.  The start and end dates of all Sprints that you have told us
             you would like to book immediately;
         3.  A list of the Surrounding Activity you have told us you
-            would like us to undertake, and their associated costs;
+            would like us to undertake, and the associated costs;
         4.  Contact details for members of dxw's staff who you may need
             to contact, including an escalation contact.
 
@@ -179,18 +182,18 @@
     4.  Upon your acceptance of an order summary, the specified Sprints
         will be booked.
     5.  If you cancel a Sprint which has been booked, a cancellation fee
-        will immediately become payable. The cancellation fee is 35% of
+        will immediately become payable. The cancellation fee is 50% of
         the cost of the Sprint.
     6.  If the upper value in the Sprints Estimate is reached and the
         Product falls materially short of the standard specified in the
         original Project Description ("Unacceptable"), dxw will discount
-        the cost of further sprints by 35%.
+        the cost of further sprints by 30%.
     7.  As soon as the Product is no longer Unacceptable, no further
         discounts will apply.
     8.  dxw reserves the right not to provide discounted Sprints if:
 
         1.  The Product is Unacceptable in part or in whole because of your
-            failure to "engage" (see below); or
+            failure to "engage" (see "Engagement" below); or
         2.  You have breached the terms of this agreement.
 
 6. ### Required Materials
@@ -206,13 +209,14 @@
 
 6. ### Engagement
 
-    1.  It is essential that you fully engage with our development process in
-        order for Project completion to take place. In this context "engage"
+    1.  It is essential that you fully engage with the development process in
+        order for the Project to be completed successfuly. In this context "engage"
         includes promptly:
 
         1.  Responding to our enquiries;
-        2.  Rejecting and Accepting Stories in good time;
-        3.  Supplying to us any Required Materials.
+        2.  Providing feedback, Rejecting and Accepting Stories in good time;
+        3.  Supplying to us any Required Materials;
+        4.  Reporting any problems that could affect delivery.
 
 7. ### Subcontracting
 
@@ -229,7 +233,9 @@
     2.  dxw will deliver code that is as free of bugs and security
         vulnerabilities as is reasonably practical.
     3.  dxw is insured against professional negligence to a value of
-        £1,000,000 (the "insured sum"). We would be willing to negotiate an increase in the insured sum on condition that we were able to pass on any corresponding increase in the premium.
+        £2,000,000 (the "insured sum"). We would be willing to negotiate 
+        an increase in the insured sum on condition that we were able to 
+        pass on any corresponding increase in the premium.
 
 9. ### Limitation of liability
 
@@ -251,7 +257,7 @@
     7.  In any event, dxw's total liability under this agreement is
         limited to the lesser of:
 
-        1. The total cost of the Project.
+        1. The total fee for the Project.
         2. The insured sum.
 
 10. ### Confidentiality
@@ -263,7 +269,7 @@
         1.  The fact that dxw has a commercial relationship with you;
         2.  The nature and goals of your Project;
         3.  Your Project's likely completion date(s);
-        4.  The cost of your Project.
+        4.  Our fee for your Project.
 
     3.  However, dxw do regard the following as confidential:
 
@@ -288,7 +294,7 @@
         is not Project IP and "Reused IP" means any Background IP which we own.
     3.  You do not become the owner of any Background IP.
     4.  We grant you a perpetual, irrevocable, non-exclusive, royalty-free licence
-        to the Reused IP for their use exclusively in the Product.
+        to the Reused IP for their use in the Product.
     5.  You grant us a perpetual, irrevocable, non-exclusive, royalty-free licence
         for use of the Project IP in any Product created by dxw, including the
         right to licence the use of the Project IP in any Product ("the licence
@@ -358,7 +364,7 @@
 18. ### Whole agreement
 
     1.  With the exception of any framework agreement of which this agreement forms a part,
-        this Agreement and the order summary that accompanies it constitute the entire
+        this agreement and the order summary that accompanies it constitute the entire
         agreement between us with respect to the Project, and replaces any prior oral or
         written agreement which may exist.
 
