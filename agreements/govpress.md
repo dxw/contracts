@@ -1,6 +1,6 @@
 # GovPress Terms of Service
 
-## 22nd September 205
+## 22nd September 2015
 
 1. ### Parties
 
