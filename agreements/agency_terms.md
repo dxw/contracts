@@ -1,6 +1,6 @@
-# Web Development Agreement
+# Agile Delivery Agreement
 
-## 9th April 2014
+## 22nd September 2015
 
 1. ### Parties
 
