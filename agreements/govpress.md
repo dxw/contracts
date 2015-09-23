@@ -1,6 +1,6 @@
 # GovPress Terms of Service
 
-## 15th December 2014
+## 22nd September 2015
 
 1. ### Parties
 
@@ -19,9 +19,6 @@
     GovPress
     :	The software and hardware platform, including WordPress, on which dxw will
         host your website, is known as GovPress.
-
-    Initial Proposal
-    : 	The Initial Proposal is Proposal supplied by dxw under clause 3.1.
 
     Overprovisioned Capacity
     :   Overprovisioned Capacity is a quantity of computing time, or any
@@ -56,13 +53,13 @@
         a member of staff at dxw for their attention or action.
 
     Time Allowance
-    :   The Time Allowance is a quantity of time allocated for use in
+    :   The Time Allowance is a notional quantity of time allocated for use in
         providing services under this contract.
 
 3. ### Proposal
 
-    1.  Before hosting a WordPress website, dxw will provide the Initial Proposal.
-    2.  The Initial Proposal will contain:
+    1.  Before hosting a WordPress website, dxw will provide a Proposal.
+    2.  The Proposal will contain:
 
         1.  A description of the steps dxw has taken to make an initial
             assessment of the server capacity your website is likely to require;
@@ -71,17 +68,15 @@
             storage;
         3.  Details of Overprovisioned Capacity, if any;
         4.  A statement of the support dxw will provide: Fully Managed
-            or Partly Managed;
+            or Unmanaged;
         5.  If Fully Managed, a description of the steps dxw has taken
             to make an initial assessment of the support your website will
             require, and thus to determining an initial Time Allowance.
-        6.  If Partly Managed, an explanation of what services dxw will
-            and will not be providing under this contract;
-        7.  A breakdown of dxw's predicted monthly fees, showing separately
+        6.  A breakdown of dxw's predicted monthly fees, showing separately
             the fees for infrastructure, support, and any other services;
-        8.  A breakdown of any costs to migrate your website onto GovPress,
+        7.  A breakdown of any costs to migrate your website onto GovPress,
             if applicable;
-        9.  Any other information that we have agreed must be recorded
+        8.  Any other information that we have agreed must be recorded
             and agreed prior to the commencement of the Project.
 
     3.  The proposal dxw provides will represent our best understanding
@@ -107,31 +102,35 @@
         4.  A separate Staging Environment;
         5.  Availability monitoring and response;
         6.  Operating system and infrastructure upgrades and maintenance;
-        7.  Installation of WordPress core upgrades;
-        8.  A support helpdesk.
+        7.  A support helpdesk.
 
     2.  If your proposal specifies that the website we host will be Fully Managed,
         dxw will provide the following services as part of this contract, in
         addition to the services specified in clause 4.1:
 
         1.  Installation of WordPress plugin upgrades;
-        2.  Monitoring of production logs for issues of concern;
-        3.  WordPress plugin reviews;
-        4.  Installation of WordPress plugins subject to the terms in section 8;
+        2.  Installation of WordPress core upgrades;
+        3.  WordPress plugin code reviews;
+        4.  Installation of WordPress plugins subject to the terms in section 9;
         5.  Minor modifications to theme files;
         6.  Assistance and advice on the usage of WordPress's administration area.
 
-    3.  Unless otherwise agreed, dxw will not, under this contract, provide any
-        service not specified in clause 4.1 or 4.2 unless it is specified
+    3.  If your proposal specifies that the website we host requires our "higher security"
+        service, dxw will provide the following services as part of this contract, in
+        addition to the services specified in clause 4.1 and 4.2:
+
+        1.  Monitoring of production logs for issues of concern;
+        2.  Monitoring of open source intelligence sources for information
+            about newly discovered WordPress and WordPress plugin vulnerability.
+
+    4.  Unless otherwise agreed, dxw will not, under this contract, provide any
+        service not specified in clause 4.1, 4.2 or 4.3 unless it is specified
         in the Proposal, including but not limited to:
 
-        1.  Support for any third-party services upon which your
-            service relies;
+        1.  Support for any third-party services upon which your service relies;
         2.  Changes to your website which constitute new functionality;
-        3.  In any particular month, any of the services in clause 8
-            after the Time Allowance has been exceeded.
 
-    4.  GovPress must only be used in accordance with its Acceptable Usage Policy,
+    5.  GovPress must only be used in accordance with its Acceptable Usage Policy,
         which forms part of this agreement.
 
 5. ### Availability
@@ -163,9 +162,9 @@
         which may have an impact upon your use of GovPress.
 
     2.  dxw will not make any changes that remove or materially impair the
-        supply of the services described in clauses 4.1 and 4.2 of this contract.
+        supply of the services described in clauses 4.1, 4.2 and 4.3 of this contract.
 
-    3.  Changes made by dxw under this clause 5 will normally have no detectable
+    3.  Changes made by dxw under this clause will normally have no detectable
         effect on the operation of your website. If you make a reasonable request
         to us to fix a problem with the operation of your website that has arisen
         out of any change we have made to GovPress, we will make reasonable efforts
@@ -237,7 +236,8 @@
 
     9.  If you do not agree to increase the Time Allowance, dxw may require
         you to reduce the workload that your website generates; for example, by
-        submitting fewer Support Tickets.
+        submitting fewer Support Tickets or carrying out remedial development work
+        at your own cost.
 
     10. The Time Allowance is calculated per month. Unusused time is not carried
         over and may not be used in any subsequent month.
@@ -251,8 +251,7 @@
 9. ### Installation of plugins
 
     1.  The terms in this section only apply to you if your website is Fully
-        Managed, or if your Partly Managed service includes WordPress plugin
-        updates or installation.
+        Managed.
 
     2.  At any time, you may create a Support Ticket to ask us to install a
         plugin on your website.
@@ -261,14 +260,14 @@
         that plugin intended to give a broad understanding of the kinds of
         security problems that plugin may have.
 
-    4.  Based on dxw's assessment of a plugin, dxw may refuse to install that
-        plugin or updates for that plugin.
+    4.  dxw may refuse to install any plugin or plugin update if our assessment
+        indicates that it presents unacceptable information security risks.
 
     5.  Plugin security assessments are intended only to give a broad
         understanding of a plugin's security status. The results are opinions
         only. dxw neither offers any guarantee that a plugin whose assessment
         produced positive results does not contain security vulnerabilities,
-        nor that negative results necessarily imply that a plugin does contain
+        nor that negative results necessarily mean that a plugin does contain
         security vulnerabilities.
 
 10. ### Suspension
@@ -297,7 +296,7 @@
 
     1.  dxw will deliver work of a professional standard.
     2.  dxw is insured against professional negligence to a value of
-        £1,000,000 (the "insured sum"). dxw would be willing to negotiate
+        £2,000,000 (the "insured sum"). dxw would be willing to negotiate
         an increase in the insured sum on condition that we were able to
         pass on any corresponding increase in the premium.
 
@@ -321,7 +320,7 @@
     7.  In any event, dxw's total liability under this agreement is
         limited to the lesser of:
 
-        1. The total cost of the Project.
+        1. The total fees for a year of GovPress service;
         2. The insured sum.
 
 14. ### Confidentiality
@@ -351,7 +350,7 @@
 
 15. ### Intellectual property in GovPress
 
-    1.  Except as provided for in clause 15, nothing in this agreement is
+    1.  Except as provided for in clause 16, nothing in this agreement is
         intended to transfer any intellectual property right.
 
     2.	To the extent that it is able (either through ownership or because it
@@ -359,11 +358,16 @@
         intellectual property rights in GovPress to you for the sole purpose
         of carrying out this agreement.
 
-    3.	To the extent that it is not able to give the licence in 15.2 above,
+    3.	To the extent that it is not able to give the licence in clause 15.2 above,
         dxw has taken reasonable steps to check that all intellectual property
         rights owned by third parties in GovPress permit dxw and you to enter
         into this agreement and for you to operate your website through
         GovPress as envisaged under this agreement.
+
+    4.	If, under this agreement, we create works, such as computer programs
+        and documentation, dxw retains all Intellectual Property rights in the
+        works, and licences their use to you per clause 15.2 above.
+
 
 16. ### Intellectual property in your website
 
@@ -377,21 +381,13 @@
         property rights, may be used as part of the operation of your website
         under this agreement.
 
-    3.	Where, under this agreement, we create works, such as computer programs
-        and documentation, that were specifically written for and incorporated
-        into your website, then we assign to you (as a future assignment of
-        copyright) the copyright in the works, subject to a licence from you to
-        dxw that allows dxw to use the works in the course of our business and, in
-        particular, as part of any website we may host.
-
 
 17. ### Payments
 
     1.  dxw's fees for infrastructure, as specified in your proposal,
         will be calculated every calendar month based on your Service Usage
         and billed in arrears.
-    2.  dxw's fees for support, whether Fully Managed or Partly Managed,
-        will be billed each month in arrears.
+    2.  dxw's fees for support will be billed each month in arrears.
     3.  Invoices are payable within 14 days.
     4.  dxw may charge interest on overdue invoices at 5% over the
         Barclay's Bank base rate.
@@ -408,7 +404,18 @@
     1.  dxw will not be liable for any failure caused by industrial
         action or other circumstances beyond our reasonable control.
 
-19. ### Changes to these terms
+19. ### Termination
+
+    1.  Either party may terminate this contract at any time by giving us 30 days'
+        notice in writing.
+
+    2.  dxw may terminate this contract without notice if you are in material
+        breach.
+
+    3.  At the end of this contract, dxw will issue a final invoice for your usage
+        of GovPress up to the date of termination, which you shall pay.
+
+20. ### Changes to these terms
 
     1.  dxw may vary these terms at any time upon giving you prior
         written notice.
@@ -420,36 +427,25 @@
     4.  This clause does not apply if it would violate the terms of a
         framework agreement of which this agreement forms a part.
 
-20. ### Proper law
+21. ### Proper law
 
     1.  This agreement is governed by English law and the parties agree
         that any disputes arising from the agreement will be subject to
         the exclusive jurisdiction of the courts of England and Wales.
 
-21. ### Email
+22. ### Email
     1.  Any reference to "in writing" includes email and excludes fax
         transmissions.
 
-22. ### Headings
+23. ### Headings
 
     1.  The section headings contained in this agreement are for
         reference only and shall not in any way affect the meaning or
         interpretation of this agreement.
 
-23. ### Whole agreement
+24. ### Whole agreement
 
     1.  With the exception of any framework agreement of which this agreement forms a part,
-        this Agreement and the order summary that accompanies it constitute the entire
+        this agreement and the order summary that accompanies it constitute the entire
         agreement between us with respect to the Project, and replaces any prior oral or
         written agreement which may exist.
-
-18. ### Termination
-
-    1.  Either party may terminate this contract at any time by giving us 30 days'
-        notice in writing.
-
-    2.  dxw may terminate this contract without notice if you are in material
-        breach.
-
-    3.  At the end of this contract, dxw will issue a final invoice for your usage
-        of GovPress up to the date of termination, which you shall pay.

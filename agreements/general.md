@@ -76,7 +76,7 @@
 
     1.  dxw will deliver the Work to a professional standard.
     2.  dxw is insured against professional negligence to a value of
-        £1,000,000 (the "insured sum"). We would be willing to negotiate an
+        £2,000,000 (the "insured sum"). We would be willing to negotiate an
         increase in the insured sum on condition that we were able to pass
         on any corresponding increase in the premium.
 
@@ -96,7 +96,7 @@
     7.  In any event, dxw's total liability under this agreement is
         limited to the lesser of:
 
-        1. The total cost of the Work.
+        1. The fee for the Work.
         2. The insured sum.
 
 9. ### Confidentiality
@@ -108,7 +108,7 @@
         1.  The fact that dxw has a commercial relationship with you;
         2.  The nature and goals of the Work;
         3.  The Work's likely completion date(s);
-        4.  The cost of the Work.
+        4.  The fee for the Work.
 
     3.  However, dxw do regard the following as confidential:
 
@@ -189,7 +189,7 @@
 17. ### Whole agreement
 
     1.  With the exception of any framework agreement of which this agreement forms a part,
-        this Agreement and the proposal that accompanies it constitute the entire
+        this agreement and the proposal that accompanies it constitute the entire
         agreement between us with respect to the Work, and replaces any prior oral or
         written agreement which may exist.
 

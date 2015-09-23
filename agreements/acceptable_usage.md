@@ -1,6 +1,6 @@
 # Acceptable Usage Policy
 
-## 12th December 2014
+## 22nd September 2015
 
 1. ### Introduction
 
@@ -28,7 +28,7 @@
 
 3. ### Fair use of resources
 
-    1. It is important for our service management that the services we operate consume a reasonably consistent quantity of bandwidth from month-to-month.
+    1. It is important for our service management that the resources you consume are reasonably consistent from month-to-month.
 
     2. Where we detect that a service is using an unusually large quantity of compute resources such as CPU time or bandwidth, we may take steps to reduce that usage, including:
 
