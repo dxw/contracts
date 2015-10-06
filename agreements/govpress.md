@@ -276,7 +276,7 @@
     1.  dxw may suspend the services provided as part of this agreement if:
 
         1.  You fail to pay invoices whose total value is greater than or equal
-            to our total fee for the preceeding two months' usage of GovPress;
+            to our total fee for the preceding two months' usage of GovPress;
         2.  As a last resort, it is necessary for us to do so in order to
             protect your data or another GovPress user's information
             security, or to protect other users of the internet.
