@@ -16,7 +16,7 @@
 
        1. infringing the intellectual property rights of any person;
 
-       2. storing or disseminating material that is defamatory or otherwise infringes any persons's personality rights;
+       2. storing or disseminating material that is defamatory or otherwise infringes any person's personality rights;
        3. by infringing the Data Protection Act 1998;
 
        4. for the purposes of committing an offence contrary to the Computer Misuse Act 1990
