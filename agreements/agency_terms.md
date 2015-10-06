@@ -81,7 +81,7 @@
     1.  Before starting a Project, dxw will provide a proposal.
     2.  The proposal dxw provides will contain:
 
-        1.  The inital Project Description;
+        1.  The initial Project Description;
         2.  A recommendation for the duration of a Sprint, its
             Surrounding Activities and a number of developers;
         3.  Our fees, including a per-Sprint fee (based on the recommended 
