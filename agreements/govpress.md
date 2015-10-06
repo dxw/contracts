@@ -231,7 +231,7 @@
         to do so would impede our ability to provide services under this agreement
         to a professional standard.
 
-    8.  If your Time Allowance is reguarly exceeded, or almost exceeded, dxw
+    8.  If your Time Allowance is regularly exceeded, or almost exceeded, dxw
         may notify you that this is the case, and request that the Time
         Allowance be increased.
 
