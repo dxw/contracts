@@ -116,7 +116,7 @@
             published on any of your websites that is not yet publicly
             available, most especially the content of forthcoming
             strategy or policy announcements;
-        2.  Personal data dxw aquires during the course of the Work;
+        2.  Personal data dxw acquires during the course of the Work;
         3.  The content or existence of any document you send to us that
             is protectively marked.
 
