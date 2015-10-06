@@ -115,7 +115,7 @@
         we dxw will accommodate such requests.
     4.  At the beginning of the Project, we will work with you (as a Surrounding Activity) to
         define an initial set of Stories for implementation. This list
-        of Stories form the Project's Backlog.
+        of Stories forms the Project's Backlog.
     5.  At the beginning of each Sprint, we will work with you (as a Surrounding Activity) to
         prioritise the Stories in the Backlog and agree Acceptance
         Criteria.
