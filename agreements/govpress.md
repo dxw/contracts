@@ -240,7 +240,7 @@
         submitting fewer Support Tickets or carrying out remedial development work
         at your own cost.
 
-    10. The Time Allowance is calculated per month. Unusused time is not carried
+    10. The Time Allowance is calculated per month. Unused time is not carried
         over and may not be used in any subsequent month.
 
     10. dxw may, for a fee, be able to advise you on alternative approaches
