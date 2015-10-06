@@ -345,7 +345,7 @@
         3.  The content or existence of any document you send to us that
             is protectively marked.
 
-    4.  If you have addional confidentiality requirements, you must tell
+    4.  If you have additional confidentiality requirements, you must tell
         us in writing as soon as is reasonably practical.
 
 
