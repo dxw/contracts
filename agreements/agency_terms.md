@@ -39,7 +39,7 @@
         needs and goals.
 
     Project
-    :   A Project is a sequence of Sprints used to develop features a
+    :   A Project is a sequence of Sprints used to develop features for a
         Product.
 
     Reject
