@@ -86,7 +86,7 @@
 
         1.  Agree that our recommendations are appropriate based on the
             information available;
-        2.  Understand that the breakdown of fees in the Proposal is a predicion
+        2.  Understand that the breakdown of fees in the Proposal is a prediction
             based on the assumptions made in the proposal;
         3.  Understand that the total fees over the life of the contract
             may vary according to your Service Usage and your
