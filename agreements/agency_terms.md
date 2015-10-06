@@ -210,7 +210,7 @@
 6. ### Engagement
 
     1.  It is essential that you fully engage with the development process in
-        order for the Project to be completed successfuly. In this context "engage"
+        order for the Project to be completed successfully. In this context "engage"
         includes promptly:
 
         1.  Responding to our enquiries;
