@@ -116,11 +116,11 @@
             published on any of your websites that is not yet publicly
             available, most especially the content of forthcoming
             strategy or policy announcements;
-        2.  Personal data dxw aquires during the course of the Work;
+        2.  Personal data dxw acquires during the course of the Work;
         3.  The content or existence of any document you send to us that
             is protectively marked.
 
-    4.  If you have addional confidentiality requirements, you must tell
+    4.  If you have additional confidentiality requirements, you must tell
         us in writing as soon as is reasonably practical.
 
 10. ### Intellectual property

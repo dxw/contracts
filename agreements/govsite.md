@@ -128,7 +128,7 @@
     1.  dxw may suspend the services provided as part of this agreement if:
 
         1.  You fail to pay invoices whose total value is greater than or equal
-            to our total fee for the preceeding two months' usage of GovSite;
+            to our total fee for the preceding two months' usage of GovSite;
         2.  As a last resort, if we believe that it is necessary for us to do so in order to
             protect your data or another GovSite user's information security,
             or to protect other users of the internet.
@@ -213,12 +213,12 @@
             published on any of your websites that is not yet publicly
             available, most especially the content of forthcoming
             strategy or policy announcements;
-        2.  Personal data dxw aquires during the course of hosting your
+        2.  Personal data dxw acquires during the course of hosting your
             website;
         3.  The content or existence of any document you send to us that
             is protectively marked.
 
-    4.  If you have addional confidentiality requirements, you must tell
+    4.  If you have additional confidentiality requirements, you must tell
         us in writing as soon as is reasonably practical.
 
 

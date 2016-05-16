@@ -39,7 +39,7 @@
         needs and goals.
 
     Project
-    :   A Project is a sequence of Sprints used to develop features a
+    :   A Project is a sequence of Sprints used to develop features for a
         Product.
 
     Reject
@@ -81,7 +81,7 @@
     1.  Before starting a Project, dxw will provide a proposal.
     2.  The proposal dxw provides will contain:
 
-        1.  The inital Project Description;
+        1.  The initial Project Description;
         2.  A recommendation for the duration of a Sprint, its
             Surrounding Activities and a number of developers;
         3.  Our fees, including a per-Sprint fee (based on the recommended 
@@ -115,7 +115,7 @@
         we dxw will accommodate such requests.
     4.  At the beginning of the Project, we will work with you (as a Surrounding Activity) to
         define an initial set of Stories for implementation. This list
-        of Stories form the Project's Backlog.
+        of Stories forms the Project's Backlog.
     5.  At the beginning of each Sprint, we will work with you (as a Surrounding Activity) to
         prioritise the Stories in the Backlog and agree Acceptance
         Criteria.
@@ -210,7 +210,7 @@
 6. ### Engagement
 
     1.  It is essential that you fully engage with the development process in
-        order for the Project to be completed successfuly. In this context "engage"
+        order for the Project to be completed successfully. In this context "engage"
         includes promptly:
 
         1.  Responding to our enquiries;
@@ -277,11 +277,11 @@
             published on any of your websites that is not yet publicly
             available, most especially the content of forthcoming
             strategy or policy announcements;
-        2.  Personal data dxw aquires during the course of the Project;
+        2.  Personal data dxw acquires during the course of the Project;
         3.  The content or existence of any document you send to us that
             is protectively marked.
 
-    4.  If you have addional confidentiality requirements, you must tell
+    4.  If you have additional confidentiality requirements, you must tell
         us in writing as soon as is reasonably practical.
 
 11. ### Intellectual property
