@@ -182,10 +182,10 @@
     5.  If you cancel a Sprint which has been booked, a cancellation fee
         will immediately become payable. The cancellation fee is 50% of
         the cost of the Sprint.
-    6.  If the upper limit in the Sprints Estimate is reached and the
-        Product falls materially short of the standard specified in the
-        Project Description ("Unacceptable"), dxw will discount
-        the cost of further sprints by 30%.
+    6.  If the number of sprints delivered reaches the maximum limit in
+        the Sprints Estimate and the Product falls materially short of
+        the standard specified in the Project Description ("Unacceptable"),
+        dxw will discount the cost of further sprints by 30%.
     7.  As soon as the Product is no longer Unacceptable, the 30%
         discount will not apply.
     8.  dxw reserves the right not to provide discounted Sprints if:
@@ -212,7 +212,7 @@
         includes promptly:
 
         1.  Participating actively in the work, particularly in planning and
-            retrospecive sessions;
+            retrospecive sessions and stand-ups;
         2.  Responding to our enquiries;
         2.  Providing feedback, Rejecting and Accepting Stories promptly;
         3.  Supplying to us any Required Materials;
