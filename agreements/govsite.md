@@ -1,6 +1,6 @@
 # GovSite Terms of Service
 
-## 22nd September 2015
+## 21st June 2016
 
 1. ### Parties
 
@@ -35,7 +35,7 @@
 
 3. ### The service
 
-    1.  As part of this contract, dxw will provide a working WordPress installation 
+    1.  As part of this contract, dxw will provide a working WordPress installation
         with a set of features as advertised on our website at www.govsite.com.
 
     2.  Unless otherwise agreed in writing, dxw will not, under this
@@ -255,8 +255,11 @@
 
     1.  dxw's fees for GovSite will be calculated each calendar month and
         billed in arrears.
-    2.  Invoices are payable within 14 days.
-    3.  dxw may charge interest on overdue invoices at 5% over the Bank of
+    2.  On request, we will bill you for a years' service in advance. If we
+        bill for a year in advance, we will discount our fee by the equivalent
+        of two months' normal service.
+    3.  Invoices are payable within 14 days.
+    4.  dxw may charge interest on overdue invoices at 5% over the Bank of
         England's base rate.
     5.  You shall make payment by BACS transfer or (if agreed in advance with
         dxw) credit or debit card. dxw does not accept cheques.
