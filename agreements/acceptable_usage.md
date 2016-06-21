@@ -1,6 +1,6 @@
 # Acceptable Usage Policy
 
-## 22nd September 2015
+## 21st June 2016
 
 1. ### Introduction
 
@@ -15,10 +15,8 @@
     2. You must not use our services in violation of any applicable law or of any person's rights under any applicable law. Examples include, but are not limited to:
 
        1. infringing the intellectual property rights of any person;
-
        2. storing or disseminating material that is defamatory or otherwise infringes any person's personality rights;
        3. by infringing the Data Protection Act 1998;
-
        4. for the purposes of committing an offence contrary to the Computer Misuse Act 1990
 
     3. In order to ensure that you comply with your obligations under the preceding paragraph, We advise that you take steps to ensure that you do not violate the national laws of any territory in which it is reasonable to believe the services we provide to you may be accessed.
@@ -38,7 +36,7 @@
 
     3. If we take action as a result of this policy we will, as far as we are reasonably able, take steps to minimise the impact upon your services and work with you to resolve any underlying problem.
 
-    4. You must not use our services to send unsolicited commercial email. Please note that this includes email from public sector bodies, and does not imply that a paid service is being offered or advertised.
+    4. You must not use our services to send unsolicited commercial email. Please note that "commercial email" includes email from public sector bodies, and does not imply that a paid service is being offered or advertised.
 
 
 4. ### Security
