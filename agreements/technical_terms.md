@@ -13,7 +13,7 @@
 
     Sprint
     :   A Sprint is dxw's basic unit of work. A Sprint consists of
-        the services of a dxw team for a set period of time, and 
+        the services of a dxw team for a set period of time, and
         any Surrounding Activities you require.
 
     Acceptance Criteria
@@ -52,8 +52,8 @@
         instructions.
 
     Sprints Estimate
-    :   The approximate number of Sprints dxw estimates will be required 
-        to deliver a Product, as specified in the Project Description. 
+    :   The approximate number of Sprints dxw estimates will be required
+        to deliver a Product, as specified in the Project Description.
         Generally expressed as a range; for example: "Between X and Y sprints".
         These numbers are estimates, and are not binding.
 
@@ -69,9 +69,9 @@
 
     Surrounding Activities
     :   Surrounding Activities are services other than the implementation
-        of Stories which dxw provides as part of a Sprint; for example: assisting 
-        you with the definition and prioritisation of Stories at the start 
-        of the Project, user testing and discovery, penetration testing, 
+        of Stories which dxw provides as part of a Sprint; for example: assisting
+        you with the definition and prioritisation of Stories at the start
+        of the Project, user testing and discovery, penetration testing,
         research or product strategy.
 
 3. ### Proposal
@@ -82,7 +82,7 @@
         1.  The initial Project Description;
         2.  A recommendation for the duration of a Sprint, its
             Surrounding Activities and the makeup of its team;
-        3.  Our fees, including a per-Sprint fee (based on the recommended 
+        3.  Our fees, including a per-Sprint fee (based on the recommended
             Sprint) and our fees for any Surrounding Activities;
         4.  An indication of when dxw is available to start the work and
             a Sprints Estimate;
@@ -103,7 +103,7 @@
 
 4. ### Sprints
 
-    1.  dxw will deliver a number of Sprints in order to do work that will 
+    1.  dxw will deliver a number of Sprints in order to do work that will
         meet your goals.
     2.  Initially, dxw will deliver Sprints with the structure agreed in
         the proposal.
@@ -136,7 +136,7 @@
 
         1.  You may not change the Story without dxw's prior agreement;
         2.  You may instruct us to cease work on the Story;
-        3.  We will make reasonable efforts to complete the Story 
+        3.  We will make reasonable efforts to complete the Story
             within the Sprint.
 
     12. After dxw believe a Story has been Finished:
@@ -205,20 +205,20 @@
         Backlog. This may cause a Story not to be delivered in the
         Sprint you have specified.
 
-6. ### Engagement
+7. ### Engagement
 
     1.  It is essential that you fully engage with the development process in
         order for the Project to be completed successfully. In this context "engage"
         includes promptly:
 
-        1.  Participating actively in the work, particularly in planning and 
+        1.  Participating actively in the work, particularly in planning and
             retrospecive sessions;
         2.  Responding to our enquiries;
         2.  Providing feedback, Rejecting and Accepting Stories promptly;
         3.  Supplying to us any Required Materials;
         4.  Reporting any problems that could affect delivery.
 
-7. ### Subcontracting
+8. ### Subcontracting
 
     1.  At dxw's sole discretion, freelancers or contractors may be used
         in place of dxw employees in order to complete Sprints or
@@ -229,17 +229,17 @@
         without your prior agreement, which must not be unreasonably
         withheld or delayed.
 
-8. ### Quality
+9. ### Quality
 
     1.  dxw will deliver work of a professional standard.
     2.  dxw will deliver code that is as free of bugs and security
         vulnerabilities as is reasonably practical.
     3.  dxw is insured against professional negligence to a value of
-        £2,000,000 (the "insured sum"). dxw is willing to negotiate 
-        an increase in the insured sum on condition that we were able to 
+        £2,000,000 (the "insured sum"). dxw is willing to negotiate
+        an increase in the insured sum on condition that we were able to
         pass on any corresponding increase in the premium.
 
-9. ### Limitation of liability
+10. ### Limitation of liability
 
     1.  dxw cannot guarantee perfect reliability.
     2.  dxw will deliver work that is as robust and reliable as is
@@ -262,7 +262,7 @@
         1. The total fee for the Project.
         2. The insured sum.
 
-10. ### Confidentiality
+11. ### Confidentiality
 
     1.  dxw believe that it is best to be open.
     2.  dxw will generally not keep the details of your project
@@ -286,7 +286,7 @@
     4.  If you have additional confidentiality requirements, you must tell
         us in writing as soon as is reasonably practical.
 
-11. ### Intellectual property
+12. ### Intellectual property
 
     1.  Intellectual property in work created by us in the course of working on
         a Story and that also forms a part of the Product ("Project IP") shall,
@@ -313,7 +313,7 @@
         contains, nor to state which parts are owned by you and which are Project
         IP or Reused IP.
 
-12. ### Payments
+13. ### Payments
 
     1.  dxw will issue invoices for Sprints on the day after the last
         day of the Sprint.
@@ -330,12 +330,12 @@
     8.  dxw issues invoices by email. If you require a paper invoice to be
         issued, dxw may charge an additional fee.
 
-13. ### Circumstances beyond our control
+14. ### Circumstances beyond our control
 
     1.  dxw will not be liable for any failure caused by industrial
         action or other circumstances beyond our reasonable control.
 
-14. ### Changes to these terms
+15. ### Changes to these terms
 
     1.  dxw may vary these terms at any time upon giving you prior
         written notice.
@@ -347,30 +347,30 @@
     4.  This clause does not apply if it would violate the terms of a
         framework agreement of which this agreement forms a part.
 
-15. ### Proper law
+16. ### Proper law
 
     1.  This agreement is governed by English law and the parties agree
         that any disputes arising from the agreement will be subject to
         the exclusive jurisdiction of the courts of England and Wales.
 
-16. ### Email
+17. ### Email
     1.  Any reference to "in writing" includes email and excludes fax
         transmissions.
 
-17. ### Headings
+18. ### Headings
 
     1.  The section headings contained in this agreement are for
         reference only and shall not in any way affect the meaning or
         interpretation of this agreement.
 
-18. ### Whole agreement
+19. ### Whole agreement
 
     1.  With the exception of any framework agreement of which this agreement forms a part,
         this agreement and the order summary that accompanies it constitute the entire
         agreement between us with respect to the Project, and replaces any prior oral or
         written agreement which may exist.
 
-19. ### Termination
+20. ### Termination
 
     1.  Either party may terminate this contract at any time by giving us 30 days'
         notice in writing.
