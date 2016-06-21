@@ -1,6 +1,6 @@
-# Agile Delivery Agreement
+# Terms of service for technical work
 
-## 22nd September 2015
+## 21st June 2016
 
 1. ### Parties
 
@@ -12,39 +12,38 @@
 2. ### Definitions
 
     Sprint
-    :   A Sprint is our basic unit of development. A sprint consists of
-        the services of a given number of developers for a given period
-        of time, and any Surrounding Activities you require.
+    :   A Sprint is dxw's basic unit of work. A Sprint consists of
+        the services of a dxw team for a set period of time, and 
+        any Surrounding Activities you require.
 
     Acceptance Criteria
-    :   Acceptance Criteria are attributes of the Product, embodied in a document, that a
-        Story must provide in order for the Story to be considered
-        Finished.
+    :   Acceptance Criteria are the specific characteristics of a
+        delivered Story which, when present, indicate that the Story
+        is Finished.
 
     Backlog
-    :   The Backlog is a prioritised list of Stories for implementation
-        by developers.
+    :   The Backlog is a prioritised list of Stories.
 
     Finished
     :   A Story is Finished when its Acceptance Criteria have been met.
 
     Product
-    :   The collection of services and software which, when operational,
+    :   A collection of services and software which, when operational,
         will meet the goals specified in your Project Description.
 
     Project Description
     :   A Project Description is a written explanation of your Project's
         goals, the user needs you are addressing and the nature of the
-        functionality that you expect will be required to achieve those
+        work that you expect will be required to achieve those
         needs and goals.
 
     Project
-    :   A Project is a sequence of Sprints used to develop features for a
-        Product.
+    :   A Project is a series of Sprints used to complete work that will
+        meet a specified set of goals.
 
-    Reject
-    :   A Rejected story is one which, following its implementation, you
-        do not believe has been Finished.
+    Reject, Rejected
+    :   If you believe a Story's implementation has not met its Acceptance
+        Criteria, you can Reject it, in which case, it becomes Rejected.
 
     Required Materials
     :   Required Materials are things that dxw needs in order to
@@ -53,25 +52,24 @@
         instructions.
 
     Sprints Estimate
-    :   The number of Sprints dxw estimates will be required to deliver
-        a Product, as specified in the Project Description. Generally
-        expressed as a range; for example: "Between X and Y sprints".
+    :   The approximate number of Sprints dxw estimates will be required 
+        to deliver a Product, as specified in the Project Description. 
+        Generally expressed as a range; for example: "Between X and Y sprints".
         These numbers are estimates, and are not binding.
 
     Started
-    :   A Story has been Started when a developer has begun its
-        implementation.
+    :   A Story has been Started when dxw has started its implementation.
 
     Story
     :   A Story is a description of some work to be completed. In order
         for Story to be considered "ready" for implementation, it must:
         specify a user need; identify the user who has the need; and
-        describe some behaviour that (having been implemented) will meet
+        describe some behaviour which, having been implemented, will meet
         that need.
 
     Surrounding Activities
-    :   Surrounding Activities are services dxw provides as part of the
-        Project which are not part of a Sprint; for example: assisting 
+    :   Surrounding Activities are services other than the implementation
+        of Stories which dxw provides as part of a Sprint; for example: assisting 
         you with the definition and prioritisation of Stories at the start 
         of the Project, user testing and discovery, penetration testing, 
         research or product strategy.
@@ -83,7 +81,7 @@
 
         1.  The initial Project Description;
         2.  A recommendation for the duration of a Sprint, its
-            Surrounding Activities and a number of developers;
+            Surrounding Activities and the makeup of its team;
         3.  Our fees, including a per-Sprint fee (based on the recommended 
             Sprint) and our fees for any Surrounding Activities;
         4.  An indication of when dxw is available to start the work and
@@ -105,8 +103,8 @@
 
 4. ### Sprints
 
-    1.  dxw will deliver a number of Sprints in order to create a
-        Product.
+    1.  dxw will deliver a number of Sprints in order to do work that will 
+        meet your goals.
     2.  Initially, dxw will deliver Sprints with the structure agreed in
         the proposal.
     3.  At any time, you may request that the length of the Sprint or
@@ -174,22 +172,22 @@
         4.  Contact details for members of dxw's staff who you may need
             to contact, including an escalation contact.
 
-    2.  At any time, you may request further Sprints. Subject to our
+    2.  At any time, you may request further Sprints. Subject to its
         availability, dxw will make reasonable efforts to schedule
         Sprints at a time that is convenient to you.
     3.  Whenever further Sprints are requested, dxw will provide an
-        additional order summary for those Sprints.
+        further order summary for those Sprints.
     4.  Upon your acceptance of an order summary, the specified Sprints
         will be booked.
     5.  If you cancel a Sprint which has been booked, a cancellation fee
         will immediately become payable. The cancellation fee is 50% of
         the cost of the Sprint.
-    6.  If the upper value in the Sprints Estimate is reached and the
+    6.  If the upper limit in the Sprints Estimate is reached and the
         Product falls materially short of the standard specified in the
-        original Project Description ("Unacceptable"), dxw will discount
+        Project Description ("Unacceptable"), dxw will discount
         the cost of further sprints by 30%.
-    7.  As soon as the Product is no longer Unacceptable, no further
-        discounts will apply.
+    7.  As soon as the Product is no longer Unacceptable, the 30%
+        discount will not apply.
     8.  dxw reserves the right not to provide discounted Sprints if:
 
         1.  The Product is Unacceptable in part or in whole because of your
@@ -213,8 +211,10 @@
         order for the Project to be completed successfully. In this context "engage"
         includes promptly:
 
-        1.  Responding to our enquiries;
-        2.  Providing feedback, Rejecting and Accepting Stories in good time;
+        1.  Participating actively in the work, particularly in planning and 
+            retrospecive sessions;
+        2.  Responding to our enquiries;
+        2.  Providing feedback, Rejecting and Accepting Stories promptly;
         3.  Supplying to us any Required Materials;
         4.  Reporting any problems that could affect delivery.
 
@@ -223,7 +223,9 @@
     1.  At dxw's sole discretion, freelancers or contractors may be used
         in place of dxw employees in order to complete Sprints or
         Surrounding Activities.
-    2.  dxw will not outsource any Sprint or Surrounding Activity
+    2.  Wherever freelancers or contractors are used, they will work under
+        our direction.
+    3.  dxw will not outsource any Sprint or Surrounding Activity
         without your prior agreement, which must not be unreasonably
         withheld or delayed.
 
@@ -233,7 +235,7 @@
     2.  dxw will deliver code that is as free of bugs and security
         vulnerabilities as is reasonably practical.
     3.  dxw is insured against professional negligence to a value of
-        £2,000,000 (the "insured sum"). We would be willing to negotiate 
+        £2,000,000 (the "insured sum"). dxw is willing to negotiate 
         an increase in the insured sum on condition that we were able to 
         pass on any corresponding increase in the premium.
 
@@ -251,7 +253,7 @@
     5.  You agree that it is your responsibility to ensure that you put
         in place measures that make you able to operate in the event of
         any such failure. dxw can work with you to design or implement
-        such measures at your request for an agreed fee.
+        such measures at your request as a Surrounding Activity.
     6.  Nothing in this agreement should be read as excluding our
         liability for death or personal injury caused by our negligence.
     7.  In any event, dxw's total liability under this agreement is
@@ -271,11 +273,11 @@
         3.  Your Project's likely completion date(s);
         4.  Our fee for your Project.
 
-    3.  However, dxw do regard the following as confidential:
+    3.  However, dxw will keep confidential:
 
         1.  The specific content of documents or copy that will be
             published on any of your websites that is not yet publicly
-            available, most especially the content of forthcoming
+            available, especially the content of forthcoming
             strategy or policy announcements;
         2.  Personal data dxw acquires during the course of the Project;
         3.  The content or existence of any document you send to us that
