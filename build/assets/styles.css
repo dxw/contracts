@@ -1,71 +1,46 @@
-@font-face {
-  font-family: 'Raleway';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Raleway'), url(http://themes.googleusercontent.com/static/fonts/raleway/v7/cIFypx4yrWPDz3zOxk7hIQLUuEpTyoUstqEm5AMlJo4.woff) format('woff');
-}
-
-@font-face {
-  font-family: 'Raleway';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Raleway Bold'), local('Raleway-Bold'), url(http://themes.googleusercontent.com/static/fonts/raleway/v7/JbtMzqLaYbbbCL9X6EvaI73hpw3pgy2gAi-Ip7WPMi0.woff) format('woff');
-}
-
-@font-face {
-  font-family: 'Ubuntu';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Ubuntu'), url(http://themes.googleusercontent.com/static/fonts/ubuntu/v5/vRvZYZlUaogOuHbBTT1SNevvDin1pK8aKteLpeZ5c0A.woff) format('woff');
-}
-
-@font-face {
-  font-family: 'Ubuntu';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Ubuntu Bold'), local('Ubuntu-Bold'), url(http://themes.googleusercontent.com/static/fonts/ubuntu/v5/0ihfXUL2emPh0ROJezvraLO3LdcAZYWl9Si6vvxL-qU.woff) format('woff');
-}
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic);
 
 body
 {
-  font-family: Ubuntu, sans-serif;
-  background: #bcd;
+  font-family: "PT Sans", sans-serif;
+  background: #fff;
+  font-size: 12pt;
+  line-height: 120%;
   margin: 0;
 }
 
 header {
-  padding-left: 20px;
+  margin: 20px 20px 40px 20px;
 }
 
 h1,h2, h3 {
-  width: 1000px;
-  padding-left: 20px;
-  color: #1ba4e6;
+  margin-left: 20px;
+  margin-top: 20px;
+
+  font-weight: 700;
+}
+
+h2, h3, h4, h5
+{
+  margin-top: 0;
 }
 
 h1 {
-  font-size: 26px;
+  font-size: 28pt;
 }
 
 h2 {
-  font-size: 22px;
+  font-size: 22pt;
 }
 
 h3, section ol li {
-  padding-left: 0px;
-  color: #1ba4e6;
-}
-
-section ol li ol li {
-  color: #000;
+  margin-left: 0px;
 }
 
 section.container
 {
-  width: 1100px;
   margin: 0 auto;
   background: white;
-  padding: 20px;
 }
 
 ol, dl
@@ -92,7 +67,7 @@ li:before, dt:before
 {
   content: counters(item,".") ". ";
   counter-increment: item;
-  font-weight: normal;
+  font-weight: 400;
   padding: 0 8px 8px 0;
 }
 
@@ -100,19 +75,6 @@ li:before
 {
   display: table-cell;
   vertical-align: top;
-}
-
-h1, h2, h3, h4, h5
-{
-  font-family: Raleway, sans-serif;
-  display: inline-block;
-  font-weight: 400;
-  margin-top: 20px;
-}
-
-h2, h3, h4, h5
-{
-  margin-top: 0;
 }
 
 p
@@ -125,7 +87,10 @@ p
 dt
 {
   font-weight: 700;
-  display: inline;
+}
+
+dd {
+  margin-bottom: 20px;
 }
 
 dt:after
