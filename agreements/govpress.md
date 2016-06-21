@@ -1,6 +1,6 @@
 # GovPress Terms of Service
 
-## 22nd September 2015
+## 21st June 2016
 
 1. ### Parties
 
@@ -45,7 +45,15 @@
     Staging Environment
     :   A Staging Environment is a private copy of your live website, which
         can be used to test changes or new content in private before making
-        changes to your publicly available live website.
+        changes to your publicly available live website. The Staging Environment
+        differs substantially from the live environment, is not monitored and is
+        not backed up. It is suitable only for minor testing with unclassified content.
+
+    Pre-production Environment
+    :   A Pre-production Environment is a private copy of your live website which
+        you can use to conduct automated testing or detailed content work.
+        The Pre-production Environment is a close copy of your live website and
+        is suitable for detailed content and assurance work.
 
     Support Ticket
     :   A Support Ticket is a task, created by completing an online form or
@@ -121,7 +129,7 @@
 
         1.  Monitoring of production logs for issues of concern;
         2.  Monitoring of open source intelligence sources for information
-            about newly discovered WordPress and WordPress plugin vulnerability.
+            about newly discovered WordPress and WordPress plugin vulnerabilities.
 
     4.  Unless otherwise agreed, dxw will not, under this contract, provide any
         service not specified in clause 4.1, 4.2 or 4.3 unless it is specified
