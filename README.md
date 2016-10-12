@@ -6,12 +6,14 @@ Most people fork and edit these to suit, but if you find an issue or make an imp
 
 ## Usage
 
-1. Clone the repo:
+1. You will need Git, Ruby 2 and Bundler installed.
+
+2. Clone the repo:
 
    ``` 
    $ git clone https://github.com/dxw/contracts.git
    ```
-2. Run bundle:
+3. Run bundle:
    
    ```
    $ cd contracts
@@ -20,7 +22,7 @@ Most people fork and edit these to suit, but if you find an issue or make an imp
 
    Kramdown should be installed.
    
-3. To compile the agreements into HTML:
+4. To compile the agreements into HTML:
    
    ```
    $ bundle exec ./compile
