@@ -136,7 +136,7 @@
         in the Proposal, including but not limited to:
 
         1.  Support for any third-party services upon which your service relies;
-        2.  Changes to your website which constitute new functionality;
+        2.  Changes to your website which constitute new functionality.
 
     5.  GovPress must only be used in accordance with its Acceptable Usage Policy,
         which forms part of this agreement.
