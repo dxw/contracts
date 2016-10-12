@@ -3,8 +3,8 @@
 body
 {
   font-family: "PT Sans", sans-serif;
-  background: #fff;
-  font-size: 12pt;
+  background: #eee;
+  font-size: 16pt;
   line-height: 120%;
   margin: 0;
 }
@@ -13,27 +13,27 @@ header {
   margin: 20px 20px 40px 20px;
 }
 
-h1,h2, h3 {
+h1,h2,h3 {
   margin-left: 20px;
   margin-top: 20px;
 
   font-weight: 700;
 }
 
-h2, h3, h4, h5
+li > h3, li > h2
 {
-  margin-top: 0;
+  margin: 0 0 10px 0;
 }
 
 h1 {
-  font-size: 28pt;
+  font-size: 32pt;
 }
 
 h2 {
   font-size: 22pt;
 }
 
-h3, section ol li {
+section ol li {
   margin-left: 0px;
 }
 
@@ -41,6 +41,9 @@ section.container
 {
   margin: 0 auto;
   background: white;
+  max-width: 1200px;
+  padding: 50px;
+  box-shadow: 0 0 0 0.75pt #d1d1d1,0 0 3pt 0.75pt #ccc;
 }
 
 ol, dl
@@ -56,11 +59,15 @@ li
 {
   line-height: 28px;
   display: table-row;
-  page-break-inside: avoid;
 }
 
-li ol {
-  margin-bottom: 15px;
+ol li ol {
+  margin-bottom: 5px;
+  border-spacing: 10px;
+}
+
+ol li ol li {
+  page-break-inside: avoid;
 }
 
 li:before, dt:before
@@ -77,11 +84,32 @@ li:before
   vertical-align: top;
 }
 
+table {
+  margin: 0 0 50px 20px;
+}
+
+table td {
+  padding: 10px 10px 20px 0px;
+  border-bottom: 1px solid #000;
+}
+
+table tr td:nth-child(1) {
+  width: 30%;
+  vertical-align: top;
+  font-size: 16pt;
+}
+
+table tr td:nth-child(2) {
+  border-left: 1px solid #000;
+  padding-left: 10px;
+}
+
 p
 {
   display: inline-block;
-  margin: 0;
+  margin: 0 0 10px 20px;
   padding: 0 0 5px;
+  page-break-inside: avoid;
 }
 
 dt
@@ -96,4 +124,28 @@ dd {
 dt:after
 {
   font-weight: 700;
+}
+
+@media print {
+  section.container {
+    padding: 0;
+    box-shadow: none;
+  }
+
+  body {
+    background: #fff;
+    font-size: 12pt;
+  }
+
+  h1 {
+    font-size: 26pt;
+  }
+
+  h2 {
+    font-size: 18pt;
+  }
+
+  table tr td:nth-child(1) {
+    font-size: 14pt;
+  }
 }
