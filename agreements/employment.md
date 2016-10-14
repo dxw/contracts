@@ -1,20 +1,33 @@
 #Contract of Employment
 
-<!--## Questions
+## Questions
 
-* Should we add a section under Pay to cover deductions made by arrangement when we offer a loan or advance?
 * We vs Us vs The Company
-* Sickness absence requires thought
-* General duties?
-    * Values?
+* Are there other general duties?
 * "Staff handbook" should be recast as something which pulls specified bits of the playbook into the ambit of the contract. What should it be called?
-* We need a company sick pay policy that captures our current approach (just pay people) with sufficient safeguards in case someone is long term sick in the future. We also should not be dicks.
-* Gratuities/gifts
-* Right to search cupboards/desks?
 * DPA?
 * Indemnity?
+* Holiday practicalities
+    * Have a script which checks Forecast for work 28 days in the future and prompts people to book holiday if they want it
+    * Or an email with a link to confirm that they aren't taking any?
+    * Or just require 28 days notice and keep it manual?
+    * Or publish holiday somewhere and alert clients or DMs automatically to absences?
+    * Or push Breathe holiday into Forecast and then create some way for clients to see their project in Forecast?
 
--->
+## Changes so far
+
+* Additional rights for dxw to make deductions from pay, permitting loan repayments, recovering expenses paid in error and recovering costs incurred due to negligence or dishonesty
+* Commission scheme removed, as it is not used
+* Probationary period increased to four months, with an option to extend for a further two
+* Notice period increased for staff who have been here for more than two years
+* Pension scheme added
+* Employee right to claim expenses added
+* Parental leave added
+* Sick pay added
+* Obligation to report and abstain from offering inappropriate gratuities
+* General duty to abide by dxw's values
+* Holiday notice periods normalised to 7 days for a day off and 28 days for anything longer
+
 
 ## Version: 12th October 2016
 
@@ -48,7 +61,7 @@ This document doubles as a written statement of the particulars of your employme
         2. you are paid expenses which are subsequently disallowed;
         3. there is an outstanding amount due on any loan or advance paid to you by us;
         4. we become liable for any damage, loss of property, fine or charge as a result of your negligence, dishonesty, breach of contract or failure to follow the company's policies.
- 
+
 4. ### Hours of work
     1. Unless you work part-time, your normal working day is 7 hours long, making a 35 hour working week. During busy periods, you may be required to work longer hours, up to a maximum of 50 hours a week, on average, over a rolling 6 week period.
     2. Your normal working hours are 10:00am to 6:00pm with an hour off for lunch. We are open to arrangements for flexible working hours, at the company's sole discretion.
@@ -59,7 +72,7 @@ This document doubles as a written statement of the particulars of your employme
     2. You will be paid pro rata as follows: the number of days you have worked each month will be divided by the number of weekdays (Monday to Friday) in the same month, the resulting fraction will be multiplied by one twelfth of the equivalent full time annual salary to give the amount of pay you are entitled to in that month.
 
 6. ### Fixed part-time staff
-    1. If your pay is specified as being *fixed part time* then you will work for a number days per week to be agreed at the commencement of this contract. 
+    1. If your pay is specified as being *fixed part time* then you will work for a number days per week to be agreed at the commencement of this contract.
     2. You will be paid pro rata as follows: the number of days you work each week will be divided by five, the resulting fraction will be multiplied by one twelfth of the equivalent full time annual salary to give the amount of pay you are entitled to each month.
 
 7. ### Probationary period
@@ -78,50 +91,62 @@ This document doubles as a written statement of the particulars of your employme
 
 9. ### Holiday entitlement
     1. We operate a holiday year which runs from 1st July to 30th June in the following year.
-    2. Leave accrues throughout the year according to the formula given below, resulting in 33 days paid holiday for full time staff and a pro rata proportion for those working part time.
+    2. Leave accrues throughout the year according to the formula given below, resulting in 33 days paid leave for full time staff and a pro rata proportion for those working part time.
     3. Unless notified otherwise you will be required to take all Bank Holidays and Public Holidays as leave and those days are counted in the total of 33 days.
-    4. You may carry over a maximum of 5 days' holiday from one holiday year to the next.
+    4. You may carry over a maximum of 5 days' leave from one holiday year to the next.
     5. At any time in a leave year, your accrued leave entitlement may be calculated as follows: 2.08 x Number of days worked in the year to date / 21.75
     6. The amount of leave you may take will be the total leave accrued, rounded up to the nearest half a day, minus any leave you have already taken in the leave year.
     7. We will usually permit you to take up to 5 days leave in advance of it being accrued.
-    8. You must give us notice before taking your holiday equal to 2 times the number of days of holiday you will be taking.
-    9. If you leave the company, you will receive payment in lieu for any part of your holiday entitlement which has accrued but which has not been taken. Similarly, if you have taken more holiday than you have accrued, we will deduct the appropriate amount of pay from any payment due from us to you on the termination of your employment or, if this is insufficient, we will require you to make up any shortfall.
+    8. If you wish to take leave, you must obtain approval (which will not be unreasonably withheld) and give notice of:
+        1. 28 days for a period of leave longer than 1 day;
+        2. 7 days for a period of 1 day or less.
+    9. When your employment ends, you will receive payment in lieu for any part of your leave entitlement which has accrued but which has not been taken. Similarly, if you have taken more leave than you have accrued, we will deduct the appropriate amount of pay from any payment due from us to you on the termination of your employment or, if this is insufficient, we will require you to make up any shortfall.
 
 10. ### Sickness absence
-    1. You will be paid normally for periods of sickness absence up to 3 working days long.
-    2. You may be paid for longer periods of sickness, at the company's discretion.
+    1. dxw will pay your normal salary for up to ten days of sickness per year.
+    2. Further details of dxw's sickness absence arrangements are published in the Staff Handbook.
 
-11. ### Pension
+11. ### Parental leave
+    1. Details of dxw's parental leave arrangements are published in the Staff Handbook.
+
+12. ### Pension
     1. Details of dxw's pension arrangements are published in the Staff Handbook.
 
-12. ### Expenses
+13. ### Expenses
     1. We will reimburse you for out-of-pocket expenses that you incur in the course of your employment with us, subject to those expenses being reasonable, proportionate, necessary and evidenced.
     2. Details of dxw's expenses policy and the process for claiming expenses are published in the Staff Handbook.
-    
-12. ### Retirement
+
+14. ### Retirement
     1. We do not set any compulsory retirement age.
 
-13. ### Confidentiality
+15. ### Confidentiality
     1. You will not use nor disclose to any other person any confidential information acquired by you during the course of your employment for any purpose other than the performance of your duties.
     2. After your employment with us, any information that is sufficiently confidential as to amount to a trade secret must not be used by you in any future employment, or be disclosed to any other person, while that information retains its quality as a trade secret.
     3. On ending your employment with us you must return to us any physical documents given to you, or generated by you, during the course of your employment.
     4. During your employment, you may be given permission to copy take copies of documents, including computer programs, planning documents and ancillary documentation, in which copyright subsists. Copies may be made available to you in different way — for example by giving you access to a version control repository. Unless we agree otherwise, your licence to retain and use copies of any such material is limited to the period of your employment with us. Once you have ceased to work with us you agree that you will delete all copies of any such material (including any backup copies) that remain in your possession or control.
 
-14. ### Loyalty
+16. ### Loyalty
     1. You agree that while you are employed by us you will not, without our prior written consent, carry out any work for or take employment with any employer who is or could reasonably become a competitor of our company.
     2. Similarly, you agree not to carry out any work for any employer who is or could reasonably become a client of our company, other than the work you do as part of your employment with us.
     3. You may carry out any other work provided it does not interfere with the performance of your duties working for us.
 
-15. ### General duties
-    1. During your employment with us, you must complete your work to the best of your ability, and in accordance with dxw's policies.
+17. ### Gratuituies
+    1. You must immediately report in writing any offer of gifts or hospitality by a customer, supplier or any other such person with an interest in or connection to the company if it might reasonably be seen to compromise your judgement or integity.
+    2. You must not accept any such offer without the prior agreement of the company.
+    4. You must not offer any gifts or hospitality to a customer, supplier or any other such person with an interest in or connection to the company if it might reasonably be seen to compromise their judgement or integity.
+    3. "Gifts" and "hospitality" do not include ordinary, day-to-day items routinely purchased for others, such as refreshments in meetings.
 
-16. ### Disciplinary and grievance procedures
+18. ### General duties
+    1. During your employment with us, you must:
+        1. complete your work to the best of your ability, and in accordance with dxw's policies;
+        2. as far as you are able, behave in ways which embody dxw's values, as published in the Playbook;
+
+19. ### Disciplinary and grievance procedures
     1. Details of dxw's discplinary and grievance procedures are published in the Staff Handbook.
 
-17. ### Staff Handbook
+20. ### Staff Handbook
     1. Further rules concerning your employment with us are contained in the Staff Handbook. Unless otherwise indicated, the contents of the Staff Handbook form a part of your contract of employment. It is your duty as an employee to familiarise yourself with the contents of the Staff Handbook.
     2. The contents of the Staff Handbook will be varied by us from time to time. We will give you advance notice of any change by email. Any variations to the Staff Handbook will be incorporated into your contract of employment from the date on which they are notified to you.
 
-    
 
-    
+
