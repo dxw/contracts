@@ -70,6 +70,15 @@ ol li ol li {
   page-break-inside: avoid;
 }
 
+ol li ol li ol {
+  padding-top: 10px;
+  border-spacing: 0;
+}
+
+ol li ol li ol li:before {
+  padding-bottom: 0;
+}
+
 li:before, dt:before
 {
   content: counters(item,".") ". ";
