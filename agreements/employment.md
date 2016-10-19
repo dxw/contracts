@@ -1,12 +1,9 @@
-#Contract of Employment
-
+<!--
 ## Questions
 
 * We vs Us vs The Company
 * Are there other general duties?
 * "Staff handbook" should be recast as something which pulls specified bits of the playbook into the ambit of the contract. What should it be called?
-* DPA?
-* Indemnity?
 * Holiday practicalities
     * Have a script which checks Forecast for work 28 days in the future and prompts people to book holiday if they want it
     * Or an email with a link to confirm that they aren't taking any?
@@ -27,25 +24,28 @@
 * Obligation to report and abstain from offering inappropriate gratuities
 * General duty to abide by dxw's values
 * Holiday notice periods normalised to 7 days for a day off and 28 days for anything longer
+-->
 
+# Contract of Employment
+<div style="page-break-after:always"></div>
 
-## Version: 12th October 2016
-
-### Statement of particulars of employment
+## Statement of particulars of employment
 
 This document doubles as a written statement of the particulars of your employment which we are obliged to give you by section 1 of the Employment Rights Act 1996 and the terms and conditions of your contract of employment with us. There are no collective agreements affecting your terms of employment and no particulars to be given to you regarding work outside the United Kingdom for the duration of your contract.
 
-### Your information
+|**Full name**|<textarea></textarea>|
+|**Address**|<textarea></textarea>|
+|**Job title**|<textarea></textarea>|
+|**Job description**|<textarea class="big"></textarea>|
+|**Pay**|<textarea>£xx,000 per annum (pro rata fixed part time or variable part time)</textarea>|
+|**Location**|<textarea class="big">The first place you will be required to work for us under this contract will be Unit B7, 8-9 Hoxton Square, Greater London, N1 6NU, United Kingdom. You may be required to work, either temporarily or permanently, at any office within the Greater London area.</textarea>|
+|**Contract date**|<textarea></textarea>|
+|**Commencement date**|<textarea></textarea>|
+|**Previous continuous employment**|<textarea></textarea>|
 
-|**Full name**||
-|**Address**||
-|**Job title**||
-|**Job description**||
-|**Pay**||
-|**Location**|The first place you will be required to work for us under this contract will be Unit B7, 8-9 Hoxton Square, Greater London, N1 6NU, United Kingdom. You may be required to work, either temporarily or permanently, at any office within the Greater London area.|
-|**Contract date**||
-|**Commencement date**||
-|**Previous continuous employment**||
+<div style="page-break-after:always"></div>
+
+## Terms of your employment
 
 1. ### Employer
     1. You are employed by The Dextrous Web Ltd, a company registered in England and Wales under number 6617101, trading as dxw. Our registered office is at Unit B7, 8-9 Hoxton Square, Greater London, N1 6NU.
@@ -148,5 +148,5 @@ This document doubles as a written statement of the particulars of your employme
     1. Further rules concerning your employment with us are contained in the Staff Handbook. Unless otherwise indicated, the contents of the Staff Handbook form a part of your contract of employment. It is your duty as an employee to familiarise yourself with the contents of the Staff Handbook.
     2. The contents of the Staff Handbook will be varied by us from time to time. We will give you advance notice of any change by email. Any variations to the Staff Handbook will be incorporated into your contract of employment from the date on which they are notified to you.
 
-
+<small>Version: 12th October 2016</small>
 
