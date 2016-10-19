@@ -5,7 +5,7 @@ body
   font-family: "PT Sans", sans-serif;
   background: #eee;
   font-size: 16pt;
-  line-height: 120%;
+  line-height: 28px;
   margin: 0;
 }
 
@@ -57,17 +57,12 @@ ol, dl
 
 li
 {
-  line-height: 28px;
   display: table-row;
 }
 
 ol li ol {
   margin-bottom: 5px;
   border-spacing: 10px;
-}
-
-ol li ol li {
-  page-break-inside: avoid;
 }
 
 ol li ol li ol {
@@ -98,7 +93,7 @@ table {
 }
 
 table td {
-  padding: 10px 10px 20px 0px;
+  padding: 10px 10px 0px 0px;
   border-bottom: 1px solid #000;
 }
 
@@ -135,26 +130,54 @@ dt:after
   font-weight: 700;
 }
 
+textarea {
+  width: 100%;
+  border: none;
+  font-family: "PT Sans", sans-serif;
+  font-size: 16pt;
+  resize: none;
+  height: 28px;
+}
+
+textarea.big {
+  height: 112px;
+}
+
 @media print {
+  @page
+  {
+      size: auto;   /* auto is the initial value */
+
+      /* this affects the margin in the printer settings */
+      margin: 10mm 10mm 10mm 10mm;
+  }
+
   section.container {
     padding: 0;
     box-shadow: none;
+    margin: 0;
   }
 
   body {
     background: #fff;
-    font-size: 12pt;
+    font-size: 11pt;
+    line-height: 22px;
   }
 
   h1 {
-    font-size: 26pt;
+    margin-top: 3cm;
+    font-size: 36pt;
   }
 
   h2 {
-    font-size: 18pt;
+    font-size: 20pt;
   }
 
   table tr td:nth-child(1) {
-    font-size: 14pt;
+    font-size: 11pt;
+  }
+
+  textarea {
+    font-size: 12pt;
   }
 }
