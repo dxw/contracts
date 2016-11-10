@@ -116,17 +116,17 @@ This document doubles as a written statement of the particulars of your employme
         1. Relevant medical information
         2. Options for alternative working arrangements or duties
         3. Your views and preferences
-    4. Further details of dxw's sickness absence arrangements are published in the Staff Handbook.
+    4. Further details of dxw's sickness absence arrangements are published in the Playbook.
 
 11. ### Parental leave
-    1. Details of dxw's parental leave arrangements are published in the Staff Handbook.
+    1. Details of dxw's parental leave arrangements are published in the Playbook.
 
 12. ### Pension
-    1. Details of dxw's pension arrangements are published in the Staff Handbook.
+    1. Details of dxw's pension arrangements are published in the Playbook.
 
 13. ### Expenses
     1. We will reimburse you for out-of-pocket expenses that you incur in the course of your employment with us, subject to those expenses being reasonable, proportionate, necessary and evidenced.
-    2. Details of dxw's expenses policy and the process for claiming expenses are published in the Staff Handbook.
+    2. Details of dxw's expenses policy and the process for claiming expenses are published in the Playbook.
 
 14. ### Retirement
     1. We do not set any compulsory retirement age.
@@ -155,11 +155,11 @@ This document doubles as a written statement of the particulars of your employme
         3. follow dxw's policies, as published and varied from time to time;
 
 19. ### Disciplinary and grievance procedures
-    1. Details of dxw's discplinary and grievance procedures are published in the Staff Handbook.
+    1. Details of dxw's discplinary and grievance procedures are published in the Playbook.
 
-20. ### Staff Handbook
-    1. Further rules concerning your employment with us are contained in the Staff Handbook. Unless otherwise indicated, the contents of the Staff Handbook form a part of your contract of employment. It is your duty as an employee to familiarise yourself with the contents of the Staff Handbook.
-    2. The contents of the Staff Handbook will be varied by us from time to time. We will give you advance notice of any change by email. Any variations to the Staff Handbook will be incorporated into your contract of employment from the date on which they are notified to you.
+20. ### Playbook
+    1. Further rules concerning your employment with us are contained in the _Working at dxw_ section of the Playbook, which forms a part of your contract of employment.
+    2. The _Working at dxw_ section of the Playbook will be varied by us from time to time. We will give you notice of any such changes, which will be incorporated into your contract of employment from the date on which they are notified to you.
 
 <small>Version: 12th October 2016</small>
 
