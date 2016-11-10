@@ -113,9 +113,9 @@ This document doubles as a written statement of the particulars of your employme
     1. dxw will pay your normal salary for up to ten days of sickness per year.
     2. If you are frequently absent as a result of being sick, or are absent for a long period ("persistent sickness absence"), we may have no choice but to dismiss you.
     3. dxw will not dismiss you for persistent sickness absence without making every reasonable effort to accommodate your circumstances. In particular, we will consider:
-        1. Relevant medical information
-        2. Options for alternative working arrangements or duties
-        3. Your views and preferences
+        1. relevant medical information
+        2. options for alternative working arrangements or duties
+        3. your views and preferences
     4. Further details of dxw's sickness absence arrangements are published in the Playbook.
 
 11. ### Parental leave
