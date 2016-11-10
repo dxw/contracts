@@ -143,8 +143,9 @@ This document doubles as a written statement of the particulars of your employme
 
 18. ### General duties
     1. During your employment with us, you must:
-        1. complete your work to the best of your ability, and in accordance with dxw's policies;
+        1. complete your work expeditiously, dilligently, and to the best of your ability;
         2. as far as you are able, behave in ways which embody dxw's values, as published in the Playbook;
+        3. follow dxw's policies, as published and varied from time to time;
 
 19. ### Disciplinary and grievance procedures
     1. Details of dxw's discplinary and grievance procedures are published in the Staff Handbook.
