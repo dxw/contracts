@@ -80,14 +80,14 @@ This document doubles as a written statement of the particulars of your employme
     2. If at the conclusion of your probationary period the company requires more time to assess your performance, your probationary period may be extended by a further two months.
 
 8. ### Notice period
-    1. In cases of gross misconduct, you may be dismissed with no notice.
+    1. In cases of gross misconduct, you may be dismissed without notice.
     2. Other than in cases of gross misconduct, your notice period:
         1. during your probationary period is two weeks;
         2. following your probationary period up to the second anniversary of your commencement date is six weeks;
         3. after the second anniversary of your commencement date, six weeks plus an additional week for each year of service up to a maximum of 12 weeks.
     3. These periods apply to both you and the company, irrespective of who is giving notice to whom.
     4. Notice to quit will only be effective if given in writing, which includes by e-mail.
-    5. Once notice has been given (whether from you to us, or from us to you), we reserve the right, at any time after the notice was given while you are still employed with us, to give you pay in lieu of notice. This means that we will pay you as a lump sum, the salary that would otherwise be payable to you during the unexpired portion of your notice period.
+    5. Once notice has been given (whether from you to us, or from us to you), we reserve the right, at any time after the notice was given while you are still employed with us, to give you pay in lieu of notice. This means that we will pay you, as a lump sum, the salary that would otherwise be payable to you during the unexpired portion of your notice period.
 
 9. ### Holiday entitlement
     1. We operate a holiday year which runs from 1st July to 30th June in the following year.
@@ -104,7 +104,7 @@ This document doubles as a written statement of the particulars of your employme
 
 10. ### Sickness absence
     1. dxw will pay your normal salary for up to ten days of sickness per year.
-    2. If you are sick for a long time, we may have no choice but to dismiss you.
+    2. If you are frequently absent as a result of being sick, or are absent for a long period ("persistent sickness absence"), we may have no choice but to dismiss you.
     3. dxw will not dismiss you for persistent sickness absence without making every reasonable effort to accommodate your circumstances. In particular, we will consider:
         1. Relevant medical information
         2. Options for alternative working arrangements or duties
