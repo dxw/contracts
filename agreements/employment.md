@@ -80,7 +80,14 @@ This document doubles as a written statement of the particulars of your employme
     2. If at the conclusion of your probationary period the company requires more time to assess your performance, your probationary period may be extended by a further two months.
 
 8. ### Notice period
-    1. In cases of gross misconduct, you may be dismissed without notice.
+    1. In cases of gross misconduct, you may be dismissed without notice. The following is an indicative, non-exhaustive list of things that might constitute gross misconduct:
+        1. insubordination;
+        2. committing a tort or being convicted for a criminal offence that impacts on your employment;
+        3. fighting or assaulting another person or causing another person to fear violence;
+        3. deliberately damaging property;
+        4. dishonesty, theft or fraud;
+        5. deliberately or recklessly disclosing confidential information or personal data to a third party;
+        6. willfully or seriously breaching the terms of this contract.
     2. Other than in cases of gross misconduct, your notice period:
         1. during your probationary period is two weeks;
         2. following your probationary period up to the second anniversary of your commencement date is six weeks;
