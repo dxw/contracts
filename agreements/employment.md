@@ -9,7 +9,6 @@
     * Or just require 28 days notice and keep it manual?
     * Or publish holiday somewhere and alert clients or DMs automatically to absences?
     * Or push Breathe holiday into Forecast and then create some way for clients to see their project in Forecast?
-* Check numbers styles
 
 ## Changes so far
 
@@ -65,7 +64,7 @@ This document doubles as a written statement of the particulars of your employme
         4. we become liable for any damage, loss of property, fine or charge as a result of your negligence, dishonesty, breach of contract or failure to follow the company's policies.
 
 4. ### Hours of work
-    1. Unless you work part-time, your normal working day is 7 hours long, making a 35 hour working week. During busy periods, you may be required to work longer hours, up to a maximum of 50 hours a week, on average, over a rolling 6 week period.
+    1. Unless you work part-time, your normal working day is seven hours long, making a 35 hour working week. During busy periods, you may be required to work longer hours, up to a maximum of 50 hours a week, on average, over a rolling six week period.
     2. Your normal working hours are 10:00am to 6:00pm with an hour off for lunch. We are open to arrangements for flexible working hours, at the company's sole discretion.
     3. We do not operate any overtime scheme nor have any arrangements for the paying of bonuses.
 
@@ -74,7 +73,7 @@ This document doubles as a written statement of the particulars of your employme
     2. You will be paid pro rata as follows: the number of days you have worked each month will be divided by the number of weekdays (Monday to Friday) in the same month, the resulting fraction will be multiplied by one twelfth of the equivalent full time annual salary to give the amount of pay you are entitled to in that month.
 
 6. ### Fixed part-time staff
-    1. If your pay is specified as being *fixed part time* then you will work for a number days per week to be agreed at the commencement of this contract.
+    1. If your pay is specified as being "fixed part time" then you will work for a number days per week to be agreed at the commencement of this contract.
     2. You will be paid pro rata as follows: the number of days you work each week will be divided by five, the resulting fraction will be multiplied by one twelfth of the equivalent full time annual salary to give the amount of pay you are entitled to each month.
 
 7. ### Probationary period
@@ -102,13 +101,13 @@ This document doubles as a written statement of the particulars of your employme
     1. We operate a holiday year which runs from 1st July to 30th June in the following year.
     2. Leave accrues throughout the year according to the formula given below, resulting in 33 days paid leave for full time staff and a pro rata proportion for those working part time.
     3. Unless notified otherwise you will be required to take all Bank Holidays and Public Holidays as leave and those days are counted in the total of 33 days.
-    4. You may carry over a maximum of 5 days' leave from one holiday year to the next.
+    4. You may carry over a maximum of five days' leave from one holiday year to the next.
     5. At any time in a leave year, your accrued leave entitlement may be calculated as follows: 2.08 x Number of days worked in the year to date / 21.75
     6. The amount of leave you may take will be the total leave accrued, rounded up to the nearest half a day, minus any leave you have already taken in the leave year.
-    7. We will usually permit you to take up to 5 days leave in advance of it being accrued.
+    7. We will usually permit you to take up to five days leave in advance of it being accrued.
     8. If you wish to take leave, you must obtain approval (which will not be unreasonably withheld) and give notice of:
-        1. 28 days for a period of leave longer than 1 day;
-        2. 7 days for a period of 1 day or less.
+        1. 28 days for a period of leave longer than one day;
+        2. seven days for a period of one day or less.
     9. When your employment ends, you will receive payment in lieu for any part of your leave entitlement which has accrued but which has not been taken. Similarly, if you have taken more leave than you have accrued, we will deduct the appropriate amount of pay from any payment due from us to you on the termination of your employment or, if this is insufficient, we will require you to make up any shortfall.
 
 10. ### Sickness absence
