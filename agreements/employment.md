@@ -3,13 +3,13 @@
 
 * We vs Us vs The Company
 * Are there other general duties?
-* "Staff handbook" should be recast as something which pulls specified bits of the playbook into the ambit of the contract. What should it be called?
 * Holiday practicalities
     * Have a script which checks Forecast for work 28 days in the future and prompts people to book holiday if they want it
     * Or an email with a link to confirm that they aren't taking any?
     * Or just require 28 days notice and keep it manual?
     * Or publish holiday somewhere and alert clients or DMs automatically to absences?
     * Or push Breathe holiday into Forecast and then create some way for clients to see their project in Forecast?
+* Check numbers styles
 
 ## Changes so far
 
@@ -22,8 +22,10 @@
 * Parental leave added
 * Sick pay added
 * Obligation to report and abstain from offering inappropriate gratuities
-* General duty to abide by dxw's values
+* General duty to abide by dxw's values, follow policies and work hard
 * Holiday notice periods normalised to 7 days for a day off and 28 days for anything longer
+* Indicative list of things which constitute gross misconduct
+* Contract now stipulates that dxw must be reasonable when considering dismissal for long-term sick
 -->
 
 # Contract of Employment
@@ -152,7 +154,7 @@ This document doubles as a written statement of the particulars of your employme
     1. During your employment with us, you must:
         1. complete your work expeditiously, dilligently, and to the best of your ability;
         2. as far as you are able, behave in ways which embody dxw's values, as published in the Playbook;
-        3. follow dxw's policies, as published and varied from time to time;
+        3. follow dxw's policies, as published and varied from time to time.
 
 19. ### Disciplinary and grievance procedures
     1. Details of dxw's discplinary and grievance procedures are published in the Playbook.
