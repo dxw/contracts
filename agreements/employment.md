@@ -25,6 +25,7 @@
 * Holiday notice periods normalised to 7 days for a day off and 28 days for anything longer
 * Indicative list of things which constitute gross misconduct
 * Contract now stipulates that dxw must be reasonable when considering dismissal for long-term sick
+* Staff handbook retired, "working arrangements" section of playbook replaces it
 -->
 
 # Contract of Employment
@@ -159,8 +160,8 @@ This document doubles as a written statement of the particulars of your employme
     1. Details of dxw's discplinary and grievance procedures are published in the Playbook.
 
 20. ### Playbook
-    1. Further rules concerning your employment with us are contained in the _Working at dxw_ section of the Playbook, which forms a part of your contract of employment.
-    2. The _Working at dxw_ section of the Playbook will be varied by us from time to time. We will give you notice of any such changes, which will be incorporated into your contract of employment from the date on which they are notified to you.
+    1. Further rules concerning your employment with us are contained in the _Working arrangements_ section of the Playbook, which forms a part of your contract of employment.
+    2. The _Working arrangements_ section of the Playbook will be varied by us from time to time. We will give you notice of any such changes, which will be incorporated into your contract of employment from the date on which they are notified to you.
 
 <small>Version: 12th October 2016</small>
 
