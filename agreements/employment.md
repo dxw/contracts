@@ -63,11 +63,12 @@ This document doubles as a written statement of the particulars of your employme
         2. you are paid expenses which are subsequently disallowed;
         3. there is an outstanding amount due on any loan or advance paid to you by us;
         4. we become liable for any damage, loss of property, fine or charge as a result of your negligence, dishonesty, breach of contract or failure to follow the company's policies.
+    4.  We do not have any arrangements for the paying of bonuses.
 
 4. ### Hours of work
     1. Unless you work part-time, your normal working day is seven hours long, making a 35 hour working week. During busy periods, you may be required to work longer hours, up to a maximum of 50 hours a week, on average, over a rolling six week period.
     2. Your normal working hours are 10:00am to 6:00pm with an hour off for lunch. We are open to arrangements for flexible working hours, at the company's sole discretion.
-    3. We do not operate any overtime scheme nor have any arrangements for the paying of bonuses.
+    3. We do not operate any overtime scheme.
 
 5. ### Variable part-time staff
     1. If your pay is specified as being *variable part time* then you will work for a number days per week to be agreed by the end of business on Wednesday of the previous week.
@@ -164,4 +165,3 @@ This document doubles as a written statement of the particulars of your employme
     2. The _Working arrangements_ section of the Playbook will be varied by us from time to time. We will give you notice of any such changes, which will be incorporated into your contract of employment from the date on which they are notified to you.
 
 <small>Version: 12th October 2016</small>
-
