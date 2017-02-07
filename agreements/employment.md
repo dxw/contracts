@@ -85,7 +85,7 @@ This document doubles as a written statement of the particulars of your employme
 8. ### Notice period
     1. In cases of gross misconduct, you may be dismissed without notice. The following is an indicative, non-exhaustive list of things that might constitute gross misconduct:
         1. insubordination;
-        2. committing a tort or being convicted for a criminal offence that impacts on your employment;
+        2. committing an unlawful act or being convicted for a criminal offence that impacts on your employment;
         3. fighting or assaulting another person or causing another person to fear violence;
         3. deliberately damaging property;
         4. dishonesty, theft or fraud;
@@ -96,7 +96,7 @@ This document doubles as a written statement of the particulars of your employme
         2. following your probationary period up to the second anniversary of your commencement date is six weeks;
         3. after the second anniversary of your commencement date, six weeks plus an additional week for each year of service up to a maximum of 12 weeks.
     3. These periods apply to both you and the company, irrespective of who is giving notice to whom.
-    4. Notice to quit will only be effective if given in writing, which includes by e-mail.
+    4. Notice will only be effective if given in writing, which includes by e-mail.
     5. Once notice has been given (whether from you to us, or from us to you), we reserve the right, at any time after the notice was given while you are still employed with us, to give you pay in lieu of notice. This means that we will pay you, as a lump sum, the salary that would otherwise be payable to you during the unexpired portion of your notice period.
 
 9. ### Holiday entitlement
