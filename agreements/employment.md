@@ -108,8 +108,8 @@ This document doubles as a written statement of the particulars of your employme
     6. The amount of leave you may take will be the total leave accrued, rounded up to the nearest half a day, minus any leave you have already taken in the leave year.
     7. We will usually permit you to take up to five days leave in advance of it being accrued.
     8. If you wish to take leave, you must obtain approval (which will not be unreasonably withheld) and give notice of:
-        1. 28 days for a period of leave longer than one day;
-        2. seven days for a period of one day or less.
+        1. 28 days for a period of leave longer than two days;
+        2. seven days for a period of two days or less.
     9. When your employment ends, you will receive payment in lieu for any part of your leave entitlement which has accrued but which has not been taken. Similarly, if you have taken more leave than you have accrued, we will deduct the appropriate amount of pay from any payment due from us to you on the termination of your employment or, if this is insufficient, we will require you to make up any shortfall.
 
 10. ### Sickness absence
