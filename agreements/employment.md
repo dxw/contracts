@@ -90,7 +90,8 @@ This document doubles as a written statement of the particulars of your employme
         3. deliberately damaging property;
         4. dishonesty, theft or fraud;
         5. deliberately or recklessly disclosing confidential information or personal data to a third party;
-        6. wilfully or seriously breaching the terms of this contract.
+        6. persistent offensive, intimidating or humiliating behaviour which attempts to undermine an individual or group of employees;
+        7. wilfully or seriously breaching the terms of this contract.
     2. Other than in cases of gross misconduct, your notice period:
         1. during your probationary period is two weeks;
         2. following your probationary period up to the second anniversary of your commencement date is six weeks;
