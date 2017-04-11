@@ -41,6 +41,9 @@
     9. References to "working" days, hours or minutes refer to dxw's working
        hours of 10:00-18:00 Monday-Friday, excluding bank holidays.
 
+    10. The "enhanced" response times apply to tickets raised by customers on our
+        Managed Plus plan.
+
 
 3. ### Urgent tickets
 
@@ -52,8 +55,8 @@
        2. A production system may have been compromised by an attacker and that
           the suspected attack or its impact is ongoing.
 
-    2. Urgent tickets must receive a first reply within 1 hour, at any time of
-       the day or night.
+    2. Urgent tickets must receive a first reply within 1 hour (standard) or 30
+       minutes (enhanced), at any time of the day or night.
 
     3. Tickets created by emailing emergency-support@dxw.com are automatically
        marked as urgent.
@@ -72,13 +75,15 @@
        if an important feature of a site is responsive but has ceased to work
        correctly, that is also a loss in performance.
 
-    3. High priority tickets must receive a first reply within 1 working hour.
+    3. High priority tickets must receive a first reply within 1 working hour
+       (standard) or 30 working minutes (enhanced).
 
 5. ### Normal priority tickets
 
     1. Tickets are normal priority if they are not low priority, urgent or critical.
 
-    2. Normal priority tickets must receive a first reply within 8 working hours.
+    2. Normal priority tickets must receive a first reply within 8 working hours
+       (standard) or 4 working hours (enhanced).
 
 6. ### Low priority
 
@@ -87,4 +92,5 @@
        1. Background requests for information or offhand enquiries;
        2. Requests for work where a delay has little or no impact on service.
 
-    2. Low priority tickets must receive initial and subsequent replies within 5 business days.
+    2. Low priority tickets must receive initial and subsequent replies within
+       5 business days.
