@@ -122,8 +122,8 @@
         3.  Minor modifications to theme files;
         4.  Assistance and advice on the usage of WordPress's administration area.
 
-    3.  Subject to additional fees and as specified in the Proposal, dxw will
-        also provide the following services as part of this contract, in
+    3.  If your proposal specifies that the website we host will be Managed Plus,
+        dxw will also provide the following services as part of this contract, in
         addition to the services specified in clause 4.1 and 4.2:
 
         1.  Monitoring of production logs and metrics for issues of concern,
@@ -135,15 +135,12 @@
             of your site's operation and recommend improvements; for example, on
             its security, performance, effectiveness, responsiveness, accessibility,
             maintainability or any other thing which we believe may be relevant;
-        4.  The facility for the security of user accounts logging into the WordPress
-            administration area to be enhanced using two-factor authentication;
-        5.  Configuration of and enhancements to the hosted WordPress service;
-        6.  Plugin security reviews;
-        7.  Security testing.
+        4.  Faster ("enhanced") response times to tickets, as described in our
+            Service Level Agreement.
 
-    4.  Unless otherwise agreed, dxw will not, under this contract, provide any
-        service not specified in clause 4.1, 4.2 or 4.3 unless it is specified
-        in the Proposal, including but not limited to:
+    4.  Unless otherwise agreed in writing, dxw will not, under this contract,
+        provide any service not specified in clause 4.1, 4.2 or 4.3, including
+        but not limited to:
 
         1.  Support for any third-party services upon which your service relies;
         2.  Changes to your website which constitute new functionality.
