@@ -1,6 +1,6 @@
 # GovPress Terms of Service
 
-## 21st June 2016
+## 10th April 2017
 
 1. ### Parties
 
@@ -8,6 +8,7 @@
         registered in England and Wales under number 6617101, trading as
         "dxw", and the organisation or person specified on the order
         summary accompanying this document.
+
 
 2. ### Definitions
 
@@ -17,7 +18,7 @@
         being sent to members of dxw staff at any time of day or night.
 
     GovPress
-    :	The software and hardware platform, including WordPress, on which dxw will
+    :	  The software and hardware platform, including WordPress, on which dxw will
         host your website, is known as GovPress.
 
     Overprovisioned Capacity
@@ -64,6 +65,7 @@
     :   The Time Allowance is a notional quantity of time allocated for use in
         providing services under this contract.
 
+
 3. ### Proposal
 
     1.  Before hosting a WordPress website, dxw will provide a Proposal.
@@ -75,17 +77,16 @@
             will need, the size of your database and your initial file
             storage;
         3.  Details of Overprovisioned Capacity, if any;
-        4.  A statement of the support dxw will provide: Fully Managed
+        4.  A statement of the support dxw will provide: Managed
             or Unmanaged;
-        5.  If Fully Managed, a description of the steps dxw has taken
+        5.  If Managed, a description of the steps dxw has taken
             to make an initial assessment of the support your website will
             require, and thus to determining an initial Time Allowance.
         6.  A breakdown of dxw's predicted monthly fees, showing separately
             the fees for infrastructure, support, and any other services;
         7.  A breakdown of any costs to migrate your website onto GovPress,
             if applicable;
-        8.  Any other information that we have agreed must be recorded
-            and agreed prior to the commencement of the Project.
+        8.  Anything else that we have agreed to provide as part of the service.
 
     3.  The proposal dxw provides will represent our best understanding
         of the hosting requirements that you have, at the time it was
@@ -96,8 +97,8 @@
         2.  Understand that the breakdown of fees in the Proposal is a prediction
             based on the assumptions made in the proposal;
         3.  Understand that the total fees over the life of the contract
-            may vary according to your Service Usage and your
-            instructions.
+            may vary according to your Service Usage and your instructions.
+
 
 4. ### The service
 
@@ -112,34 +113,41 @@
         6.  Operating system and infrastructure upgrades and maintenance;
         7.  A support helpdesk.
 
-    2.  If your proposal specifies that the website we host will be Fully Managed,
+    2.  If your proposal specifies that the website we host will be Managed,
         dxw will provide the following services as part of this contract, in
         addition to the services specified in clause 4.1:
 
         1.  Installation of WordPress plugin upgrades;
         2.  Installation of WordPress core upgrades;
-        3.  WordPress plugin code reviews;
-        4.  Installation of WordPress plugins subject to the terms in section 9;
-        5.  Minor modifications to theme files;
-        6.  Assistance and advice on the usage of WordPress's administration area.
+        3.  Minor modifications to theme files;
+        4.  Assistance and advice on the usage of WordPress's administration area.
 
-    3.  If your proposal specifies that the website we host requires our "higher security"
-        service, dxw will provide the following services as part of this contract, in
+    3.  If your proposal specifies that the website we host will be Managed Plus,
+        dxw will also provide the following services as part of this contract, in
         addition to the services specified in clause 4.1 and 4.2:
 
-        1.  Monitoring of production logs for issues of concern;
+        1.  Monitoring of production logs and metrics for issues of concern,
+            including but not limited to those which may be indicators of
+            compromise;
         2.  Monitoring of open source intelligence sources for information
-            about newly discovered WordPress and WordPress plugin vulnerabilities.
+            about newly discovered WordPress and WordPress plugin vulnerabilities;
+        3.  Quarterly review meetings during which we will discuss aspects
+            of your site's operation and recommend improvements; for example, on
+            its security, performance, effectiveness, responsiveness, accessibility,
+            maintainability or any other thing which we believe may be relevant;
+        4.  Faster ("enhanced") response times to tickets, as described in our
+            Service Level Agreement.
 
-    4.  Unless otherwise agreed, dxw will not, under this contract, provide any
-        service not specified in clause 4.1, 4.2 or 4.3 unless it is specified
-        in the Proposal, including but not limited to:
+    4.  Unless otherwise agreed in writing, dxw will not, under this contract,
+        provide any service not specified in clause 4.1, 4.2 or 4.3, including
+        but not limited to:
 
         1.  Support for any third-party services upon which your service relies;
         2.  Changes to your website which constitute new functionality.
 
     5.  GovPress must only be used in accordance with its Acceptable Usage Policy,
         which forms part of this agreement.
+
 
 5. ### Availability
 
@@ -163,6 +171,7 @@
         and will complete such work outside the hours of 09:00-18:00 Monday-Friday
         whenever it is reasonably possible.
 
+
 6. ### Enhancement of the service
 
     1.  dxw may at any time make changes to GovPress without giving
@@ -178,20 +187,20 @@
         out of any change we have made to GovPress, we will make reasonable efforts
         to fix the reported problem.
 
+
 7. ### Support
 
     1.  At any time, you may create a Support Ticket.
 
     2.  dxw will make reasonable efforts to respond to Support Tickets
-        within the period of time specified in our Service Level Agreement,
-        which forms part of this contract.
+        within the period of time specified in our Service Level Agreement.
 
     3.  All contact regarding the services dxw provides as part of this
         contract must be made via Support Tickets.
 
     4.  You understand that any contact you make with us that is not via a
         Support Ticket may be overlooked or disregarded and that any
-        consequent failure on our part to respond to you or take or not take
+        consequent failure on our part to respond to you or to take or not take
         some action will not be a breach of this contract.
 
     5.  At any time, you may create an Emergency Support Ticket if you
@@ -205,11 +214,12 @@
     7.  You understand that if you are experiencing an emergency but
         do not create an Emergency Support Ticket, our response time
         may be considerably increased and your service may be disrupted
-        for a prolonged period as a result.
+        for a longer period as a result.
+
 
 8. ### Time allowance
 
-    1.  dxw's initial fee for Fully Managed support is calculated from the
+    1.  dxw's initial fee for Managed support is calculated from the
         Time Allowance, which is based on our assessment of your website's
         likely support requirements, as stated in the proposal.
 
@@ -229,7 +239,7 @@
     4.  In any given month, if dxw chooses not to complete work in excess of
         the Time Allowance, we may notify you, and, subject to our availability,
         will complete that work if dxw's fees for the additional work are paid.
-        dxw will not complete any such work without your authorisation.
+        dxw will not charge a fee for any such work without your authorisation.
 
     6.  The Time Allowance may be varied by agreement, and with a corresponding
         change to dxw's fees.
@@ -256,27 +266,23 @@
     11. The Time Allowance will have no bearing on dxw's provision of the
         services detailed in clauses 4.1.1, 4.1.2, 4.1.3 and 4.1.4.
 
+
 9. ### Installation of plugins
 
-    1.  The terms in this section only apply to you if your website is Fully
-        Managed.
+    1.  For a fee, dxw will conduct an assessment of a WordPress plugin intended
+        to give a broad understanding of the kinds of security problems that
+        plugin may have.
 
-    2.  At any time, you may create a Support Ticket to ask us to install a
-        plugin on your website.
+    2.  dxw may refuse to permit the use of any plugin or plugin update if our
+        assessment indicates that it presents unacceptable security risks.
 
-    3.  If you ask dxw to install a plugin, we will conduct an assessment of
-        that plugin intended to give a broad understanding of the kinds of
-        security problems that plugin may have.
-
-    4.  dxw may refuse to install any plugin or plugin update if our assessment
-        indicates that it presents unacceptable information security risks.
-
-    5.  Plugin security assessments are intended only to give a broad
+    3.  Plugin security assessments are intended only to give a broad
         understanding of a plugin's security status. The results are opinions
         only. dxw neither offers any guarantee that a plugin whose assessment
         produced positive results does not contain security vulnerabilities,
         nor that negative results necessarily mean that a plugin does contain
         security vulnerabilities.
+
 
 10. ### Suspension
 
@@ -285,11 +291,12 @@
         1.  You fail to pay invoices whose total value is greater than or equal
             to our total fee for the preceding two months' usage of GovPress;
         2.  As a last resort, it is necessary for us to do so in order to
-            protect your data or another GovPress user's information
-            security, or to protect other users of the internet.
+            protect your data or another GovPress user's security, or to protect
+            other users of the internet.
 
     2.  In the event that the services are suspended, dxw will replace your
         website with a message stating that your website is down for maintenance.
+
 
 11. ### Required Materials
 
@@ -300,25 +307,24 @@
     3.  If work on a Support Ticket cannot take place without Required
         Materials, we will suspend work on that ticket.
 
+
 12. ### Quality
 
     1.  dxw will deliver work of a professional standard.
-    2.  dxw is insured against professional negligence to a value of
-        £2,000,000 (the "insured sum"). dxw would be willing to negotiate
-        an increase in the insured sum on condition that we were able to
-        pass on any corresponding increase in the premium.
+    2.  dxw is insured against professional negligence to a value of £2,000,000.
+
 
 13. ### Limitation of liability
 
     1.  dxw cannot guarantee perfect reliability.
-    2.  dxw will deliver work that is as robust and reliable as is
-        reasonably practical.
+    2.  dxw will deliver work that is as robust and reliable as is reasonably
+        practical.
     3.  You acknowledge that all software of non-trivial size contains bugs,
-        including security vulnerabilities, and that it is not
-        reasonably practical to deliver bug-free software.
-    4.  dxw will not be liable for any loss of profits or reputation
-        that you suffer, directly or indirectly, as a consequence of any
-        failure of the Product.
+        including security vulnerabilities, and that it is not reasonably
+        practical to deliver bug-free software.
+    4.  dxw will not be liable for any loss of profits or reputation that you
+        suffer, directly or indirectly, as a consequence of any failure of
+        GovPress or the WordPress site that it hosts.
     5.  You agree that it is your responsibility to ensure that you put
         in place measures that make you able to operate in the event of
         any such failure. dxw can work with you to design or implement
@@ -331,11 +337,12 @@
         1. The total fees for a year of GovPress service;
         2. The insured sum.
 
+
 14. ### Confidentiality
 
     1.  dxw believe that it is best to be open.
-    2.  dxw will generally not keep the details of your website
-        confidential, including by not limited to:
+    2.  dxw will generally not keep the details of your website confidential,
+        including by not limited to:
 
         1.  The fact that dxw has a commercial relationship with you;
         2.  The nature and goals of your website;
@@ -343,7 +350,7 @@
 
     3.  However, dxw do regard the following as confidential:
 
-        1.  The specific content of documents or copy that will be
+        1.  The specific content of documents or content that will be
             published on any of your websites that is not yet publicly
             available, most especially the content of forthcoming
             strategy or policy announcements;
@@ -364,7 +371,8 @@
     2.	To the extent that it is able (either through ownership or because it
         is licensed under a licence that permits sublicensing) dxw licenses all
         intellectual property rights in GovPress to you for the sole purpose
-        of carrying out this agreement.
+        of carrying out this agreement, and only to the extent necessary for you
+        to carry out this agreement.
 
     3.	To the extent that it is not able to give the licence in clause 15.2 above,
         dxw has taken reasonable steps to check that all intellectual property
@@ -380,7 +388,7 @@
 16. ### Intellectual property in your website
 
     1.  To the extent that you are able, you grant us a sufficient licence over
-        any material you supply to us, to allow us to host your website on
+        any material you supply to us to allow us to host your website on
         GovPress for the duration of this agreement.
 
     2. 	To the extent that you are unable to grant the licence under clause
@@ -389,28 +397,43 @@
         property rights, may be used as part of the operation of your website
         under this agreement.
 
+    3.  dxw may place links or representative screenshots of your WordPress
+        service along with your name or logo on a dxw website or within
+        other promotional material. To the extent that these materials are owned by
+        you, you agree to grant us a perpetual, irrevocable, non-exclusive,
+        royalty-free licence that authorises this use.
+
 
 17. ### Payments
 
     1.  dxw's fees for infrastructure, as specified in your proposal,
         will be calculated every calendar month based on your Service Usage
         and billed in arrears.
+
     2.  dxw's fees for support will be billed each month in arrears.
+
     3.  Invoices are payable within 14 days.
+
     4.  dxw may charge interest on overdue invoices at 5% over the
         Barclay's Bank base rate.
+
     5.  You shall make payment by BACS transfer or (if agreed in advance with
         dxw) credit or debit card. dxw does not accept cheques.
+
     6.  Credit and debit card payments are subject to a 2.5% fee.
+
     7.  dxw issues invoices by email. If you require a paper invoice to be
         issued, dxw may charge an additional fee.
+
     8.  VAT (where applicable) is payable on, and in addition to, all sums
         due under this agreement.
+
 
 18. ### Circumstances beyond our control
 
     1.  dxw will not be liable for any failure caused by industrial
         action or other circumstances beyond our reasonable control.
+
 
 19. ### Termination
 
@@ -423,17 +446,31 @@
     3.  At the end of this contract, dxw will issue a final invoice for your usage
         of GovPress up to the date of termination, which you shall pay.
 
+    4.  In the event that the Proposal includes a service which takes place less
+        frequently than monthly but whose cost is apportioned per month:
+
+        1. If the service has already been carried out, your final invoice will
+           include a charge equal to the amount of the fees for that service
+           not yet accrued;
+        2. If the service has not already been carried out, no refund will be due
+           for the fees accrued at the time of termination.
+
+
 20. ### Changes to these terms
 
     1.  dxw may vary these terms at any time upon giving you prior
         written notice.
+
     2.  If any proposed change in these terms puts you at a material
         disadvantage you may send us a written objection, in which case,
         the change will not be binding on you.
+
     3.  Any such written objection must be sent within 14 days of the
         the notice dxw sends you.
+
     4.  This clause does not apply if it would violate the terms of a
         framework agreement of which this agreement forms a part.
+
 
 21. ### Proper law
 
@@ -441,9 +478,11 @@
         that any disputes arising from the agreement will be subject to
         the exclusive jurisdiction of the courts of England and Wales.
 
+
 22. ### Email
     1.  Any reference to "in writing" includes email and excludes fax
         transmissions.
+
 
 23. ### Headings
 
@@ -451,9 +490,10 @@
         reference only and shall not in any way affect the meaning or
         interpretation of this agreement.
 
+
 24. ### Whole agreement
 
-    1.  With the exception of any framework agreement of which this agreement forms a part,
-        this agreement and the order summary that accompanies it constitute the entire
-        agreement between us with respect to the Project, and replaces any prior oral or
-        written agreement which may exist.
+    1.  With the exception of any framework agreement of which this agreement
+        forms a part, this agreement and the order summary that accompanies it
+        constitute the entire agreement between us with respect to the Project,
+        and replaces any prior oral or written agreement which may exist.
