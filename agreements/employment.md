@@ -208,7 +208,7 @@ This document doubles as a written statement of the particulars of your employme
     2. You will be notified in writing of any change as soon as possible and in any event within one month of the change.
 
 23. ### Reconstruction and amalgamation
-    1. If your employment is terminated at any time by reason of any reconstruction or amalgamation of the company, whether by winding up or otherwise, and you are offered employment with organisation resulting from the reconstruction or amalgamation on terms which (considered in their entirety) are not materially less favourable than the terms of this agreement, you will have no claim against dxw nor any such organisation arising out of or connected with the termination.
+    1. If your employment is terminated at any time by reason of any reconstruction or amalgamation of the company, whether by winding up or otherwise, and you are offered employment with an organisation resulting from the reconstruction or amalgamation on terms which (considered in their entirety) are not materially less favourable than the terms of this agreement, you will have no claim against dxw nor any such organisation arising out of or connected with the amalgamation.
 
 24. ### Proper law
     1. This agreement is governed by English law and the parties agree that any disputes arising from the agreement will be subject to the exclusive jurisdiction of the courts of England and Wales.
