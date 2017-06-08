@@ -6,7 +6,7 @@ git checkout master && \
   git merge master && \
   bundle install --path=vendor/bundle && \
   bundle exec ./compile && \
-  mv ./build/* . && \
+  cp -r ./build/* . && \
   git add *.html assets/styles.css && \
   git commit -m "Deploying" && \
   git push origin gh-pages
