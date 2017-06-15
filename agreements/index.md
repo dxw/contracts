@@ -6,11 +6,11 @@
 
 ## General terms of service
 
-[These terms cover strategy and consulting work](/general_terms.md.html).
+[These terms cover strategy and consulting work](/general.md.html).
 
 ## GovPress hosting, SLA and AUP
 
-[These terms our GovPress hosting service](/govpress_terms.md.html).
+[These terms our GovPress hosting service](/govpress.md.html).
 
 This service is also governed by an [acceptable use policy](./acceptable_usage.md.html) and a [service level agreement](service_level_agreement.md.html).
 
