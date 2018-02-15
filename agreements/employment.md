@@ -27,11 +27,11 @@ This document doubles as a written statement of the particulars of your employme
 
 3. Employee warranties
     1. By entering into this agreement, you warrant to dxw that:
-    2. You will not be in breach of any court order nor of any other contractual obligation you are bound by;
-    3. You are entitled to work in the United Kingdom without any additional approvals and will notify dxw immediately if you cease to be so entitled during your employment with us.
+      1. You will not be in breach of any court order nor of any other contractual obligation you are bound by;
+      2. You are entitled to work in the United Kingdom without any additional approvals and will notify dxw immediately if you cease to be so entitled during your employment with us.
 
 4. ### Duties
-    1. During your employment with us, unless prevented by incapacity (see clause 14i), you must:
+    1. During your employment with us, unless prevented by incapacity (see clause 14.1), you must:
         1. complete your work expeditiously, diligently, and to the best of your ability;
         2. comply with all reasonable and lawful directions you are given by dxw;
         3. report any wrongdoing, whether your own or by another employee or director of dxw, as soon as you become aware of it;
