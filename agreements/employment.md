@@ -198,3 +198,20 @@ This document doubles as a written statement of the particulars of your employme
     1. No one other than a party to this agreement shall have any right to enforce any of its terms.
 
 <small>Version: 15th February 2018</small>
+
+
+## Signature
+
+### We agree to employ you on the terms set out above. Signed on behalf of the company:
+
+|**Name:**|<textarea></textarea>|
+|**Role:**|<textarea></textarea>|
+|**Date:**|<textarea></textarea>|
+|**Signed:**|<textarea></textarea>|
+
+
+### I have read and understood these terms and conditions under which I agree to be employed by you:
+
+|**Name:**|<textarea></textarea>|
+|**Date:**|<textarea></textarea>|
+|**Signed:**|<textarea></textarea>|
