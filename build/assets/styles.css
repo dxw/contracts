@@ -1,10 +1,10 @@
-@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
 
 body
 {
-  font-family: "PT Sans", sans-serif;
+  font-family: "Lato", sans-serif;
   background: #eee;
-  font-size: 16pt;
+  font-size: 12pt;
   line-height: 28px;
   margin: 0;
 }
@@ -26,11 +26,11 @@ li > h3, li > h2
 }
 
 h1 {
-  font-size: 32pt;
+  font-size: 20pt;
 }
 
 h2 {
-  font-size: 22pt;
+  font-size: 18pt;
 }
 
 section ol li {
