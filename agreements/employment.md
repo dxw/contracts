@@ -51,7 +51,7 @@ This document doubles as a written statement of the particulars of your employme
     5. We do not operate any overtime scheme.
 
 6. ### Hours of work
-    1. Unless you work part-time, your normal working day is seven hours long, making a 35 hour working week. There will be occasions where you will be required to work longer hours the needs of dxw or its clients. In such cases, you will not be required to work more than 48 hours per week, on average, over a rolling six week period.
+    1. Unless you work part-time, your normal working day is seven hours long, making a 35 hour working week. There will be occasions where you will be required to work longer hours to meet the needs of dxw or its clients. In such cases, you will not be required to work more than 48 hours per week, on average, over a rolling six week period.
     2. Your normal working hours are 10:00am to 6:00pm with an hour off for lunch. We are open to arrangements for flexible working hours, at dxw's sole discretion.
 
 7. ### Variable part-time staff
