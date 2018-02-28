@@ -25,7 +25,7 @@ This document doubles as a written statement of the particulars of your employme
 2. ### Date of commencement
     1. The date for the purposes of calculating your statutory period of continuous employment with dxw is your date of commencement, unless otherwise specified in the above table. This takes into account any unbroken employment with us, or any associated company. Service with your previous employer does not count as part of your continuous period of employment with us.
 
-3. Employee warranties
+3. ### Employee warranties
     1. By entering into this agreement, you warrant to dxw that:
       1. You will not be in breach of any court order nor of any other contractual obligation you are bound by;
       2. You are entitled to work in the United Kingdom without any additional approvals and will notify dxw immediately if you cease to be so entitled during your employment with us.
@@ -140,7 +140,7 @@ This document doubles as a written statement of the particulars of your employme
     1. dxw will reimburse you for out-of-pocket expenses that you incur in the course of your employment with us, subject to those expenses being reasonable, proportionate, necessary and evidenced.
     2. Details of dxw's expenses policy and the process for claiming expenses are published in the Playbook.
 
-17. ## Collective agreements
+17. ### Collective agreements
     1. There is no collective agreement which affects your employment.
 
 18. ### Confidentiality
