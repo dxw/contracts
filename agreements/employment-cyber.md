@@ -197,7 +197,7 @@ This document doubles as a written statement of the particulars of your employme
 28. ### Third party rights
     1. No one other than a party to this agreement shall have any right to enforce any of its terms.
 
-<small>Version: 15th February 2018</small>
+<small>Version: 4th April 2018</small>
 
 
 ## Signature
