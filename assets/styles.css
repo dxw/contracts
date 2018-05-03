@@ -1,11 +1,11 @@
-@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
 
 body
 {
-  font-family: "PT Sans", sans-serif;
+  font-family: "Lato", sans-serif;
   background: #eee;
-  font-size: 16pt;
-  line-height: 120%;
+  font-size: 18px;
+  line-height: 24px;
   margin: 0;
 }
 
@@ -17,7 +17,7 @@ h1,h2,h3 {
   margin-left: 20px;
   margin-top: 20px;
 
-  font-weight: 700;
+  font-weight: bold;
 }
 
 li > h3, li > h2
@@ -26,11 +26,11 @@ li > h3, li > h2
 }
 
 h1 {
-  font-size: 32pt;
+  font-size: 28pt;
 }
 
 h2 {
-  font-size: 22pt;
+  font-size: 24px;
 }
 
 section ol li {
@@ -57,7 +57,6 @@ ol, dl
 
 li
 {
-  line-height: 28px;
   display: table-row;
 }
 
@@ -66,15 +65,20 @@ ol li ol {
   border-spacing: 10px;
 }
 
-ol li ol li {
-  page-break-inside: avoid;
+ol li ol li ol {
+  padding-top: 10px;
+  border-spacing: 0;
+}
+
+ol li ol li ol li:before {
+  padding-bottom: 0;
 }
 
 li:before, dt:before
 {
   content: counters(item,".") ". ";
   counter-increment: item;
-  font-weight: 400;
+  font-weight: bold;
   padding: 0 8px 8px 0;
 }
 
@@ -82,31 +86,33 @@ li:before
 {
   display: table-cell;
   vertical-align: top;
+  font-weight: normal;
 }
 
 table {
   margin: 0 0 50px 20px;
+  width:90%
 }
 
 table td {
-  padding: 10px 10px 20px 0px;
+  padding: 10px 10px 0px 0px;
   border-bottom: 1px solid #000;
 }
 
 table tr td:nth-child(1) {
   width: 30%;
   vertical-align: top;
-  font-size: 16pt;
+  font-size: 12pt;
 }
 
 table tr td:nth-child(2) {
   border-left: 1px solid #000;
   padding-left: 10px;
+  width: 70%;
 }
 
 p
 {
-  display: inline-block;
   margin: 0 0 10px 20px;
   padding: 0 0 5px;
   page-break-inside: avoid;
@@ -126,19 +132,43 @@ dt:after
   font-weight: 700;
 }
 
+textarea {
+  width: 100%;
+  border: none;
+  font-family: "Lato", sans-serif;
+  font-size: 12pt;
+  resize: none;
+  height: 28px;
+}
+
+textarea.big {
+  height: 112px;
+}
+
 @media print {
+  @page
+  {
+      size: auto;   /* auto is the initial value */
+
+      /* this affects the margin in the printer settings */
+      margin: 10mm 10mm 10mm 10mm;
+  }
+
   section.container {
     padding: 0;
     box-shadow: none;
+    margin: 0;
   }
 
   body {
     background: #fff;
     font-size: 12pt;
+    line-height: 22px;
   }
 
   h1 {
-    font-size: 26pt;
+    margin-top: 3cm;
+    font-size: 20pt;
   }
 
   h2 {
@@ -146,6 +176,10 @@ dt:after
   }
 
   table tr td:nth-child(1) {
-    font-size: 14pt;
+    font-size: 12pt;
+  }
+
+  textarea {
+    font-size: 12pt;
   }
 }
