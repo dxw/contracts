@@ -29,8 +29,10 @@ Dir.entries(agreements).each do |file|
 
   next if file[0] == '.'[0] # fix for ruby 1.8.7
 
+  html_top = !file.match(/-cyber/).nil? ? "#{html}/top-cyber.html" : "#{html}/top.html"
+
   content =
-    File.read("#{html}/top.html") +
+    File.read(html_top) +
     Kramdown::Document.new(File.read("#{agreements}/#{file}")).to_html +
     File.read("#{html}/bottom.html")
 
