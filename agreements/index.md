@@ -8,7 +8,7 @@
 
 ## GovPress hosting, SLA and AUP
 
-[These terms our GovPress hosting service](/govpress.md.html).
+[These terms cover our GovPress hosting service](/govpress.md.html).
 
 This service is also governed by an [acceptable use policy](./acceptable_usage.md.html) and a [service level agreement](service_level_agreement.md.html).
 
