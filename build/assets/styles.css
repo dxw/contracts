@@ -4,8 +4,8 @@ body
 {
   font-family: "Lato", sans-serif;
   background: #eee;
-  font-size: 12pt;
-  line-height: 28px;
+  font-size: 18px;
+  line-height: 24px;
   margin: 0;
 }
 
@@ -17,7 +17,7 @@ h1,h2,h3 {
   margin-left: 20px;
   margin-top: 20px;
 
-  font-weight: 700;
+  font-weight: bold;
 }
 
 li > h3, li > h2
@@ -26,11 +26,11 @@ li > h3, li > h2
 }
 
 h1 {
-  font-size: 20pt;
+  font-size: 28pt;
 }
 
 h2 {
-  font-size: 18pt;
+  font-size: 24px;
 }
 
 section ol li {
@@ -78,7 +78,7 @@ li:before, dt:before
 {
   content: counters(item,".") ". ";
   counter-increment: item;
-  font-weight: 400;
+  font-weight: bold;
   padding: 0 8px 8px 0;
 }
 
@@ -86,6 +86,7 @@ li:before
 {
   display: table-cell;
   vertical-align: top;
+  font-weight: normal;
 }
 
 table {
@@ -112,7 +113,6 @@ table tr td:nth-child(2) {
 
 p
 {
-  display: inline-block;
   margin: 0 0 10px 20px;
   padding: 0 0 5px;
   page-break-inside: avoid;
