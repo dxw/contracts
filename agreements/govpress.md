@@ -455,8 +455,25 @@
         2. If the service has not already been carried out, no refund will be due
            for the fees accrued at the time of termination.
 
+20. 	Data processing
 
-20. ### Changes to these terms
+    1.	Upon agreeing a contract for cloud hosting, dxw digital will be the data processor for your service, and there will be a data protection officer who will be your point of contact to ensure GDPR compliance. 
+
+    2. 	Each dxw digital contract will form the basis of a Data Protection Agreement for that service. This means that dxw digital will:
+    
+    -	cooperate with the relevant Data Protection Authorities in the event of an enquiry;	
+    -	report data breaches to the you without delay;
+    -	keep records of site performance and security for life of the contract 
+    -	help you to comply with data subjects rights
+    -	assist you in managing the consequences of data breaches;
+    -	delete or return all personal data at the end of the contract at the choice of the Controller (client)
+    -	inform you  if we believe any  processing instructions you give to us infringe GDPR.
+
+    3. 	You will ensure that you have sufficient measures in place to protect any data you hold
+
+    4. 	Any data we process on your behalf will be held within the European Union.
+
+21. ### Changes to these terms
 
     1.  dxw may vary these terms at any time upon giving you prior
         written notice.
@@ -472,26 +489,26 @@
         framework agreement of which this agreement forms a part.
 
 
-21. ### Proper law
+22. ### Proper law
 
     1.  This agreement is governed by English law and the parties agree
         that any disputes arising from the agreement will be subject to
         the exclusive jurisdiction of the courts of England and Wales.
 
 
-22. ### Email
+23. ### Email
     1.  Any reference to "in writing" includes email and excludes fax
         transmissions.
 
 
-23. ### Headings
+24. ### Headings
 
     1.  The section headings contained in this agreement are for
         reference only and shall not in any way affect the meaning or
         interpretation of this agreement.
 
 
-24. ### Whole agreement
+25. ### Whole agreement
 
     1.  With the exception of any framework agreement of which this agreement
         forms a part, this agreement and the order summary that accompanies it
