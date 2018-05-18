@@ -1,6 +1,6 @@
 # Terms of service for technical work
 
-## 21st June 2016
+## 23rd May 2018
 
 1. ### Parties
 
