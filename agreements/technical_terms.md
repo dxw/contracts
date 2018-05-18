@@ -1,6 +1,6 @@
 # Terms of service for technical work
 
-## 21st June 2016
+## 23rd May 2018
 
 1. ### Parties
 
@@ -13,19 +13,19 @@
 
     Sprint
     :   A Sprint is dxw's basic unit of work. A Sprint consists of
-        the services of a dxw team for a set period of time, and
-        any Surrounding Activities you require.
+        the services of a dxw team for a set period of time (usually
+        two weeks), and any Surrounding Activities you require.
 
     Acceptance Criteria
-    :   Acceptance Criteria are the specific characteristics of a
-        delivered Story which, when present, indicate that the Story
-        is Finished.
+    :   Acceptance Criteria are a collection of statements about the 
+        functionality of a service which must be true in order for 
+        the User Story to be Done. 
 
     Backlog
-    :   The Backlog is a prioritised list of Stories.
+    :   The Backlog is a prioritised list of User Stories.
 
-    Finished
-    :   A Story is Finished when its Acceptance Criteria have been met.
+    Done
+    :   A Story is Done when its Acceptance Criteria have been met.
 
     Product
     :   A collection of services and software which, when operational,
@@ -33,8 +33,8 @@
 
     Project Description
     :   A Project Description is a written explanation of your Project's
-        goals, the user needs you are addressing and the nature of the
-        work that you expect will be required to achieve those
+        goals and vision, the user needs you are trying to meet and the nature of 
+        the work that you expect will be required to achieve those
         needs and goals.
 
     Project
@@ -48,8 +48,7 @@
     Required Materials
     :   Required Materials are things that dxw needs in order to
         complete a particular piece of work, including but not limited
-        to images, text content, licences, consents, or clear
-        instructions.
+        to content, licences, consents, or clear instructions.
 
     Sprints Estimate
     :   The approximate number of Sprints dxw estimates will be required
@@ -58,21 +57,21 @@
         These numbers are estimates, and are not binding.
 
     Started
-    :   A Story has been Started when dxw has started its implementation.
+    :   A User Story has been Started when dxw has started its implementation.
 
-    Story
-    :   A Story is a description of some work to be completed. In order
-        for Story to be considered "ready" for implementation, it must:
+    User Story
+    :   A User Story is a description of some work to be completed. In order
+        for a User Story to be considered "ready" to be worked on, it must:
         specify a user need; identify the user who has the need; and
         describe some behaviour which, having been implemented, will meet
-        that need.
+        that need. It should include a list of Acceptance Criteria. 
 
     Surrounding Activities
     :   Surrounding Activities are services other than the implementation
         of Stories which dxw provides as part of a Sprint; for example: assisting
-        you with the definition and prioritisation of Stories at the start
-        of the Project, user testing and discovery, penetration testing,
-        research or product strategy.
+        you with roadmapping, the definition and prioritisation of User Stories 
+        at the start of the Project, discovery and user research work, penetration 
+        testing or product strategy.
 
 3. ### Proposal
 
@@ -80,10 +79,11 @@
     2.  The proposal dxw provides will contain:
 
         1.  The initial Project Description;
-        2.  A recommendation for the duration of a Sprint, its
-            Surrounding Activities and the makeup of its team;
+        2.  A recommendation for what work should take place in the 
+            Sprints, its Surrounding Activities and the makeup of the team
+            working on the Project;
         3.  Our fees, including a per-Sprint fee (based on the recommended
-            Sprint) and our fees for any Surrounding Activities;
+            Sprint shape) and our fees for any Surrounding Activities;
         4.  An indication of when dxw is available to start the work and
             a Sprints Estimate;
         5.  Any other information that we have agreed must be recorded
@@ -104,58 +104,58 @@
 4. ### Sprints
 
     1.  dxw will deliver a number of Sprints in order to do work that will
-        meet your goals.
+        meet your goals and users' needs.
     2.  Initially, dxw will deliver Sprints with the structure agreed in
         the proposal.
-    3.  At any time, you may request that the length of the Sprint or
-        the number of developers be changed. Subject to our available
-        resources and your acceptance of a revised per-sprint fee,
-        we dxw will accommodate such requests.
+    3.  At any time, you may request that the makeup of the team be changed. 
+        Subject to our availability and your acceptance of a revised 
+        per-sprint fee, we dxw will accommodate such requests.
     4.  At the beginning of the Project, we will work with you (as a Surrounding Activity) to
-        define an initial set of Stories for implementation. This list
+        define an initial set of User Stories for implementation. This list
         of Stories forms the Project's Backlog.
-    5.  At the beginning of each Sprint, we will work with you (as a Surrounding Activity) to
-        prioritise the Stories in the Backlog and agree Acceptance
-        Criteria.
-    6.  At any time, you may add Stories to the Backlog.
+    5.  At the beginning of each Sprint, we will work with you in a planning
+        meeting to prioritise the UserStories in the Backlog and agree what will
+        be worked on in the Sprint.
+    6.  At any time, you may add User Stories to the Backlog.
     7.  At any time, you may change the priority of Stories in the Backlog.
-    8.  During each Sprint, dxw will implement Stories, starting with
-        the most important Story in the Backlog.
+    8.  During each Sprint, dxw will work on User Stories, starting with
+        the most important User Story in the Backlog.
     9.  At the beginning of each Sprint, dxw will give an indication of
-        the number of Stories dxw expects to be able to complete during
+        the number of User Stories dxw expects to be able to complete during
         the Sprint. This indication is not binding. The number of
-        Stories completed in each Sprint will vary.
-    10. A Story cannot be Started unless:
+        User Stories completed in each Sprint will vary depending on the 
+        complexity of the work.
+    10. A User Story cannot be Started unless:
 
         1.  It is ready (see clause 2.12);
         2.  It has agreed Acceptance Criteria;
-        3.  All Required Materials for the Story's implementation have
+        3.  All Required Materials for the User Story's implementation have
             been provided to us.
 
-    11. After a Story has been Started:
+    11. After a User Story has been Started:
 
-        1.  You may not change the Story without dxw's prior agreement;
-        2.  You may instruct us to cease work on the Story;
-        3.  We will make reasonable efforts to complete the Story
+        1.  You must not change the User Story without dxw's prior agreement;
+        2.  You may instruct us to cease work on the User Story;
+        3.  We will make reasonable efforts to complete the User Story
             within the Sprint.
 
-    12. After dxw believe a Story has been Finished:
+    12. After dxw believe a User Story is Done:
 
-        1.  dxw will make it available to you for your testing and
+        1.  dxw will make it available to you for you to test and
             review;
         2.  You must Accept the story as soon as you are reasonably able
             to do so, and in any case, no later than the end of the
             Sprint;
-        3.  You must not Reject the Story unless it has not met its
+        3.  You must not Reject the User Story unless it has not met its
             Acceptance Criteria;
-        4.  If you Reject a Story, it will be returned to the Backlog for
+        4.  If you Reject a User Story, it will be returned to the Backlog for
             you to prioritise;
-        4.  If you Reject a Story near the end of a Sprint, we may not be
-            able to Finish it until the next Sprint;
-        5.  If having tested the Story's implementation you decide that
+        4.  If you Reject a User Story near the end of a Sprint, we may not be
+            able to complete it until the next Sprint;
+        5.  If having tested the User Story's implementation you decide that
             its functionality should be materially different from the
-            Acceptance Criteria, you must make a new Story describing
-            the changes you require, and new Acceptance Criteria must be
+            Acceptance Criteria, you must make a new User Story describing
+            the changes you require, and a new list of Acceptance Criteria must be
             agreed.
 
 5. ### Sprint fees, estimates and administration
@@ -164,15 +164,15 @@
         detailing:
 
         1.  A total cost and cost breakdown of a Sprint and summary of
-            its structure;
-        2.  The start and end dates of all Sprints that you have told us
-            you would like to book immediately;
-        3.  A list of the Surrounding Activity you have told us you
+            its structure, including the people working on the sprint
+            and how many days they'll be working;
+        2.  The start and end dates of all Sprints;
+        3.  A list of the Surrounding Activities you have told us you
             would like us to undertake, and the associated costs;
         4.  Contact details for members of dxw's staff who you may need
             to contact, including an escalation contact.
 
-    2.  At any time, you may request further Sprints. Subject to its
+    2.  At any time, you may request further Sprints. Subject to our
         availability, dxw will make reasonable efforts to schedule
         Sprints at a time that is convenient to you.
     3.  Whenever further Sprints are requested, dxw will provide an
@@ -196,13 +196,13 @@
 
 6. ### Required Materials
 
-    1.  In order to complete Stories, there will occasionally be
+    1.  In order to complete User Stories, there will occasionally be
         Required Materials that you must provide.
     2.  You must provide Required Materials as soon as is reasonably
         practical.
     3.  If dxw does not have the Required Materials in time to start a
-        particular Story, we will move on to the next Story in the
-        Backlog. This may cause a Story not to be delivered in the
+        particular User Story, we will move on to the next User Story 
+        in the Backlog. This may cause a User Story not to be delivered in the
         Sprint you have specified.
 
 7. ### Engagement
@@ -211,19 +211,19 @@
         order for the Project to be completed successfully. In this context "engage"
         includes promptly:
 
-        1.  Participating actively in the work, particularly in planning and
-            retrospecive sessions and stand-ups;
-        2.  Responding to our enquiries;
+        1.  Participating actively in the work, particularly in sprint planning,
+            retrospective sessions and stand-ups;
+        2.  Responding to our questions and providing advice;
         2.  Providing feedback, Rejecting and Accepting Stories promptly;
         3.  Supplying to us any Required Materials;
-        4.  Reporting any problems that could affect delivery.
+        4.  Telling us about any problems that could affect delivery.
 
 8. ### Subcontracting
 
-    1.  At dxw's sole discretion, freelancers or contractors may be used
+    1.  At dxw's sole discretion, contractors may be used
         in place of dxw employees in order to complete Sprints or
         Surrounding Activities.
-    2.  Wherever freelancers or contractors are used, they will work under
+    2.  Wherever contractors are used, they will work under
         our direction.
     3.  dxw will not outsource any Sprint or Surrounding Activity
         without your prior agreement, which must not be unreasonably
