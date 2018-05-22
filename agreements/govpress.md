@@ -457,21 +457,22 @@
 
 20. 	Data processing
 
-    1.	Upon agreeing a contract for cloud hosting, dxw digital will be the data processor for your service, and there will be a data protection officer who will be your point of contact to ensure GDPR compliance. 
+    1.	Upon agreeing a contract for cloud hosting, dxw digital will be the data processor for your service, and there will be a data protection officer (DPO@dxw.com) who will be your point of contact to ensure GDPR compliance. 
 
     2. 	Each dxw digital contract will form the basis of a Data Protection Agreement for that service. This means that dxw digital will:
     
     -	cooperate with the relevant Data Protection Authorities in the event of an enquiry;	
     -	report data breaches to the you without delay;
-    -	keep records of site performance and security for life of the contract 
+    -	keep records of site performance and security for life of the contract.
     -	help you to comply with data subjects rights
     -	assist you in managing the consequences of data breaches;
-    -	delete or return all personal data at the end of the contract at the choice of the Controller (client)
     -	inform you  if we believe any  processing instructions you give to us infringe GDPR.
 
-    3. 	You will ensure that you have sufficient measures in place to protect any data you hold
+    3.  You will ensure that you have sufficient measures in place to protect any data you hold
 
     4. 	Any data we process on your behalf will be held within the European Union.
+    
+    5.  The processing we are doing will include the storing, displaying and amending the personal data collected by the service that we host for you
 
 21. ### Changes to these terms
 
