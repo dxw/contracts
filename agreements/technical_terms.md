@@ -17,9 +17,9 @@
         two weeks), and any Surrounding Activities you require.
 
     Acceptance Criteria
-    :   Acceptance Criteria are a collection of statements about the 
-        functionality of a service which must be true in order for 
-        the User Story to be Done. 
+    :   Acceptance Criteria are a collection of statements about the
+        functionality of a User Story which must be true in order for
+        the User Story to be Done.
 
     Backlog
     :   The Backlog is a prioritised list of User Stories.
@@ -33,9 +33,9 @@
 
     Project Description
     :   A Project Description is a written explanation of your Project's
-        goals and vision, the user needs you are trying to meet and the nature of 
-        the work that you expect will be required to achieve those
-        needs and goals.
+        goals and vision, the user needs you are trying to meet and the nature of
+        the work that you expect will be required to meet those needs and achieve
+        those goals.
 
     Project
     :   A Project is a series of Sprints used to complete work that will
@@ -64,13 +64,13 @@
         for a User Story to be considered "ready" to be worked on, it must:
         specify a user need; identify the user who has the need; and
         describe some behaviour which, having been implemented, will meet
-        that need. It should include a list of Acceptance Criteria. 
+        that need. It should include a list of Acceptance Criteria.
 
     Surrounding Activities
     :   Surrounding Activities are services other than the implementation
         of Stories which dxw provides as part of a Sprint; for example: assisting
-        you with roadmapping, the definition and prioritisation of User Stories 
-        at the start of the Project, discovery and user research work, penetration 
+        you with roadmapping, the definition and prioritisation of User Stories
+        at the start of the Project, discovery and user research work, penetration
         testing or product strategy.
 
 3. ### Proposal
@@ -79,7 +79,7 @@
     2.  The proposal dxw provides will contain:
 
         1.  The initial Project Description;
-        2.  A recommendation for what work should take place in the 
+        2.  A recommendation for what work should take place in the
             Sprints, its Surrounding Activities and the makeup of the team
             working on the Project;
         3.  Our fees, including a per-Sprint fee (based on the recommended
@@ -107,14 +107,14 @@
         meet your goals and users' needs.
     2.  Initially, dxw will deliver Sprints with the structure agreed in
         the proposal.
-    3.  At any time, you may request that the makeup of the team be changed. 
-        Subject to our availability and your acceptance of a revised 
+    3.  At any time, you may request that the makeup of the team be changed.
+        Subject to our availability and your acceptance of a revised
         per-sprint fee, we dxw will accommodate such requests.
     4.  At the beginning of the Project, we will work with you (as a Surrounding Activity) to
         define an initial set of User Stories for implementation. This list
         of Stories forms the Project's Backlog.
     5.  At the beginning of each Sprint, we will work with you in a planning
-        meeting to prioritise the UserStories in the Backlog and agree what will
+        meeting to prioritise the User Stories in the Backlog and agree what will
         be worked on in the Sprint.
     6.  At any time, you may add User Stories to the Backlog.
     7.  At any time, you may change the priority of Stories in the Backlog.
@@ -123,7 +123,7 @@
     9.  At the beginning of each Sprint, dxw will give an indication of
         the number of User Stories dxw expects to be able to complete during
         the Sprint. This indication is not binding. The number of
-        User Stories completed in each Sprint will vary depending on the 
+        User Stories completed in each Sprint will vary depending on the
         complexity of the work.
     10. A User Story cannot be Started unless:
 
@@ -201,7 +201,7 @@
     2.  You must provide Required Materials as soon as is reasonably
         practical.
     3.  If dxw does not have the Required Materials in time to start a
-        particular User Story, we will move on to the next User Story 
+        particular User Story, we will move on to the next User Story
         in the Backlog. This may cause a User Story not to be delivered in the
         Sprint you have specified.
 
@@ -380,4 +380,3 @@
 
     3.  At the end of this contract, dxw will issue a final invoice for any services
         delivered up to the date of termination, which you shall pay.
-
