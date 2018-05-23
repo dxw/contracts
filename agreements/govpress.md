@@ -78,7 +78,7 @@
             storage;
         3.  Details of Overprovisioned Capacity, if any;
         4.  A statement of the support dxw digital will provide: Managed
-            or Unmanaged;
+            or managed plus;
         5.  If Managed, a description of the steps dxw digital has taken
             to make an initial assessment of the support your website will
             require, and thus to determining an initial Time Allowance.
@@ -398,7 +398,7 @@
         under this agreement.
 
     3.  dxw digital may place links or representative screenshots of your WordPress
-        service along with your name or logo on a dxw website or within
+        service along with your name or logo on a dxw digital website or within
         other promotional material. To the extent that these materials are owned by
         you, you agree to grant us a perpetual, irrevocable, non-exclusive,
         royalty-free licence that authorises this use.
@@ -435,6 +435,7 @@
         action or other circumstances beyond our reasonable control.
 
 
+
 19. ### Termination
 
     1.  Either party may terminate this contract at any time by giving us 30 days'
@@ -455,8 +456,32 @@
         2. If the service has not already been carried out, no refund will be due
            for the fees accrued at the time of termination.
 
+20. 	Data processing
 
-20. ### Changes to these terms
+    1.	Upon agreeing to these terms, dxw digital will become a data processor for your WordPress website. 
+
+    2. 	This agreement is a Data Processing Agreement for that service. This means that dxw digital will;
+    
+        1.  have adequate information security in place;
+        2.  not use sub Processors without consent of the Controller;
+        3.  cooperate with the relevant Data Protection Authorities in the event of an enquiry;
+        4.  report data breaches to the Controller without delay;
+        5.  keep records of processing activities undertaken outside your control;
+        6.  comply with EU trans border data transfer rules;
+        7.  help the Controller to comply with data subjects rights;
+        8.  assist the Data Controller in managing the consequences of data breaches;
+        9. delete or return all personal data at the end of the contract at the choice of the Controller; 
+        10. inform the Controller if the processing instructions infringe GDPR.
+    
+    3.  We will process data for which you are the controller by storing, amending, retrieving, collecting and displaying data that is used as part of the WordPress service that we host on your behalf.
+    
+    4.  This information will be stored for up to 6 months after the end of the contract. This can be expedited and extended subject to prior agreement 
+    
+    5.  You will ensure that you have sufficient measures in place to protect any data you hold.
+
+    6. 	Any data we process on your behalf will be held within the European Union.
+    
+21. ### Changes to these terms
 
     1.  dxw digital may vary these terms at any time upon giving you prior
         written notice.
@@ -472,26 +497,26 @@
         framework agreement of which this agreement forms a part.
 
 
-21. ### Proper law
+22. ### Proper law
 
     1.  This agreement is governed by English law and the parties agree
         that any disputes arising from the agreement will be subject to
         the exclusive jurisdiction of the courts of England and Wales.
 
 
-22. ### Email
+23. ### Email
     1.  Any reference to "in writing" includes email and excludes fax
         transmissions.
 
 
-23. ### Headings
+24. ### Headings
 
     1.  The section headings contained in this agreement are for
         reference only and shall not in any way affect the meaning or
         interpretation of this agreement.
 
 
-24. ### Whole agreement
+25. ### Whole agreement
 
     1.  With the exception of any framework agreement of which this agreement
         forms a part, this agreement and the order summary that accompanies it
