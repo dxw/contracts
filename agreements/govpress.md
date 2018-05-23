@@ -456,31 +456,31 @@
         2. If the service has not already been carried out, no refund will be due
            for the fees accrued at the time of termination.
 
-20. 	Data processing
+20. ### Data processing
 
-    1.	Upon agreeing to these terms, dxw digital will become a data processor for your WordPress website. 
+    1.	Upon agreeing to these terms, dxw digital will become a data processor for your WordPress website.
 
     2. 	This agreement is a Data Processing Agreement for that service. This means that dxw digital will;
-    
-        1.  have adequate information security in place;
-        2.  not use sub Processors without consent of the Controller;
-        3.  cooperate with the relevant Data Protection Authorities in the event of an enquiry;
-        4.  report data breaches to the Controller without delay;
-        5.  keep records of processing activities undertaken outside your control;
-        6.  comply with EU trans border data transfer rules;
-        7.  help the Controller to comply with data subjects rights;
-        8.  assist the Data Controller in managing the consequences of data breaches;
-        9. delete or return all personal data at the end of the contract at the choice of the Controller; 
+
+        1. have adequate information security in place;
+        2. not use sub Processors without consent of the Controller;
+        3. cooperate with the relevant Data Protection Authorities in the event of an enquiry;
+        4. report data breaches to the Controller without delay;
+        5. keep records of processing activities undertaken outside your control;
+        6. comply with EU trans border data transfer rules;
+        7. help the Controller to comply with data subjects rights;
+        8. assist the Data Controller in managing the consequences of data breaches;
+        9. delete or return all personal data at the end of the contract at the choice of the Controller;
         10. inform the Controller if the processing instructions infringe GDPR.
-    
+
     3.  We will process data for which you are the controller by storing, amending, retrieving, collecting and displaying data that is used as part of the WordPress service that we host on your behalf.
-    
-    4.  This information will be stored for up to 6 months after the end of the contract. This can be expedited and extended subject to prior agreement 
-    
+
+    4.  This information will be stored for up to 6 months after the end of the contract. This can be expedited and extended subject to prior agreement
+
     5.  You will ensure that you have sufficient measures in place to protect any data you hold.
 
     6. 	Any data we process on your behalf will be held within the European Union.
-    
+
 21. ### Changes to these terms
 
     1.  dxw digital may vary these terms at any time upon giving you prior
