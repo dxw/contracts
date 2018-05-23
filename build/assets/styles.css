@@ -5,7 +5,7 @@ body
   font-family: "Lato", sans-serif;
   background: #eee;
   font-size: 18px;
-  line-height: 24px;
+  line-height: 25px;
   margin: 0;
 }
 
@@ -13,11 +13,16 @@ header {
   margin: 20px 20px 40px 20px;
 }
 
+#signature {
+  page-break-before: always;
+}
+
 h1,h2,h3 {
   margin-left: 20px;
   margin-top: 20px;
 
   font-weight: bold;
+  page-break-after: avoid;
 }
 
 li > h3, li > h2
@@ -50,9 +55,12 @@ ol, dl
 {
   counter-reset: item;
   display: table;
-  padding: 0 0 0 20px;
   margin-top: 0;
   color: #000;
+}
+
+ol {
+  padding: 0 0 0 20px;
 }
 
 li
@@ -60,33 +68,41 @@ li
   display: table-row;
 }
 
+ol li:before {
+  padding-right: 8px;
+}
+
 ol li ol {
-  margin-bottom: 5px;
+  margin: 0 0 5px;
+  padding: 0;
   border-spacing: 10px;
 }
 
 ol li ol li ol {
-  padding-top: 10px;
+  padding-top: 10px 0 0;
   border-spacing: 0;
 }
 
 ol li ol li ol li:before {
-  padding-bottom: 0;
+  padding: 0 8px 5px 0;
 }
 
 li:before, dt:before
 {
   content: counters(item,".") ". ";
   counter-increment: item;
-  font-weight: bold;
-  padding: 0 8px 8px 0;
+  font-weight: normal;
+  padding: 0 0px 8px 0;
 }
 
 li:before
 {
   display: table-cell;
   vertical-align: top;
-  font-weight: normal;
+}
+
+dt:before {
+  padding: 0 8px 8px 8px;
 }
 
 table {
@@ -113,18 +129,18 @@ table tr td:nth-child(2) {
 
 p
 {
-  margin: 0 0 10px 20px;
-  padding: 0 0 5px;
+  margin: 0 0 10px 0;
   page-break-inside: avoid;
 }
 
 dt
 {
-  font-weight: 700;
+  font-weight: bold;
 }
 
 dd {
   margin-bottom: 20px;
+  padding-left: 8px;
 }
 
 dt:after

@@ -1,6 +1,6 @@
 # GovPress Terms of Service
 
-## 10th April 2017
+## 21 May 2018
 
 1. ### Parties
 
@@ -79,7 +79,7 @@
         3.  Details of Overprovisioned Capacity, if any;
         4.  A statement of the support dxw digital will provide: Managed
             or managed plus;
-        5.  A description of the steps dxw digital has taken
+        5.  If Managed, a description of the steps dxw digital has taken
             to make an initial assessment of the support your website will
             require, and thus to determining an initial Time Allowance.
         6.  A breakdown of dxw digital's predicted monthly fees, showing separately
@@ -418,7 +418,7 @@
         Barclay's Bank base rate.
 
     5.  You shall make payment by BACS transfer or (if agreed in advance with
-        dxw) credit or debit card. dxw digital does not accept cheques.
+        dxw digital) credit or debit card. dxw digital does not accept cheques.
 
     6.  Credit and debit card payments are subject to a 2.5% fee.
 
@@ -432,7 +432,8 @@
 18. ### Circumstances beyond our control
 
     1.  dxw digital will not be liable for any failure caused by industrial
-    action or other circumstances beyond our reasonable control.
+        action or other circumstances beyond our reasonable control.
+
 
 
 19. ### Termination
