@@ -41,7 +41,7 @@
 
     4.  If the Goals are changed during the work, dxw cyber reserve the right to provide a new Order Summary, with different Fees payable for the Work. Our agreement to the updated Goals will be contingent on your acceptance of any associated change in Fees.
 
-    5.  dxw cyber may review and revise the Fees associated with the Order Summary annually on anniversary of the commencement date.  Where this happens, dxw cyber will send you an updated Order Summary.
+    5.  dxw cyber may review and revise the Fees associated with the Order Summary annually on the anniversary of the commencement date.  Where this happens, dxw cyber will send you an updated Order Summary.
 
     6.  The Order Summary is not a specification nor a commitment to produce specific deliverables; it is a commitment to provide the Team for the amount of time defined in the Order Summary.
 
@@ -67,7 +67,7 @@
 
     3.  During the Work, either party may request amendments to the Scope.
 
-    4. Changes to the Scope will not affect the amount of time the Team spend on the Work nor the fees due for the Work.  However, both parties acknowledge that prompt agreement to changes to the Scope is necessary for the Goals to be met and that unnecessary narrowing of the scope or other restrictions placed on the practical security testing increase the risk that the Goals will not be achieved.
+    4. Changes to the Scope will not affect the amount of time the Team spend on the Work nor the fees due for the Work.  However, both parties acknowledge that prompt agreement to changes to the Scope is necessary for the Goals to be met and that unnecessary narrowing of the scope or placing other restrictions on the practical security testing increase the risk that the Goals will not be achieved.
 
 
 6. ### Consent to practical security testing
@@ -79,8 +79,8 @@
     3.  In respect of the Hosts set out in the Scope, you authorise dxw cyber to:
 
         1. Access or modify programs and data on the Hosts, which may include Personal Data;
-        2. Perform actions on the hosts which may impair their operation, prevent or hinder access by other users, or impair the operation of programs that run on them;
-        3. Intercept or modify communications to and from the hosts or between any other Hosts on a network to which any of the hosts are connected;
+        2. Perform actions on the Hosts which may impair their operation, prevent or hinder access by other users, or impair the operation of programs that run on them;
+        3. Intercept or modify communications to and from the Hosts or between any other Hosts on a network to which any of the Hosts are connected;
         4. Make false or misleading representations to your employees as part of the Work, and you acknowledge and agree that the intent of these statements is not malicious but instead is to make assessments of your security;
 
     4.  At the conclusion of testing, dxw cyber will, as far as is reasonably practical, ensure each Host subjected to testing is restored to a state substantially similar to that in which it was found at the start of testing.
@@ -90,42 +90,76 @@
 
     1.	In this clause:
 
-        1. Data Protection Legislation means the UK Data Protection Legislation and (for so long as and to the extent that the law of the European Union has legal effect in the UK) the General Data Protection Regulation ((EU) 2016/679) and any other directly applicable European Union regulation relating to privacy.
+        1.  Data Protection Legislation means the UK Data Protection Legislation and (for so long as and to the extent
+            that the law of the European Union has legal effect in the UK) the General Data Protection Regulation ((EU)
+            2016/679) and any other directly applicable European Union regulation relating to privacy.
 
-        2. UK Data Protection Legislation means any data protection legislation from time to time in force in the UK including the Data Protection Act 1998 or 2018 or any successor legislation.
+        2.  UK Data Protection Legislation means any data protection legislation from time to time in force in the UK
+            including the Data Protection Act 1998 or 2018 or any successor legislation.
 
-        3. All references to Personal Data in this section are specific to Personal Data that we access from your Hosts or that is given to us by you to support or enable practical security testing.
+        3.  In this section, Host Personal Data means Personal Data that we access from your Hosts or that is given to
+            us by you to support or enable practical security testing.
 
-        4. Other Personal Data, such as the records we maintain about your staff, are processed in order to perform our obligations under our agreement, in accordance with our Privacy Policy as published on our website and amended from time to time.
+        4.  Other Personal Data that we collect are processed in order to perform our obligations under this agreement,
+            in accordance with our Privacy Policy as published on our website and amended from time to time.
 
-    2.	You recognise and agree that, as part of undertaking the Work, dxw cyber may:
+    2.	You recognise and agree that the nature of practical security testing makes it impractical to explicitly state
+        what categories of personal data may be processed in advance of that data being found during testing.
+        As part of undertaking the Work, dxw cyber may:
 
-        1.	incidentally access Personal Data that is present on one or more of the Hosts;
-        2.	need to undertake processing off-site of some categories of Personal Data (specifically username and password combinations, whether hashed, encrypted or in plaintext) for the purpose of working towards the Goals;
-        3.	need to include limited amounts of Personal Data in its reports to you as part of describing any vulnerabilities or other findings which were identified during carrying out the Work;
+        1.	incidentally access Host Personal Data that is present on one or more of the Hosts;
+        2.  need to include limited amounts of Host Personal Data in its reports to you as part of describing any
+            vulnerabilities or other findings which were identified during the Work;
+        3.	need to undertake processing off-site of some categories of Host Personal Data for the purpose of working
+            towards the Goals, for example:
 
-    3.  dxw cyber shall delete any Personal Data under sub-clause 2 above within 90 days of termination of this agreement, save that dxw cyber shall be permitted to:
+            1.  analysis of usernames and passwords, whether hashed, encrypted or in plaintext;
+            2.  finding identifiers that may be used to locate a given user in other systems, for example, social media
+                usernames, IP addresses or alternative email addresses;
+            3.  analysis of the contents of text fields, including where structured or obfuscated, for example profile
+                descriptions or private messages.
 
-        1.	retain hashed or encrypted passwords and their plaintext equivalents (but not associated usernames) indefinitely for the purpose of security research, the same not constituting Personal Data under the Data Protection Legislation;
-        2.	retain a copy of any reports prepared for you as part of the Work, which may incidentally contain Personal Data.
+    3.  dxw cyber shall delete any Host Personal Data under sub-clause 2 above within 90 days of termination of this
+        agreement, save that dxw cyber shall be permitted to:
+
+        1.	retain hashed or encrypted passwords and their plaintext equivalents (but not associated usernames)
+            indefinitely for the purpose of security research, the same not constituting Personal Data under Data
+            Protection Legislation;
+        2.	retain a copy of any reports prepared for you as part of the Work, which may incidentally contain Host
+            Personal Data or other Personal Data.
 
     4.	In respect of Personal Data:
 
         1.	Both parties will comply with all applicable requirements of the Data Protection Legislation.
 
-        2.	The parties acknowledge that for the purposes of the Data Protection Legislation, you are the data controller and dxw cyber is the data processor (where Data Controller and Data Processor have the meanings as defined in the Data Protection Legislation).
+        2.	The parties acknowledge that for the purposes of the Data Protection Legislation, you are the data
+            controller and dxw cyber is the data processor (where Data Controller and Data Processor have the meanings
+            as defined in the Data Protection Legislation) in respect of the Host Personal Data.
 
-        3.	Without prejudice to the generality of sub-clause 1 above, you will ensure that you have all necessary  lawful bases, consents and notices in place to enable lawful transfer of the Personal Data to dxw cyber for the duration and purposes of this agreement.
+        3.	Without prejudice to the generality of sub-clause 1 above, you will ensure that you have all necessary
+            lawful bases, consents and notices in place to enable lawful transfer of the Host Personal Data to dxw
+            cyber for the duration and purposes of this agreement.
 
-        4.	Without prejudice to the generality of sub-clause 1 above, dxw cyber shall, in relation to any Personal Data processed in connection with this agreement:
+        4.	Without prejudice to the generality of sub-clause 1 above, dxw cyber shall, in relation to any Host
+            Personal Data processed in connection with this agreement:
 
-            1.	process that Personal Data only in accordance with these terms or on your written instructions unless the we are required by applicable laws otherwise to process that Personal Data.
-            2.	ensure that we have in place appropriate technical and organisational measures to protect against unauthorised or unlawful processing of Personal Data and against accidental loss or destruction of, or damage to, Personal Data, appropriate to the harm that might result from the unauthorised or unlawful processing or accidental loss, destruction or damage and the nature of the data to be protected, having regard to the state of technological development and the cost of implementing any measures;
-            3.	ensure that all personnel who have access to and/or process Personal Data are obliged to keep the Personal Data confidential; and
-            4.	not transfer any Personal Data outside of the European Economic Area in the absence of adequate safeguards or a Commission decision;
-            5.	assist you, at your cost, in responding to any request from a Data Subject and in ensuring compliance with your obligations under the Data Protection Legislation with respect to security, breach notifications, impact assessments and consultations with supervisory authorities or regulators;
-            6.	notify you without undue delay on becoming aware of a Personal Data breach;
-            7.	at your written direction, delete or return Personal Data and copies thereof to you on termination of the agreement unless required by applicable law to store the Personal Data; and
+            1.	process that Host Personal Data only in accordance with these terms or on your written instructions
+                unless we are required by applicable laws otherwise to process that Host Personal Data;
+            2.	ensure that we have in place appropriate technical and organisational measures to protect against
+                unauthorised or unlawful processing of Host Personal Data and against accidental loss or destruction
+                of, or damage to, Host Personal Data, appropriate to the harm that might result from the unauthorised
+                or unlawful processing or accidental loss, destruction or damage and the nature of the data to be
+                protected, having regard to the state of technological development and the cost of implementing any
+                measures;
+            3.	ensure that all personnel who have access to and/or process Host Personal Data are obliged to keep the
+                Host Personal Data confidential;
+            4.	not transfer any Host Personal Data outside of the European Economic Area;
+            5.	assist you, at your cost, in responding to any request from a Data Subject and in ensuring compliance
+                with your obligations under the Data Protection Legislation with respect to security, breach
+                notifications, impact assessments and consultations with supervisory authorities or regulators;
+            6.	notify you without undue delay on becoming aware of a Host Personal Data breach;
+            7.	at your written direction, delete or return Host Personal Data and copies thereof to you on termination
+                of the agreement unless required by applicable law to store the Host Personal Data; and
             8.	maintain complete and accurate records and information to demonstrate its compliance with this clause.
 
 
@@ -257,19 +291,24 @@
 
     3. Without affecting any other right or remedy available to it, either party may terminate this agreement with immediate effect by giving written notice to the other party if:
 
-        1. the other party repeatedly breaches any of the terms of this agreement in such a manner as to reasonably justify the opinion that its conduct is inconsistent with it having the intention or ability to give effect to the terms of this agreement;
+        1. the other party repeatedly breaches any of the terms of this agreement in such a manner as to reasonably
+           justify the opinion that its conduct is inconsistent with it having the intention or ability to give effect
+           to the terms of this agreement;
 
-        2. the other party suspends, or threatens to suspend, payment of its debts or is unable to pay its debts as they fall due, admits inability to pay its debts, or enters into an arrangement with creditors;
+        2. the other party suspends, or threatens to suspend, payment of its debts or is unable to pay its debts as
+           they fall due, admits inability to pay its debts, or enters into an arrangement with creditors;
 
-      3. a petition is filed to wind up the other party or an administrator is appointed.
+        3. a petition is filed to wind up the other party or an administrator is appointed.
 
-    4. If dxw cyber terminates this agreement, we will provide you with a summary of your account with us, and will refund any fees paid for work we have not yet delivered.
+    4. If dxw cyber terminates this agreement, we will provide you with a summary of your account with us. We will
+       refund any fees paid for work we have not yet delivered, and you will pay any fees due for Work delivered but
+       not yet paid.
 
     5. If you terminate this agreement, you forfeit any fees you have paid for work agreed but not yet delivered.
 
     6. Where the Order Summary states that the Work has an end date, the agreement will terminate 90 days after the Work has been completed unless it is extended, in which case dxw cyber will provide a new Order Summary.
 
-    7. The parties' obligations under sections 12, 13 and 14 will survive termination of this agreement.
+    7. The parties' obligations under sections 7.3, 12, 13, 14 and 15 will survive termination of this agreement.
 
 
 17. ### Circumstances beyond the parties’ control
@@ -290,12 +329,7 @@
     4.  This clause does not apply if it would violate the terms of a framework agreement of which this agreement forms a part.
 
 
-19. ### Jurisdiction and choice of law
-
-    1.  This agreement is governed by English law and the parties agree that any disputes arising from the agreement will be subject to the exclusive jurisdiction of the courts of England and Wales.
-
-
-20. ### Notices
+19. ### Notices
 
     1.  Any notice or other communication given to a party under or in connection with this agreement shall be in writing and shall be sent by email to the address specified in the Order Summary
 
@@ -304,11 +338,25 @@
     3. This clause does not apply to the service of any proceedings or other documents in any legal action or, where applicable, any arbitration or other method of dispute resolution.
 
 
-21. ### Headings
+20. ### Headings
 
     1.  The section headings contained in this agreement are for reference only and shall not in any way affect the meaning or interpretation of this agreement.
 
 
-22. ### Whole agreement
+21. ### Miscellaneous
 
-    1.  With the exception of any framework agreement of which this agreement forms a part, this agreement and the Order Summary that accompanies it constitute the entire agreement between us with respect to the Work, and replaces any prior oral or written agreement which may exist.
+    1.  With the exception of any framework agreement of which this agreement forms a part, this agreement and the
+        Order Summary that accompanies it constitute the entire agreement between us with respect to the Work, and
+        replaces any prior oral or written agreement which may exist.
+
+    2.  If any provision of this agreement is found by any court, tribunal or administrative body of competent
+        jurisdiction to be wholly or partly illegal, invalid, void, voidable, unenforceable or unreasonable it shall to
+        that extent be deemed severable and the remaining provisions of the agreement and the remainder of such
+        provision shall continue in full force and effect.
+
+    3.  The parties to this agreement do not intend that any term of this agreement will be enforceable by virtue of the
+        Contracts (Rights of Third parties) Act 1999 by any person that is not a party to it.
+
+22. ### Jurisdiction and choice of law
+
+    1.  This agreement is governed by English law and the parties agree that any disputes arising from the agreement will be subject to the exclusive jurisdiction of the courts of England and Wales.
