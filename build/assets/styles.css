@@ -13,11 +13,16 @@ header {
   margin: 20px 20px 40px 20px;
 }
 
+#signature {
+  page-break-before: always;
+}
+
 h1,h2,h3 {
   margin-left: 20px;
   margin-top: 20px;
 
   font-weight: bold;
+  page-break-after: avoid;
 }
 
 li > h3, li > h2

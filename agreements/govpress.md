@@ -1,12 +1,12 @@
 # GovPress Terms of Service
 
-## 10th April 2017
+## 21 May 2018
 
 1. ### Parties
 
     1.  This agreement is between The Dextrous Web Ltd, a company
         registered in England and Wales under number 6617101, trading as
-        "dxw", and the organisation or person specified on the order
+        "dxw digital", and the organisation or person specified on the order
         summary accompanying this document.
 
 
@@ -15,10 +15,10 @@
     Emergency Support Ticket
     :   An Emergency Support Ticket is a Support Ticket created when an email
         is sent to support-emergency@dxw.com. Its creation will result in alerts
-        being sent to members of dxw staff at any time of day or night.
+        being sent to members of dxw digital staff at any time of day or night.
 
     GovPress
-    :	  The software and hardware platform, including WordPress, on which dxw will
+    :	  The software and hardware platform, including WordPress, on which dxw digital will
         host your website, is known as GovPress.
 
     Overprovisioned Capacity
@@ -59,7 +59,7 @@
     Support Ticket
     :   A Support Ticket is a task, created by completing an online form or
         sending an email to support@dxw.com, which will be assigned to
-        a member of staff at dxw for their attention or action.
+        a member of staff at dxw digital for their attention or action.
 
     Time Allowance
     :   The Time Allowance is a notional quantity of time allocated for use in
@@ -68,27 +68,27 @@
 
 3. ### Proposal
 
-    1.  Before hosting a WordPress website, dxw will provide a Proposal.
+    1.  Before hosting a WordPress website, dxw digital will provide a Proposal.
     2.  The Proposal will contain:
 
-        1.  A description of the steps dxw has taken to make an initial
+        1.  A description of the steps dxw digital has taken to make an initial
             assessment of the server capacity your website is likely to require;
         2.  A recommendation for the number and size of the instances you
             will need, the size of your database and your initial file
             storage;
         3.  Details of Overprovisioned Capacity, if any;
-        4.  A statement of the support dxw will provide: Managed
+        4.  A statement of the support dxw digital will provide: Managed
             or Unmanaged;
-        5.  If Managed, a description of the steps dxw has taken
+        5.  If Managed, a description of the steps dxw digital has taken
             to make an initial assessment of the support your website will
             require, and thus to determining an initial Time Allowance.
-        6.  A breakdown of dxw's predicted monthly fees, showing separately
+        6.  A breakdown of dxw digital's predicted monthly fees, showing separately
             the fees for infrastructure, support, and any other services;
         7.  A breakdown of any costs to migrate your website onto GovPress,
             if applicable;
         8.  Anything else that we have agreed to provide as part of the service.
 
-    3.  The proposal dxw provides will represent our best understanding
+    3.  The proposal dxw digital provides will represent our best understanding
         of the hosting requirements that you have, at the time it was
         written. By accepting our proposal, you indicate that you:
 
@@ -102,7 +102,7 @@
 
 4. ### The service
 
-    1.  dxw will provide the following as part of this contract:
+    1.  dxw digital will provide the following as part of this contract:
 
         1.  A hosting service which makes your WordPress website available
             for access over the internet;
@@ -114,7 +114,7 @@
         7.  A support helpdesk.
 
     2.  If your proposal specifies that the website we host will be Managed,
-        dxw will provide the following services as part of this contract, in
+        dxw digital will provide the following services as part of this contract, in
         addition to the services specified in clause 4.1:
 
         1.  Installation of WordPress plugin upgrades;
@@ -123,7 +123,7 @@
         4.  Assistance and advice on the usage of WordPress's administration area.
 
     3.  If your proposal specifies that the website we host will be Managed Plus,
-        dxw will also provide the following services as part of this contract, in
+        dxw digital will also provide the following services as part of this contract, in
         addition to the services specified in clause 4.1 and 4.2:
 
         1.  Monitoring of production logs and metrics for issues of concern,
@@ -138,7 +138,7 @@
         4.  Faster ("enhanced") response times to tickets, as described in our
             Service Level Agreement.
 
-    4.  Unless otherwise agreed in writing, dxw will not, under this contract,
+    4.  Unless otherwise agreed in writing, dxw digital will not, under this contract,
         provide any service not specified in clause 4.1, 4.2 or 4.3, including
         but not limited to:
 
@@ -154,19 +154,19 @@
     1.  You agree that occasional unavailability of your website is not
         something that can reasonably be avoided.
 
-    2.  Nonetheless, dxw will make every reasonable effort to ensure that
+    2.  Nonetheless, dxw digital will make every reasonable effort to ensure that
         your website is accessible over the internet 100% of the time, excluding
         periods of planned maintenance.
 
-    3.  If despite dxw's reasonable efforts your website is unavailable outside
-        of a planned maintenance period, dxw will on request refund or waive the
+    3.  If despite dxw digital's reasonable efforts your website is unavailable outside
+        of a planned maintenance period, dxw digital will on request refund or waive the
         infrastructure fees for any period of unavailability longer than one hour.
 
     4.  Clause 5.3 shall not apply if the unavailability is a result of events that
-        are beyond dxw's control.
+        are beyond dxw digital's control.
 
     5.  From time to time, we may need to make your website unavailable in order to
-        carry out essential maintenance. dxw will make every reasonable effort to
+        carry out essential maintenance. dxw digital will make every reasonable effort to
         give you as much notice as possible when planned unavailability will occur,
         and will complete such work outside the hours of 09:00-18:00 Monday-Friday
         whenever it is reasonably possible.
@@ -174,14 +174,14 @@
 
 6. ### Enhancement of the service
 
-    1.  dxw may at any time make changes to GovPress without giving
+    1.  dxw digital may at any time make changes to GovPress without giving
         notice. We will inform you as soon as is practical of any change
         which may have an impact upon your use of GovPress.
 
-    2.  dxw will not make any changes that remove or materially impair the
+    2.  dxw digital will not make any changes that remove or materially impair the
         supply of the services described in clauses 4.1, 4.2 and 4.3 of this contract.
 
-    3.  Changes made by dxw under this clause will normally have no detectable
+    3.  Changes made by dxw digital under this clause will normally have no detectable
         effect on the operation of your website. If you make a reasonable request
         to us to fix a problem with the operation of your website that has arisen
         out of any change we have made to GovPress, we will make reasonable efforts
@@ -192,10 +192,10 @@
 
     1.  At any time, you may create a Support Ticket.
 
-    2.  dxw will make reasonable efforts to respond to Support Tickets
+    2.  dxw digital will make reasonable efforts to respond to Support Tickets
         within the period of time specified in our Service Level Agreement.
 
-    3.  All contact regarding the services dxw provides as part of this
+    3.  All contact regarding the services dxw digital provides as part of this
         contract must be made via Support Tickets.
 
     4.  You understand that any contact you make with us that is not via a
@@ -208,7 +208,7 @@
         emergency as described in the Service Level Agreement.
 
     6.  If you create Emergency Support Tickets in situations which do
-        not meet the criteria for an emergency, dxw may withdraw your
+        not meet the criteria for an emergency, dxw digital may withdraw your
         ability to submit Emergency Support Tickets.
 
     7.  You understand that if you are experiencing an emergency but
@@ -219,40 +219,40 @@
 
 8. ### Time allowance
 
-    1.  dxw's initial fee for Managed support is calculated from the
+    1.  dxw digital's initial fee for Managed support is calculated from the
         Time Allowance, which is based on our assessment of your website's
         likely support requirements, as stated in the proposal.
 
-    2.  dxw will track time spent providing the services specified in this
+    2.  dxw digital will track time spent providing the services specified in this
         contract in sufficient detail to be able to provide an approximation
         of the time required to service your website in any given month.
 
-    3.  In any given month, dxw will carry out all of the services provided
+    3.  In any given month, dxw digital will carry out all of the services provided
         under this contract with no additional fee, provided that the Time
         Allowance has not been exceeded.
 
-    4.  In any given month, if dxw chooses to complete work in excess of the
+    4.  In any given month, if dxw digital chooses to complete work in excess of the
         Time Allowance, no additional fee will be payable. Any such work is
-        completed at dxw's absolute discretion and the fact that dxw does so on
-        one occasion will not imply that dxw will do so on subsequent occasions.
+        completed at dxw digital's absolute discretion and the fact that dxw digital does so on
+        one occasion will not imply that dxw digital will do so on subsequent occasions.
 
-    4.  In any given month, if dxw chooses not to complete work in excess of
+    4.  In any given month, if dxw digital chooses not to complete work in excess of
         the Time Allowance, we may notify you, and, subject to our availability,
-        will complete that work if dxw's fees for the additional work are paid.
-        dxw will not charge a fee for any such work without your authorisation.
+        will complete that work if dxw digital's fees for the additional work are paid.
+        dxw digital will not charge a fee for any such work without your authorisation.
 
     6.  The Time Allowance may be varied by agreement, and with a corresponding
-        change to dxw's fees.
+        change to dxw digital's fees.
 
-    7.  dxw will not ordinarily agree to a reduction in the Time Allowance if
+    7.  dxw digital will not ordinarily agree to a reduction in the Time Allowance if
         to do so would impede our ability to provide services under this agreement
         to a professional standard.
 
-    8.  If your Time Allowance is regularly exceeded, or almost exceeded, dxw
+    8.  If your Time Allowance is regularly exceeded, or almost exceeded, dxw digital
         may notify you that this is the case, and request that the Time
         Allowance be increased.
 
-    9.  If you do not agree to increase the Time Allowance, dxw may require
+    9.  If you do not agree to increase the Time Allowance, dxw digital may require
         you to reduce the workload that your website generates; for example, by
         submitting fewer Support Tickets or carrying out remedial development work
         at your own cost.
@@ -260,25 +260,25 @@
     10. The Time Allowance is calculated per month. Unused time is not carried
         over and may not be used in any subsequent month.
 
-    10. dxw may, for a fee, be able to advise you on alternative approaches
+    10. dxw digital may, for a fee, be able to advise you on alternative approaches
         to managing your website that could reduce your operational costs.
 
-    11. The Time Allowance will have no bearing on dxw's provision of the
+    11. The Time Allowance will have no bearing on dxw digital's provision of the
         services detailed in clauses 4.1.1, 4.1.2, 4.1.3 and 4.1.4.
 
 
 9. ### Installation of plugins
 
-    1.  For a fee, dxw will conduct an assessment of a WordPress plugin intended
+    1.  For a fee, dxw digital will conduct an assessment of a WordPress plugin intended
         to give a broad understanding of the kinds of security problems that
         plugin may have.
 
-    2.  dxw may refuse to permit the use of any plugin or plugin update if our
+    2.  dxw digital may refuse to permit the use of any plugin or plugin update if our
         assessment indicates that it presents unacceptable security risks.
 
     3.  Plugin security assessments are intended only to give a broad
         understanding of a plugin's security status. The results are opinions
-        only. dxw neither offers any guarantee that a plugin whose assessment
+        only. dxw digital neither offers any guarantee that a plugin whose assessment
         produced positive results does not contain security vulnerabilities,
         nor that negative results necessarily mean that a plugin does contain
         security vulnerabilities.
@@ -286,7 +286,7 @@
 
 10. ### Suspension
 
-    1.  dxw may suspend the services provided as part of this agreement if:
+    1.  dxw digital may suspend the services provided as part of this agreement if:
 
         1.  You fail to pay invoices whose total value is greater than or equal
             to our total fee for the preceding two months' usage of GovPress;
@@ -294,7 +294,7 @@
             protect your data or another GovPress user's security, or to protect
             other users of the internet.
 
-    2.  In the event that the services are suspended, dxw will replace your
+    2.  In the event that the services are suspended, dxw digital will replace your
         website with a message stating that your website is down for maintenance.
 
 
@@ -310,28 +310,28 @@
 
 12. ### Quality
 
-    1.  dxw will deliver work of a professional standard.
-    2.  dxw is insured against professional negligence to a value of £2,000,000.
+    1.  dxw digital will deliver work of a professional standard.
+    2.  dxw digital is insured against professional negligence to a value of £2,000,000.
 
 
 13. ### Limitation of liability
 
-    1.  dxw cannot guarantee perfect reliability.
-    2.  dxw will deliver work that is as robust and reliable as is reasonably
+    1.  dxw digital cannot guarantee perfect reliability.
+    2.  dxw digital will deliver work that is as robust and reliable as is reasonably
         practical.
     3.  You acknowledge that all software of non-trivial size contains bugs,
         including security vulnerabilities, and that it is not reasonably
         practical to deliver bug-free software.
-    4.  dxw will not be liable for any loss of profits or reputation that you
+    4.  dxw digital will not be liable for any loss of profits or reputation that you
         suffer, directly or indirectly, as a consequence of any failure of
         GovPress or the WordPress site that it hosts.
     5.  You agree that it is your responsibility to ensure that you put
         in place measures that make you able to operate in the event of
-        any such failure. dxw can work with you to design or implement
+        any such failure. dxw digital can work with you to design or implement
         such measures at your request for an agreed fee.
     6.  Nothing in this agreement should be read as excluding our
         liability for death or personal injury caused by our negligence.
-    7.  In any event, dxw's total liability under this agreement is
+    7.  In any event, dxw digital's total liability under this agreement is
         limited to the lesser of:
 
         1. The total fees for a year of GovPress service;
@@ -340,21 +340,21 @@
 
 14. ### Confidentiality
 
-    1.  dxw believe that it is best to be open.
-    2.  dxw will generally not keep the details of your website confidential,
+    1.  dxw digital believe that it is best to be open.
+    2.  dxw digital will generally not keep the details of your website confidential,
         including by not limited to:
 
-        1.  The fact that dxw has a commercial relationship with you;
+        1.  The fact that dxw digital has a commercial relationship with you;
         2.  The nature and goals of your website;
         3.  The cost to host your website.
 
-    3.  However, dxw do regard the following as confidential:
+    3.  However, dxw digital do regard the following as confidential:
 
         1.  The specific content of documents or content that will be
             published on any of your websites that is not yet publicly
             available, most especially the content of forthcoming
             strategy or policy announcements;
-        2.  Personal data dxw acquires during the course of hosting your
+        2.  Personal data dxw digital acquires during the course of hosting your
             website;
         3.  The content or existence of any document you send to us that
             is protectively marked.
@@ -369,19 +369,19 @@
         intended to transfer any intellectual property right.
 
     2.	To the extent that it is able (either through ownership or because it
-        is licensed under a licence that permits sublicensing) dxw licenses all
+        is licensed under a licence that permits sublicensing) dxw digital licenses all
         intellectual property rights in GovPress to you for the sole purpose
         of carrying out this agreement, and only to the extent necessary for you
         to carry out this agreement.
 
     3.	To the extent that it is not able to give the licence in clause 15.2 above,
-        dxw has taken reasonable steps to check that all intellectual property
-        rights owned by third parties in GovPress permit dxw and you to enter
+        dxw digital has taken reasonable steps to check that all intellectual property
+        rights owned by third parties in GovPress permit dxw digital and you to enter
         into this agreement and for you to operate your website through
         GovPress as envisaged under this agreement.
 
     4.	If, under this agreement, we create works, such as computer programs
-        and documentation, dxw retains all Intellectual Property rights in the
+        and documentation, dxw digital retains all Intellectual Property rights in the
         works, and licences their use to you per clause 15.2 above.
 
 
@@ -397,7 +397,7 @@
         property rights, may be used as part of the operation of your website
         under this agreement.
 
-    3.  dxw may place links or representative screenshots of your WordPress
+    3.  dxw digital may place links or representative screenshots of your WordPress
         service along with your name or logo on a dxw website or within
         other promotional material. To the extent that these materials are owned by
         you, you agree to grant us a perpetual, irrevocable, non-exclusive,
@@ -406,24 +406,24 @@
 
 17. ### Payments
 
-    1.  dxw's fees for infrastructure, as specified in your proposal,
+    1.  dxw digital's fees for infrastructure, as specified in your proposal,
         will be calculated every calendar month based on your Service Usage
         and billed in arrears.
 
-    2.  dxw's fees for support will be billed each month in arrears.
+    2.  dxw digital's fees for support will be billed each month in arrears.
 
     3.  Invoices are payable within 14 days.
 
-    4.  dxw may charge interest on overdue invoices at 5% over the
+    4.  dxw digital may charge interest on overdue invoices at 5% over the
         Barclay's Bank base rate.
 
     5.  You shall make payment by BACS transfer or (if agreed in advance with
-        dxw) credit or debit card. dxw does not accept cheques.
+        dxw digital) credit or debit card. dxw digital does not accept cheques.
 
     6.  Credit and debit card payments are subject to a 2.5% fee.
 
-    7.  dxw issues invoices by email. If you require a paper invoice to be
-        issued, dxw may charge an additional fee.
+    7.  dxw digital issues invoices by email. If you require a paper invoice to be
+        issued, dxw digital may charge an additional fee.
 
     8.  VAT (where applicable) is payable on, and in addition to, all sums
         due under this agreement.
@@ -431,7 +431,7 @@
 
 18. ### Circumstances beyond our control
 
-    1.  dxw will not be liable for any failure caused by industrial
+    1.  dxw digital will not be liable for any failure caused by industrial
         action or other circumstances beyond our reasonable control.
 
 
@@ -440,10 +440,10 @@
     1.  Either party may terminate this contract at any time by giving us 30 days'
         notice in writing.
 
-    2.  dxw may terminate this contract without notice if you are in material
+    2.  dxw digital may terminate this contract without notice if you are in material
         breach.
 
-    3.  At the end of this contract, dxw will issue a final invoice for your usage
+    3.  At the end of this contract, dxw digital will issue a final invoice for your usage
         of GovPress up to the date of termination, which you shall pay.
 
     4.  In the event that the Proposal includes a service which takes place less
@@ -458,7 +458,7 @@
 
 20. ### Changes to these terms
 
-    1.  dxw may vary these terms at any time upon giving you prior
+    1.  dxw digital may vary these terms at any time upon giving you prior
         written notice.
 
     2.  If any proposed change in these terms puts you at a material
@@ -466,7 +466,7 @@
         the change will not be binding on you.
 
     3.  Any such written objection must be sent within 14 days of the
-        the notice dxw sends you.
+        the notice dxw digital sends you.
 
     4.  This clause does not apply if it would violate the terms of a
         framework agreement of which this agreement forms a part.
