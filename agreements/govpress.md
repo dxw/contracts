@@ -459,13 +459,19 @@
 
     1.	Upon agreeing to these terms, dxw digital will become a data processor for your WordPress website. 
 
-    2. 	This agreement is a Data Processing Agreement for that service. This means that dxw digital will:
+    2. 	This agreement is a Data Processing Agreement for that service. This means that dxw digital will;
     
-        1. cooperate with the relevant data protection authorities in the event of an enquiry;
-        2. report data breaches to the you without delay;
-        3. help you to comply with data subjects rights;
-        4. assist you in managing the consequences of data breaches;
-        5. inform you  if we believe any processing instructions you give to us infringe GDPR;
+        1.  have adequate information security in place;
+        2.  not use sub Processors without consent of the Controller;
+        3.  cooperate with the relevant Data Protection Authorities in the event of an enquiry;
+        4.  report data breaches to the Controller without delay;
+        5.  appoint a mandatory Data Protection Officer;
+        6.  keep records of all processing activities;
+        7.  comply with EU trans border data transfer rules ;
+        8.  help the Controller to comply with data subjects rights;
+        9.  assist the Data Controller in managing the consequences of data breaches;
+        10. delete or return all personal data at the end of the contract at the choice of the Controller; 
+        11. inform the Controller if the processing instructions infringe GDPR.
     
     3.  We will process data for which you are the controller by storing, amending, retrieving, collecting and displaying data that is used as part of the WordPress service that we host on your behalf.
     
