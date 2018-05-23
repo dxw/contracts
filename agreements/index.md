@@ -14,6 +14,14 @@ This service is also governed by an [acceptable use policy](./acceptable_usage.m
 
 When we send these terms, we generally include the terms of service for technical work too, as clients often require some development work to enhance or configure their hosted service.
 
+## Container hosting, SLA and AUP
+
+[These terms cover our container hosting service](/container-terms.md.html).
+
+As with GovPress, this service is also governed by an [acceptable use policy](./acceptable_usage.md.html) and a [service level agreement](service_level_agreement.md.html).
+
+When we send these terms, we generally include the terms of service for technical work too, as clients often require some development work to enhance or configure their hosted service.
+
 ## Employment
 
 [These are the terms that apply to all employees at dxw digital](/employment.md.html).
