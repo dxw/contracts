@@ -79,7 +79,7 @@
         3.  Details of Overprovisioned Capacity, if any;
         4.  A statement of the support dxw digital will provide: Managed
             or managed plus;
-        5.  If Managed, a description of the steps dxw digital has taken
+        5.  A description of the steps dxw digital has taken
             to make an initial assessment of the support your website will
             require, and thus to determining an initial Time Allowance.
         6.  A breakdown of dxw digital's predicted monthly fees, showing separately
@@ -457,30 +457,23 @@
 
 20. 	Data processing
 
-    1.	Upon agreeing a contract for cloud hosting, dxw digital will be the data processor for your service, and there will be a data protection officer (DPO@dxw.com) who will be your point of contact to ensure GDPR compliance. 
+    1.	Upon agreeing to these terms, dxw digital will become a data processor for your WordPress website. 
 
-    2. 	Each dxw digital contract will form the basis of a Data Protection Agreement for that service. This means that dxw digital will:
+    2. 	This agreement is a Data Processing Agreement for that service. This means that dxw digital will:
     
-    -	cooperate with the relevant Data Protection Authorities in the event of an enquiry
-    -	report data breaches to the you without delay
-    -	help you to comply with data subjects rights
-    -	assist you in managing the consequences of data breaches
-    -	inform you  if we believe any  processing instructions you give to us infringe GDPR
+        1. cooperate with the relevant data protection authorities in the event of an enquiry;
+        2. report data breaches to the you without delay;
+        3. help you to comply with data subjects rights;
+        4. assist you in managing the consequences of data breaches;
+        5. inform you  if we believe any processing instructions you give to us infringe GDPR;
+    
+    3.  We will process data for which you are the controller by storing, amending, retrieving, collecting and displaying data that is used as part of the WordPress service that we host on your behalf.
+    
+    4.  This information will be stored for up to 6 months after the end of the contract. This can be expedited and extended subject to prior agreement 
+    
+    5.  You will ensure that you have sufficient measures in place to protect any data you hold.
 
-    3.  The data processing will include information required to help us fulfil a contractual obligation to a client. For example;
-    -   storage of names, email and IP addresses of website administrators and users
-    -   storage of access logs - for up to a month - which is used to maintain highest levels of security and performance
-    -   storage of security events (including attacks and suspicious activity
-    
-    4.  We will also process data which has been voluntarily provided to us, as the Data Processor, on behalf of the Data Controller. For example;
-    -   storage and displaying of email addresses of people who submit comments on the site
-    -   storage of email addresses of people who want to be notified by the Data Controller 
-    
-    5.  This information will be stored for up to 6 months after the end of the contract. This can be expedited and extended subject to prior agreement 
-    
-    6.  You will ensure that you have sufficient measures in place to protect any data you hold
-
-    7. 	Any data we process on your behalf will be held within the European Union.
+    6. 	Any data we process on your behalf will be held within the European Union.
     
 21. ### Changes to these terms
 
