@@ -465,13 +465,12 @@
         2.  not use sub Processors without consent of the Controller;
         3.  cooperate with the relevant Data Protection Authorities in the event of an enquiry;
         4.  report data breaches to the Controller without delay;
-        5.  appoint a mandatory Data Protection Officer;
-        6.  keep records of all processing activities;
-        7.  comply with EU trans border data transfer rules ;
-        8.  help the Controller to comply with data subjects rights;
-        9.  assist the Data Controller in managing the consequences of data breaches;
-        10. delete or return all personal data at the end of the contract at the choice of the Controller; 
-        11. inform the Controller if the processing instructions infringe GDPR.
+        5.  keep records of processing activities undertaken outside your control;
+        6.  comply with EU trans border data transfer rules;
+        7.  help the Controller to comply with data subjects rights;
+        8.  assist the Data Controller in managing the consequences of data breaches;
+        9. delete or return all personal data at the end of the contract at the choice of the Controller; 
+        10. inform the Controller if the processing instructions infringe GDPR.
     
     3.  We will process data for which you are the controller by storing, amending, retrieving, collecting and displaying data that is used as part of the WordPress service that we host on your behalf.
     
