@@ -1,7 +1,7 @@
 
 # Secure, scalable container hosting - Terms of Service
 
-## 23 May 2018 
+## 23 May 2018
 
 1. ### Parties
 
@@ -41,19 +41,6 @@
     Service Usage
     :   Service Usage is the accumulated quantity of hours of computing time
         and gigabytes of data stored or transferred in a given period.
-
-    Staging Environment
-    :   A Staging Environment is a private copy of your live website, which
-        can be used to test changes or new content in private before making
-        changes to your publicly available live website. The Staging Environment
-        differs substantially from the live environment, is not monitored and is
-        not backed up. It is suitable only for minor testing with unclassified content.
-
-    Pre-production Environment
-    :   A Pre-production Environment is a private copy of your live website which
-        you can use to conduct automated testing or detailed content work.
-        The Pre-production Environment is a close copy of your live website and
-        is suitable for detailed content and assurance work.
 
     Support Ticket
     :   A Support Ticket is a task, created by completing an online form or
@@ -103,14 +90,12 @@
 
     1.  dxw digital will provide the following as part of this contract:
 
-        1.  A hosting service which makes your service available
-            for access over the internet;
+        1.  A hosting service which makes your service available for access over the internet;
         2.  Backups and backup restoration;
         3.  Storage and deployment of your website's source code;
-        4.  A separate Staging Environment;
-        5.  Availability monitoring and response;
-        6.  Operating system and infrastructure upgrades and maintenance;
-        7.  A support helpdesk (24 hours a day for emergencies with support for non-emergencies during our office hours.
+        4.  Availability monitoring and response;
+        5.  Operating system and infrastructure upgrades and maintenance;
+        6.  A support helpdesk (24 hours a day for emergencies with support for non-emergencies during our office hours.
 
     2.  If your proposal specifies that the website we host will be Managed Plus,
         dxw digital will also provide the following services as part of this contract, in
@@ -253,7 +238,7 @@
         to managing your website that could reduce your operational costs.
 
     12. The Time Allowance will have no bearing on dxw digital's provision of the
-        services detailed in clauses 4.1.1, 4.1.2, 4.1.3 and 4.1.4.
+        services detailed in clauses 4.1.1, 4.1.2 and 4.1.3.
 
 
 
@@ -337,7 +322,7 @@
         us in writing as soon as is reasonably practical.
 
 
-15. ### Intellectual property of the service 
+15. ### Intellectual property of the service
 
     1.  Except as provided for in clause 16, nothing in this agreement is
         intended to transfer any intellectual property right.
@@ -371,7 +356,7 @@
         property rights, may be used as part of the operation of your website
         under this agreement.
 
-    3.  dxw digital may place links or representative screenshots of your 
+    3.  dxw digital may place links or representative screenshots of your
         service along with your name or logo on a dxw digital website or within
         other promotional material. To the extent that these materials are owned by
         you, you agree to grant us a perpetual, irrevocable, non-exclusive,
@@ -431,8 +416,9 @@
 
 20. ### Data processing
 
-     1. Upon agreeing to these terms, dxw digital will become a data processor for your WordPress website. This agreement is a Data Processing Agreement for that service. This means that dxw digital will;
-    
+     1. Upon agreeing to these terms, dxw digital will become a data processor for your WordPress website. This
+        agreement is a Data Processing Agreement for that service. This means that dxw digital will;
+
         1.  have adequate information security in place;
         2.  not use sub Processors without consent of the Controller;
         3.  cooperate with the relevant Data Protection Authorities in the event of an enquiry;
@@ -441,11 +427,13 @@
         6.  comply with EU trans border data transfer rules ;
         7.  help the Controller to comply with data subjects rights;
         8.  assist the Data Controller in managing the consequences of data breaches;
-        9. delete or return all personal data at the end of the contract at the choice of the Controller; 
+        9.  delete or return all personal data at the end of the contract at the choice of the Controller;
         10. inform the Controller if the processing instructions infringe GDPR.
-        
-     2. We will process data for which you are the controller by storing, amending, retrieving, collecting and displaying data that is used as part of the WordPress service that we host on your behalf.
-     3. This information will be stored for up to 6 months after the end of the contract. This can be expedited and extended subject to prior agreement
+
+     2. We will process data for which you are the controller by storing, amending, retrieving, collecting and
+        displaying data that is used as part of the WordPress service that we host on your behalf.
+     3. This information will be stored for up to 6 months after the end of the contract. This can be expedited and
+        extended subject to prior agreement
      4. You will ensure that you have sufficient measures in place to protect any data you hold.
      5. Any data we process on your behalf will be held within the European Union.
 
@@ -479,9 +467,8 @@
 
 24. ### Headings
 
-    1.  The section headings contained in this agreement are for
-        reference only and shall not in any way affect the meaning or
-        interpretation of this agreement.
+    1.  The section headings contained in this agreement are for reference only and shall not in any way affect the
+        meaning or interpretation of this agreement.
 
 
 25. ### Whole agreement
@@ -490,6 +477,3 @@
         forms a part, this agreement and the order summary that accompanies it
         constitute the entire agreement between us with respect to the Project,
         and replaces any prior oral or written agreement which may exist.
-
-
-
