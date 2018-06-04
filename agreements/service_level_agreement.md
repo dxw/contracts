@@ -1,14 +1,14 @@
 # Service Level Agreement
 
-## 10 April 2017
+## 23 May 2018
 
 1. ### Introduction
 
-    1. dxw has created this Service Level Agreement to define the minimum
+    1. dxw digital has created this Service Level Agreement to define the minimum
        standard of responsiveness that clients can expect from us when using
-       dxw's helpdesk.
+       dxw digital's helpdesk.
 
-    2. The responsiveness targets given in this agreement are maximal. dxw will
+    2. The responsiveness targets given in this agreement are maximal. dxw digital will
        make best endeavours to respond to all issues as quickly as possible,
        notwithstanding the requirements of this agreement.
 
@@ -18,7 +18,7 @@
     1. There are four levels of priority that apply to tickets, as described
        below.
 
-    2. A ticket's priority is set by dxw, based on our understanding of the
+    2. A ticket's priority is set by dxw digital, based on our understanding of the
        impact and importance of the problem.
 
     3. Clients are requested to describe the problem and its impact as clearly
@@ -38,7 +38,7 @@
     8. Use of the emergency support address may be withdrawn from clients who
        use it to submit tickets in situations that do not constitute an emergency.
 
-    9. References to "working" days, hours or minutes refer to dxw's working
+    9. References to "working" days, hours or minutes refer to dxw digital's working
        hours of 10:00-18:00 Monday-Friday, excluding bank holidays.
 
     10. The "enhanced" response times apply to tickets raised by customers on our
