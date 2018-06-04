@@ -148,8 +148,7 @@ textarea.big {
 @media print {
   @page
   {
-      size: auto;   /* auto is the initial value */
-
+      size: auto landscape;   /* auto is the initial value */
       /* this affects the margin in the printer settings */
       margin: 10mm 10mm 10mm 10mm;
   }
