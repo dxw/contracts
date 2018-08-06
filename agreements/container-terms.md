@@ -1,6 +1,7 @@
-# GovPress Terms of Service
 
-## 21 May 2018
+# Secure, scalable container hosting - Terms of Service
+
+## 23 May 2018
 
 1. ### Parties
 
@@ -17,9 +18,9 @@
         is sent to support-emergency@dxw.com. Its creation will result in alerts
         being sent to members of dxw digital staff at any time of day or night.
 
-    GovPress
-    :	  The software and hardware platform, including WordPress, on which dxw digital will
-        host your website, is known as GovPress.
+    Container hosting platform
+    :	  The software and hardware infrastructure,, on which dxw digital will scale and
+        host your website.
 
     Overprovisioned Capacity
     :   Overprovisioned Capacity is a quantity of computing time, or any
@@ -32,29 +33,14 @@
     :	A Proposal is a document containing the information listed in clause 3.2.
 
     Service Level Agreement
-    :	Service Level Agreement refers to the document available at http://dext.ly/sla,
-        which sets out our responsiveness targets.
+    :	Service Level Agreement sets out our responsiveness targets.
 
     Acceptable Usage Policy
-    :   Acceptable Usage Policy (AUP) refers to the document available at http://dext.ly/aup,
-        which sets out restrictions on the way the service may be used.
+    :   Acceptable Usage Policy (AUP) sets out restrictions on the way the service may be used.
 
     Service Usage
     :   Service Usage is the accumulated quantity of hours of computing time
         and gigabytes of data stored or transferred in a given period.
-
-    Staging Environment
-    :   A Staging Environment is a private copy of your live website, which
-        can be used to test changes or new content in private before making
-        changes to your publicly available live website. The Staging Environment
-        differs substantially from the live environment, is not monitored and is
-        not backed up. It is suitable only for minor testing with unclassified content.
-
-    Pre-production Environment
-    :   A Pre-production Environment is a private copy of your live website which
-        you can use to conduct automated testing or detailed content work.
-        The Pre-production Environment is a close copy of your live website and
-        is suitable for detailed content and assurance work.
 
     Support Ticket
     :   A Support Ticket is a task, created by completing an online form or
@@ -68,23 +54,23 @@
 
 3. ### Proposal
 
-    1.  Before hosting a WordPress website, dxw digital will provide a Proposal.
+    1.  Before hosting your service, dxw digital will provide a Proposal.
     2.  The Proposal will contain:
 
         1.  A description of the steps dxw digital has taken to make an initial
             assessment of the server capacity your website is likely to require;
-        2.  A recommendation for the number and size of the instances you
+        2.  A recommendation for the number and size of the containers you
             will need, the size of your database and your initial file
             storage;
         3.  Details of Overprovisioned Capacity, if any;
         4.  A statement of the support dxw digital will provide: Managed
-            or managed plus;
-        5.  If Managed, a description of the steps dxw digital has taken
+            or Managed plus;
+        5.  A description of the steps dxw digital has taken
             to make an initial assessment of the support your website will
             require, and thus to determining an initial Time Allowance.
         6.  A breakdown of dxw digital's predicted monthly fees, showing separately
             the fees for infrastructure, support, and any other services;
-        7.  A breakdown of any costs to migrate your website onto GovPress,
+        7.  A breakdown of any costs to migrate your website onto our container hosting service,
             if applicable;
         8.  Anything else that we have agreed to provide as part of the service.
 
@@ -104,33 +90,21 @@
 
     1.  dxw digital will provide the following as part of this contract:
 
-        1.  A hosting service which makes your WordPress website available
-            for access over the internet;
+        1.  A hosting service which makes your service available for access over the internet;
         2.  Backups and backup restoration;
         3.  Storage and deployment of your website's source code;
-        4.  A separate Staging Environment;
-        5.  Availability monitoring and response;
-        6.  Operating system and infrastructure upgrades and maintenance;
-        7.  A support helpdesk.
+        4.  Availability monitoring and response;
+        5.  Operating system and infrastructure upgrades and maintenance;
+        6.  A support helpdesk (24 hours a day for emergencies with support for non-emergencies during our office hours.
 
-    2.  If your proposal specifies that the website we host will be Managed,
-        dxw digital will provide the following services as part of this contract, in
-        addition to the services specified in clause 4.1:
-
-        1.  Installation of WordPress plugin upgrades;
-        2.  Installation of WordPress core upgrades;
-        3.  Minor modifications to theme files;
-        4.  Assistance and advice on the usage of WordPress's administration area.
-
-    3.  If your proposal specifies that the website we host will be Managed Plus,
+    2.  If your proposal specifies that the website we host will be Managed Plus,
         dxw digital will also provide the following services as part of this contract, in
         addition to the services specified in clause 4.1 and 4.2:
 
         1.  Monitoring of production logs and metrics for issues of concern,
             including but not limited to those which may be indicators of
             compromise;
-        2.  Monitoring of open source intelligence sources for information
-            about newly discovered WordPress and WordPress plugin vulnerabilities;
+
         3.  Quarterly review meetings during which we will discuss aspects
             of your site's operation and recommend improvements; for example, on
             its security, performance, effectiveness, responsiveness, accessibility,
@@ -145,7 +119,7 @@
         1.  Support for any third-party services upon which your service relies;
         2.  Changes to your website which constitute new functionality.
 
-    5.  GovPress must only be used in accordance with its Acceptable Usage Policy,
+    5.  Our service must only be used in accordance with its Acceptable Usage Policy,
         which forms part of this agreement.
 
 
@@ -158,25 +132,25 @@
         your website is accessible over the internet 100% of the time, excluding
         periods of planned maintenance.
 
-    3.  If despite dxw digital's reasonable efforts your website is unavailable outside
+    3.  If despite dxw digital’s reasonable efforts your website is unavailable outside
         of a planned maintenance period, dxw digital will on request refund or waive the
         infrastructure fees for any period of unavailability longer than one hour.
 
     4.  Clause 5.3 shall not apply if the unavailability is a result of events that
-        are beyond dxw digital's control.
+        are beyond dxw digital’s control.
 
     5.  From time to time, we may need to make your website unavailable in order to
         carry out essential maintenance. dxw digital will make every reasonable effort to
         give you as much notice as possible when planned unavailability will occur,
-        and will complete such work outside the hours of 09:00-18:00 Monday-Friday
+        and will complete such work outside the hours of 10:00-18:00 Monday-Friday
         whenever it is reasonably possible.
 
 
 6. ### Enhancement of the service
 
-    1.  dxw digital may at any time make changes to GovPress without giving
+    1.  dxw digital may at any time make changes to without giving
         notice. We will inform you as soon as is practical of any change
-        which may have an impact upon your use of GovPress.
+        which may have an impact upon your use of our service.
 
     2.  dxw digital will not make any changes that remove or materially impair the
         supply of the services described in clauses 4.1, 4.2 and 4.3 of this contract.
@@ -184,7 +158,7 @@
     3.  Changes made by dxw digital under this clause will normally have no detectable
         effect on the operation of your website. If you make a reasonable request
         to us to fix a problem with the operation of your website that has arisen
-        out of any change we have made to GovPress, we will make reasonable efforts
+        out of any change we have made to the container hosting platform, we will make reasonable efforts
         to fix the reported problem.
 
 
@@ -219,7 +193,7 @@
 
 8. ### Time allowance
 
-    1.  dxw digital's initial fee for Managed support is calculated from the
+    1.  dxw digital's initial fee for support is calculated from the
         Time Allowance, which is based on our assessment of your website's
         likely support requirements, as stated in the proposal.
 
@@ -236,7 +210,7 @@
         completed at dxw digital's absolute discretion and the fact that dxw digital does so on
         one occasion will not imply that dxw digital will do so on subsequent occasions.
 
-    4.  In any given month, if dxw digital chooses not to complete work in excess of
+    5.  In any given month, if dxw digital chooses not to complete work in excess of
         the Time Allowance, we may notify you, and, subject to our availability,
         will complete that work if dxw digital's fees for the additional work are paid.
         dxw digital will not charge a fee for any such work without your authorisation.
@@ -260,28 +234,14 @@
     10. The Time Allowance is calculated per month. Unused time is not carried
         over and may not be used in any subsequent month.
 
-    10. dxw digital may, for a fee, be able to advise you on alternative approaches
+    11. dxw digital may, for a fee, be able to advise you on alternative approaches
         to managing your website that could reduce your operational costs.
 
-    11. The Time Allowance will have no bearing on dxw digital's provision of the
-        services detailed in clauses 4.1.1, 4.1.2, 4.1.3 and 4.1.4.
+    12. The Time Allowance will have no bearing on dxw digital's provision of the
+        services detailed in clauses 4.1.1, 4.1.2 and 4.1.3.
 
 
-9. ### Installation of plugins
 
-    1.  For a fee, dxw digital will conduct an assessment of a WordPress plugin intended
-        to give a broad understanding of the kinds of security problems that
-        plugin may have.
-
-    2.  dxw digital may refuse to permit the use of any plugin or plugin update if our
-        assessment indicates that it presents unacceptable security risks.
-
-    3.  Plugin security assessments are intended only to give a broad
-        understanding of a plugin's security status. The results are opinions
-        only. dxw digital neither offers any guarantee that a plugin whose assessment
-        produced positive results does not contain security vulnerabilities,
-        nor that negative results necessarily mean that a plugin does contain
-        security vulnerabilities.
 
 
 10. ### Suspension
@@ -289,9 +249,9 @@
     1.  dxw digital may suspend the services provided as part of this agreement if:
 
         1.  You fail to pay invoices whose total value is greater than or equal
-            to our total fee for the preceding two months' usage of GovPress;
+            to our total fee for the preceding two months' usage of the container hosting service;
         2.  As a last resort, it is necessary for us to do so in order to
-            protect your data or another GovPress user's security, or to protect
+            protect your data or another user's security, or to protect
             other users of the internet.
 
     2.  In the event that the services are suspended, dxw digital will replace your
@@ -323,8 +283,7 @@
         including security vulnerabilities, and that it is not reasonably
         practical to deliver bug-free software.
     4.  dxw digital will not be liable for any loss of profits or reputation that you
-        suffer, directly or indirectly, as a consequence of any failure of
-        GovPress or the WordPress site that it hosts.
+        suffer, directly or indirectly, as a consequence of any failure of the hosting infrastructure.
     5.  You agree that it is your responsibility to ensure that you put
         in place measures that make you able to operate in the event of
         any such failure. dxw digital can work with you to design or implement
@@ -334,7 +293,7 @@
     7.  In any event, dxw digital's total liability under this agreement is
         limited to the lesser of:
 
-        1. The total fees for a year of GovPress service;
+        1. The total fees for a year of the service;
         2. The insured sum.
 
 
@@ -363,22 +322,22 @@
         us in writing as soon as is reasonably practical.
 
 
-15. ### Intellectual property in GovPress
+15. ### Intellectual property of the service
 
     1.  Except as provided for in clause 16, nothing in this agreement is
         intended to transfer any intellectual property right.
 
     2.	To the extent that it is able (either through ownership or because it
         is licensed under a licence that permits sublicensing) dxw digital licenses all
-        intellectual property rights in GovPress to you for the sole purpose
+        intellectual property rights in this service to you for the sole purpose
         of carrying out this agreement, and only to the extent necessary for you
         to carry out this agreement.
 
     3.	To the extent that it is not able to give the licence in clause 15.2 above,
         dxw digital has taken reasonable steps to check that all intellectual property
-        rights owned by third parties in GovPress permit dxw digital and you to enter
+        rights owned by third parties on our container hosting platform permit dxw digital and you to enter
         into this agreement and for you to operate your website through
-        GovPress as envisaged under this agreement.
+        our container hosting platform  as envisaged under this agreement.
 
     4.	If, under this agreement, we create works, such as computer programs
         and documentation, dxw digital retains all Intellectual Property rights in the
@@ -397,7 +356,7 @@
         property rights, may be used as part of the operation of your website
         under this agreement.
 
-    3.  dxw digital may place links or representative screenshots of your WordPress
+    3.  dxw digital may place links or representative screenshots of your
         service along with your name or logo on a dxw digital website or within
         other promotional material. To the extent that these materials are owned by
         you, you agree to grant us a perpetual, irrevocable, non-exclusive,
@@ -435,17 +394,16 @@
         action or other circumstances beyond our reasonable control.
 
 
-
 19. ### Termination
 
-    1.  Either party may terminate this contract at any time by giving us 30 days'
+    1.  Either party may terminate this contract at any time by giving 30 days'
         notice in writing.
 
     2.  dxw digital may terminate this contract without notice if you are in material
         breach.
 
     3.  At the end of this contract, dxw digital will issue a final invoice for your usage
-        of GovPress up to the date of termination, which you shall pay.
+        of the container hosting platform  up to the date of termination, which you shall pay.
 
     4.  In the event that the Proposal includes a service which takes place less
         frequently than monthly but whose cost is apportioned per month:
@@ -458,28 +416,26 @@
 
 20. ### Data processing
 
-    1.	Upon agreeing to these terms, dxw digital will become a data processor for your WordPress website.
+     1. Upon agreeing to these terms, dxw digital will become a data processor for your WordPress website. This
+        agreement is a Data Processing Agreement for that service. This means that dxw digital will;
 
-    2. 	This agreement is a Data Processing Agreement for that service. This means that dxw digital will;
-
-        1. have adequate information security in place;
-        2. not use sub Processors without consent of the Controller;
-        3. cooperate with the relevant Data Protection Authorities in the event of an enquiry;
-        4. report data breaches to the Controller without delay;
-        5. keep records of processing activities undertaken outside your control;
-        6. comply with EU trans border data transfer rules;
-        7. help the Controller to comply with data subjects rights;
-        8. assist the Data Controller in managing the consequences of data breaches;
-        9. delete or return all personal data at the end of the contract at the choice of the Controller;
+        1.  have adequate information security in place;
+        2.  not use sub Processors without consent of the Controller;
+        3.  cooperate with the relevant Data Protection Authorities in the event of an enquiry;
+        4.  report data breaches to the Controller without delay;
+        5.  keep records of all processing activities undertaken outside your control;
+        6.  comply with EU trans border data transfer rules ;
+        7.  help the Controller to comply with data subjects rights;
+        8.  assist the Data Controller in managing the consequences of data breaches;
+        9.  delete or return all personal data at the end of the contract at the choice of the Controller;
         10. inform the Controller if the processing instructions infringe GDPR.
 
-    3.  We will process data for which you are the controller by storing, amending, retrieving, collecting and displaying data that is used as part of the WordPress service that we host on your behalf.
-
-    4.  This information will be stored for up to 6 months after the end of the contract. This can be expedited and extended subject to prior agreement
-
-    5.  You will ensure that you have sufficient measures in place to protect any data you hold.
-
-    6. 	Any data we process on your behalf will be held within the European Union.
+     2. We will process data for which you are the controller by storing, amending, retrieving, collecting and
+        displaying data that is used as part of the WordPress service that we host on your behalf.
+     3. This information will be stored for up to 6 months after the end of the contract. This can be expedited and
+        extended subject to prior agreement
+     4. You will ensure that you have sufficient measures in place to protect any data you hold.
+     5. Any data we process on your behalf will be held within the European Union.
 
 21. ### Changes to these terms
 
@@ -511,9 +467,8 @@
 
 24. ### Headings
 
-    1.  The section headings contained in this agreement are for
-        reference only and shall not in any way affect the meaning or
-        interpretation of this agreement.
+    1.  The section headings contained in this agreement are for reference only and shall not in any way affect the
+        meaning or interpretation of this agreement.
 
 
 25. ### Whole agreement
