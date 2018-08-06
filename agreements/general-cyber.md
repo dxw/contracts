@@ -125,8 +125,8 @@
         1.	retain hashed or encrypted passwords and their plaintext equivalents (but not associated usernames)
             indefinitely for the purpose of security research, the same not constituting Personal Data under Data
             Protection Legislation;
-        2.	retain a copy of any reports prepared for you as part of the Work, which may incidentally contain Host
-            Personal Data or other Personal Data.
+        2.	retain copies of our notes and of any reports prepared for you as part of the Work, which may incidentally 
+            contain Host  Personal Data or other Personal Data.
 
     4.	In respect of Personal Data:
 
