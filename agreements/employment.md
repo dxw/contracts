@@ -196,6 +196,11 @@ This document doubles as a written statement of the particulars of your employme
 
 28. ### Third party rights
     1. No one other than a party to this agreement shall have any right to enforce any of its terms.
+    
+29. ### Privacy and GDPR compliance
+    1. At dxw digital we are committed to keeping your personal data safe and secure. Personal data about you will be held to help us meet our contractual obligations to you, as well as to advance our legitimate business interests. For example being able to pay you, keeping records of our decisions and providing a suitable and safe working environment. 
+    2. We will keep this data for the length of your employment and for 12 months after your departure date, we will then review any need to keep it further and contact you as necessary.
+    3. If you would like to make any enquiries about your data or exercise your rights as detailed in our privacy statement www.dxw.com/privacy-statement, please email DPO@dxw.com.
 
 <small>Version: 15th February 2018</small>
 
