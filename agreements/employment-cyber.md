@@ -170,8 +170,8 @@ This document doubles as a written statement of the particulars of your employme
     1. Details of dxw cyber's disciplinary and grievance procedures are published in the Playbook. These procedures do not form part of your contract with us.
 
 21. ### Playbook
-    1. Further rules, practices and policies concerning your employment with us, and which you agree to abide by, are contained in the Playbook, a copy of which is available at playbook.dxw cyber.com.
-    2. dxw cyber would like to draw your attention to the Working arrangements section of the playbook, which contains policies relevant to all employees.
+    1. Further rules, practices and policies concerning your employment with us, and which you agree to abide by, are contained in the Playbook, a copy of which is available at playbook.dxw.com.
+    2. dxw cyber would like to draw your attention to the Working arrangements section of the playbook, which contains policies relevant to all employees of dxw cyber and dxw digital.
     3. The Playbook does not form part of your contract with us and will be varied by us from time to time. We will give you notice of any such changes.
 
 22. ### Changes
