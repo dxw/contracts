@@ -144,7 +144,7 @@ This document doubles as a written statement of the particulars of your employme
     1. There is no collective agreement which affects your employment.
 
 18. ### Confidentiality
-    1. Confidential information is any information that dxw cyber considers confidential. For more information on what dxw cyber considers confidential, refer to the playbook.
+    1. Unless otherwise specified, all information relating to your employment by dxw cyber is confidential information.
     2. You will not use nor disclose to any other person any confidential information acquired by you during the course of your employment for any purpose other than the performance of your duties.
     3. After the termination of your employment with us, you will continue not to disclose any confidential information acquired during your employment with us.
     4. The restrictions in this clause will not apply if:
@@ -170,8 +170,8 @@ This document doubles as a written statement of the particulars of your employme
     1. Details of dxw cyber's disciplinary and grievance procedures are published in the Playbook. These procedures do not form part of your contract with us.
 
 21. ### Playbook
-    1. Further rules, practices and policies concerning your employment with us, and which you agree to abide by, are contained in the Playbook, a copy of which is available at playbook.dxw cyber.com.
-    2. dxw cyber would like to draw your attention to the Working arrangements section of the playbook, which contains policies relevant to all employees.
+    1. Further rules, practices and policies concerning your employment with us, and which you agree to abide by, are contained in the Playbook, a copy of which is available at playbook.dxw.com.
+    2. dxw cyber would like to draw your attention to the Working arrangements section of the playbook, which contains policies relevant to all employees of dxw cyber and dxw digital.
     3. The Playbook does not form part of your contract with us and will be varied by us from time to time. We will give you notice of any such changes.
 
 22. ### Changes
