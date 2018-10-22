@@ -144,7 +144,7 @@ This document doubles as a written statement of the particulars of your employme
     1. There is no collective agreement which affects your employment.
 
 18. ### Confidentiality
-    1. Confidential information is any information that dxw cyber considers confidential. For more information on what dxw cyber considers confidential, refer to the playbook.
+    1. Unless otherwise specified, all information relating to your employment by dxw cyber is confidential information.
     2. You will not use nor disclose to any other person any confidential information acquired by you during the course of your employment for any purpose other than the performance of your duties.
     3. After the termination of your employment with us, you will continue not to disclose any confidential information acquired during your employment with us.
     4. The restrictions in this clause will not apply if:
