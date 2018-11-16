@@ -163,10 +163,10 @@ textarea.big {
   &.location {
     height: 252px;
   }
+}
 
-  &.pay {
-    height: 168px
-  }
+textarea.pay {
+  height: 168px
 }
 
 @media print {

@@ -9,8 +9,8 @@ This document doubles as a written statement of the particulars of your employme
 |**Address**|<textarea></textarea>|
 |**Job title**|<textarea></textarea>|
 |**Job description**|<textarea class="big"></textarea>|
-|**Pay**|<textarea> £XX,000 per annum (permanent, full time, pro rata fixed part time or variable part time) </textarea>|
-|**Location**|<textarea class="big">The first place you will be required to work for us under this contract will be Unit B7, 8-9 Hoxton Square, Greater London, N1 6NU, United Kingdom. You may be required to work, either temporarily or permanently, at any office within the Greater London Area. You will not be required to work outside the United Kingdom.</textarea>|
+|**Pay**|<textarea class="pay"> £XX,000 per annum (permanent, full time, pro rata fixed part time or variable part time) </textarea>|
+|**Location**|<textarea class="big location">The first place you will be required to work for us under this contract will be Unit B7, 8-9 Hoxton Square, Greater London, N1 6NU, United Kingdom. You may be required to work, either temporarily or permanently, at any office within the Greater London Area. You will not be required to work outside the United Kingdom.</textarea>|
 |**Contract date**|<textarea></textarea>|
 |**Commencement date**|<textarea></textarea>|
 |**Previous continuous employment**|<textarea></textarea>|
