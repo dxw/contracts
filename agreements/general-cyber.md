@@ -125,7 +125,7 @@
         1.	retain hashed or encrypted passwords and their plaintext equivalents (but not associated usernames)
             indefinitely for the purpose of security research, the same not constituting Personal Data under Data
             Protection Legislation;
-        2.	retain copies of our notes and of any reports prepared for you as part of the Work, which may incidentally 
+        2.	retain copies of our notes and of any reports prepared for you as part of the Work, which may incidentally
             contain Host  Personal Data or other Personal Data.
 
     4.	In respect of Personal Data:
@@ -201,7 +201,7 @@
 
 12. ### Limitation of liability
 
-    1.  dxw cyber is insured against professional negligence to a value of £1,000,000 (the "Insured Sum"). dxw cyber is willing to negotiate an increase in the Insured Sum on condition that we can pass on any corresponding increase in the premium in addition to the Fees.
+    1.  dxw cyber is insured against professional negligence to a value of £3,000,000 (the "Insured Sum"). dxw cyber is willing to negotiate an increase in the Insured Sum on condition that we can pass on any corresponding increase in the premium in addition to the Fees.
 
     2.  You acknowledge that all security work of a practical nature carries the risk of Adverse Impacts, and that it is not reasonably practical or possible for those risks to be eliminated or made inconsequential.  You accept the risk of Adverse Impacts when the Work is being undertaken.
 
