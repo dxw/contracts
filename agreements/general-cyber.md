@@ -1,6 +1,6 @@
 # Terms of service for security testing and consultancy
 
-## 8th August 2018
+## 16th November 2018
 
 1. ### Parties
 
@@ -33,9 +33,9 @@
 
 3. ### The Work
 
-    1.	dxw cyber will provide the Team for the period of time specified in the Order Summary to undertake the Work in return for payment by you of the Fees.
+    1.  dxw cyber will provide the Team for the period of time specified in the Order Summary to undertake the Work in return for payment by you of the Fees.
 
-    2. 	The Goals represent our best understanding of the purpose for and desired results of the Work, at the date of the Order Summary.
+    2.   The Goals represent our best understanding of the purpose for and desired results of the Work, at the date of the Order Summary.
 
     3.  If, at any time during the Work, the Goals you wish to address change materially, you must notify us, and new Goals must be agreed in writing.
 
@@ -88,7 +88,7 @@
 
 7. ### Data protection
 
-    1.	In this clause:
+    1.  In this clause:
 
         1.  Data Protection Legislation means the UK Data Protection Legislation and (for so long as and to the extent
             that the law of the European Union has legal effect in the UK) the General Data Protection Regulation ((EU)
@@ -103,14 +103,14 @@
         4.  Other Personal Data that we collect are processed in order to perform our obligations under this agreement,
             in accordance with our Privacy Policy as published on our website and amended from time to time.
 
-    2.	You recognise and agree that the nature of practical security testing makes it impractical to explicitly state
+    2.  You recognise and agree that the nature of practical security testing makes it impractical to explicitly state
         what categories of personal data may be processed in advance of that data being found during testing.
         As part of undertaking the Work, dxw cyber may:
 
-        1.	incidentally access Host Personal Data that is present on one or more of the Hosts;
+        1.  incidentally access Host Personal Data that is present on one or more of the Hosts;
         2.  need to include limited amounts of Host Personal Data in its reports to you as part of describing any
             vulnerabilities or other findings which were identified during the Work;
-        3.	need to undertake processing off-site of some categories of Host Personal Data for the purpose of working
+        3.  need to undertake processing off-site of some categories of Host Personal Data for the purpose of working
             towards the Goals, for example:
 
             1.  analysis of usernames and passwords, whether hashed, encrypted or in plaintext;
@@ -122,45 +122,45 @@
     3.  dxw cyber shall delete any Host Personal Data under sub-clause 2 above within 90 days of termination of this
         agreement, save that dxw cyber shall be permitted to:
 
-        1.	retain hashed or encrypted passwords and their plaintext equivalents (but not associated usernames)
+        1.  retain hashed or encrypted passwords and their plaintext equivalents (but not associated usernames)
             indefinitely for the purpose of security research, the same not constituting Personal Data under Data
             Protection Legislation;
-        2.	retain copies of our notes and of any reports prepared for you as part of the Work, which may incidentally 
+        2.  retain copies of our notes and of any reports prepared for you as part of the Work, which may incidentally
             contain Host  Personal Data or other Personal Data.
 
-    4.	In respect of Personal Data:
+    4.  In respect of Personal Data:
 
-        1.	Both parties will comply with all applicable requirements of the Data Protection Legislation.
+        1.  Both parties will comply with all applicable requirements of the Data Protection Legislation.
 
-        2.	The parties acknowledge that for the purposes of the Data Protection Legislation, you are the data
+        2.  The parties acknowledge that for the purposes of the Data Protection Legislation, you are the data
             controller and dxw cyber is the data processor (where Data Controller and Data Processor have the meanings
             as defined in the Data Protection Legislation) in respect of the Host Personal Data.
 
-        3.	Without prejudice to the generality of sub-clause 1 above, you will ensure that you have all necessary
+        3.  Without prejudice to the generality of sub-clause 1 above, you will ensure that you have all necessary
             lawful bases, consents and notices in place to enable lawful transfer of the Host Personal Data to dxw
             cyber for the duration and purposes of this agreement.
 
-        4.	Without prejudice to the generality of sub-clause 1 above, dxw cyber shall, in relation to any Host
+        4.  Without prejudice to the generality of sub-clause 1 above, dxw cyber shall, in relation to any Host
             Personal Data processed in connection with this agreement:
 
-            1.	process that Host Personal Data only in accordance with these terms or on your written instructions
+            1.  process that Host Personal Data only in accordance with these terms or on your written instructions
                 unless we are required by applicable laws otherwise to process that Host Personal Data;
-            2.	ensure that we have in place appropriate technical and organisational measures to protect against
+            2.  ensure that we have in place appropriate technical and organisational measures to protect against
                 unauthorised or unlawful processing of Host Personal Data and against accidental loss or destruction
                 of, or damage to, Host Personal Data, appropriate to the harm that might result from the unauthorised
                 or unlawful processing or accidental loss, destruction or damage and the nature of the data to be
                 protected, having regard to the state of technological development and the cost of implementing any
                 measures;
-            3.	ensure that all personnel who have access to and/or process Host Personal Data are obliged to keep the
+            3.  ensure that all personnel who have access to and/or process Host Personal Data are obliged to keep the
                 Host Personal Data confidential;
-            4.	not transfer any Host Personal Data outside of the European Economic Area;
-            5.	assist you, at your cost, in responding to any request from a Data Subject and in ensuring compliance
+            4.  not transfer any Host Personal Data outside of the European Economic Area;
+            5.  assist you, at your cost, in responding to any request from a Data Subject and in ensuring compliance
                 with your obligations under the Data Protection Legislation with respect to security, breach
                 notifications, impact assessments and consultations with supervisory authorities or regulators;
-            6.	notify you without undue delay on becoming aware of a Host Personal Data breach;
-            7.	at your written direction, delete or return Host Personal Data and copies thereof to you on termination
+            6.  notify you without undue delay on becoming aware of a Host Personal Data breach;
+            7.  at your written direction, delete or return Host Personal Data and copies thereof to you on termination
                 of the agreement unless required by applicable law to store the Host Personal Data; and
-            8.	maintain complete and accurate records and information to demonstrate its compliance with this clause.
+            8.  maintain complete and accurate records and information to demonstrate its compliance with this clause.
 
 
 8. ### Required Materials
@@ -201,7 +201,7 @@
 
 12. ### Limitation of liability
 
-    1.  dxw cyber is insured against professional negligence to a value of £1,000,000 (the "Insured Sum"). dxw cyber is willing to negotiate an increase in the Insured Sum on condition that we can pass on any corresponding increase in the premium in addition to the Fees.
+    1.  dxw cyber is insured against professional negligence to a value of £3,000,000 (the "Insured Sum"). dxw cyber is willing to negotiate an increase in the Insured Sum on condition that we can pass on any corresponding increase in the premium in addition to the Fees.
 
     2.  You acknowledge that all security work of a practical nature carries the risk of Adverse Impacts, and that it is not reasonably practical or possible for those risks to be eliminated or made inconsequential.  You accept the risk of Adverse Impacts when the Work is being undertaken.
 
@@ -271,7 +271,10 @@
 
     1.  dxw cyber will issue invoices for the Fees as set out in the Order Summary.
 
-    2.  dxw cyber's invoices must be paid within 30 days.
+    2.  dxw cyber requires payment of a deposit for any one-off fees that form part of the Order Summary before
+        delivery dates for work can be confirmed.
+
+    3.  dxw cyber's invoices must be paid within 30 days.
 
     4.  dxw cyber may charge interest on overdue amounts at 10% over the Barclay's Bank base rate.
 
@@ -304,7 +307,7 @@
        refund any fees paid for work we have not yet delivered, and you will pay any fees due for Work delivered but
        not yet paid.
 
-    5. If you terminate this agreement, you forfeit any fees you have paid for work agreed but not yet delivered.
+    5. If you terminate this agreement, you forfeit any fees we have invoiced for work agreed but not yet delivered.
 
     6. Where the Order Summary states that the Work has an end date, the agreement will terminate 90 days after the Work has been completed unless it is extended, in which case dxw cyber will provide a new Order Summary.
 
