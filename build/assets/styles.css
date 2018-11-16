@@ -159,14 +159,14 @@ textarea {
 
 textarea.big {
   height: 112px;
+}
 
-  &.location {
-    height: 252px;
-  }
+textarea.location {
+  height: 252px;
 }
 
 textarea.pay {
-  height: 168px
+  height: 84px
 }
 
 @media print {
