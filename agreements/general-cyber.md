@@ -201,7 +201,7 @@
 
 12. ### Limitation of liability
 
-    1.  dxw cyber is insured against professional negligence to a value of £3,000,000 (the "Insured Sum"). dxw cyber is willing to negotiate an increase in the Insured Sum on condition that we can pass on any corresponding increase in the premium in addition to the Fees.
+    1.  dxw cyber will maintain an appropriate level of insurance against professional negligence at all times.
 
     2.  You acknowledge that all security work of a practical nature carries the risk of Adverse Impacts, and that it is not reasonably practical or possible for those risks to be eliminated or made inconsequential.  You accept the risk of Adverse Impacts when the Work is being undertaken.
 
@@ -219,12 +219,9 @@
 
     5.  Nothing in this agreement should be read as excluding our liability for death or personal injury caused by our negligence, fraud or fraudulent misrepresentation or any other liability that cannot legally be limited.
 
-    6.  In any event, dxw cyber's total liability (which term includes liability in contract, tort (including negligence), breach of statutory duty, or otherwise, arising under or in connection with the agreement) is limited to the lesser of:
+    6.  In any event, dxw cyber’s total liability (which term includes liability in contract, tort (including negligence), breach of statutory duty, or otherwise, arising under or in connection with the agreement) is limited to the two times the total fees paid for the Work in the twelve months prior to the incident giving rise to the alleged liability taking place.
 
-        1. The total fee for the Work.
-        2. The Insured Sum.
-
-    8.  You shall indemnify dxw cyber against all liabilities, costs, expenses, damages and losses (including but not limited to any direct, indirect or consequential losses, loss of profit, loss of reputation and all interest, penalties and legal costs (calculated on a full indemnity basis) and all other professional costs and expenses) suffered or incurred by dxw cyber arising out of or in connection with any testing dxw cyber performs against a Host you authorise to include in the Scope without lawful authority.
+    7.  You shall indemnify dxw cyber against all liabilities, costs, expenses, damages and losses (including but not limited to any direct, indirect or consequential losses, loss of profit, loss of reputation and all interest, penalties and legal costs (calculated on a full indemnity basis) and all other professional costs and expenses) suffered or incurred by dxw cyber arising out of or in connection with any testing dxw cyber performs against a Host you authorise to include in the Scope without lawful authority.
 
 
 13. ### Confidentiality
@@ -271,12 +268,13 @@
 
     1.  dxw cyber will issue invoices for the Fees as set out in the Order Summary.
 
-    2.  dxw cyber requires payment of a deposit for any one-off fees that form part of the Order Summary before
-        delivery dates for work can be confirmed.
+    2.  dxw cyber requires payment of a fifty percent deposit for any one-off fees that form part of the Order Summary
+        before delivery dates for work can be confirmed. The remaining fifty per cent of the Fees shall be paid
+        upon completion of the Work as set out in the Order Summary.
 
     3.  dxw cyber's invoices must be paid within 30 days.
 
-    4.  dxw cyber may charge interest on overdue amounts at 10% over the Barclay's Bank base rate.
+    4.  dxw cyber may charge interest on overdue amounts at 8% over the Barclay's Bank base rate.
 
     5.  You shall make payment by BACS or CHAPS transfer. dxw cyber does not accept cheques.
 
@@ -290,7 +288,7 @@
 
     1.  Either party may terminate this agreement at any time by giving 30 days' notice in writing.
 
-    2.   dxw cyber may terminate this agreement with immediate effect by giving written notice to you if you fail to pay any amount due under this agreement on the due date for payment and remains in default not less than 14 days after being notified in writing to make such payment;
+    2.  dxw cyber may terminate this agreement with immediate effect by giving written notice to you if you fail to pay any amount due under this agreement on the due date for payment and remains in default not less than 14 days after being notified in writing to make such payment;
 
     3. Without affecting any other right or remedy available to it, either party may terminate this agreement with immediate effect by giving written notice to the other party if:
 
@@ -298,16 +296,19 @@
            justify the opinion that its conduct is inconsistent with it having the intention or ability to give effect
            to the terms of this agreement;
 
-        2. the other party suspends, or threatens to suspend, payment of its debts or is unable to pay its debts as
+        2. the other party's staff engage in a course of conduct which is threatening, abusive, amounts to harassment or otherwise threatens the wellbeing of the terminating party's staff;
+
+        3. the other party suspends, or threatens to suspend, payment of its debts or is unable to pay its debts as
            they fall due, admits inability to pay its debts, or enters into an arrangement with creditors;
 
-        3. a petition is filed to wind up the other party or an administrator is appointed.
+        4. a petition is filed to wind up the other party or an administrator is appointed.
 
     4. If dxw cyber terminates this agreement, we will provide you with a summary of your account with us. We will
        refund any fees paid for work we have not yet delivered, and you will pay any fees due for Work delivered but
        not yet paid.
 
-    5. If you terminate this agreement, you forfeit any fees we have invoiced for work agreed but not yet delivered.
+    5. If you terminate this agreement, you forfeit any fees we have invoiced for work agreed but not yet delivered,
+       including any deposit you have paid.
 
     6. Where the Order Summary states that the Work has an end date, the agreement will terminate 90 days after the Work has been completed unless it is extended, in which case dxw cyber will provide a new Order Summary.
 
@@ -327,7 +328,7 @@
 
     2.  If any proposed change in these terms puts you at a material disadvantage you may send us a notice of objection under this clause, in which case the change will not be binding on you.
 
-    3.  Any such written objection must be sent within 14 days of the notice dxw cyber sends you.#
+    3.  Any such written objection must be sent within 14 days of the notice dxw cyber sends you.
 
     4.  This clause does not apply if it would violate the terms of a framework agreement of which this agreement forms a part.
 
