@@ -190,7 +190,7 @@
 
 11. ### Quality
 
-    1.  dxw cyber will complete the Work with reasonable skill, care and diligence.
+    1.  dxw cyber will complete the Work with reasonable skill, care and diligence, in accordance with good industry practice.
     2.  dxw cyber will take steps to ensure, as far as is reasonably practical, that:
 
         1. Its advice, findings and recommendations are accurate and applicable;
@@ -220,6 +220,11 @@
     5.  Nothing in this agreement should be read as excluding our liability for death or personal injury caused by our negligence, fraud or fraudulent misrepresentation or any other liability that cannot legally be limited.
 
     6.  In any event, dxw cyber’s total liability (which term includes liability in contract, tort (including negligence), breach of statutory duty, or otherwise, arising under or in connection with the agreement) is limited to the two times the total fees paid for the Work in the twelve months prior to the incident giving rise to the alleged liability taking place.
+
+    6. In any event, dxw cyber’s total liability (which term includes liability in contract, tort (including negligence), breach of statutory duty, or otherwise, arising under or in connection with the agreement) is limited to either:
+
+    	1. £3,000,000 for any damage to your property or assets (including technical infrastructure, assets, data or equipment);
+    	2. for any other loss, two times the total fees paid for the Work in the twelve months prior to the incident giving rise to the alleged liability taking place.
 
     7.  You shall indemnify dxw cyber against all liabilities, costs, expenses, damages and losses (including but not limited to any direct, indirect or consequential losses, loss of profit, loss of reputation and all interest, penalties and legal costs (calculated on a full indemnity basis) and all other professional costs and expenses) suffered or incurred by dxw cyber arising out of or in connection with any testing dxw cyber performs against a Host you authorise to include in the Scope without lawful authority.
 
@@ -286,7 +291,7 @@
 
 16. ### Termination
 
-    1.  Either party may terminate this agreement at any time by giving 30 days' notice in writing.
+    1.  Either party may terminate this agreement at any time by giving 60 days' notice in writing.
 
     2.  dxw cyber may terminate this agreement with immediate effect by giving written notice to you if you fail to pay any amount due under this agreement on the due date for payment and remains in default not less than 14 days after being notified in writing to make such payment;
 
