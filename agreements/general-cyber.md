@@ -1,6 +1,6 @@
 # Terms of service for security testing and consultancy
 
-## 16th January 2019
+## 25th January 2019
 
 1. ### Parties
 
