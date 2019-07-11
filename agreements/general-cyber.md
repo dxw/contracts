@@ -332,13 +332,7 @@
 
 18. ### Changes to these terms
 
-    1.  dxw cyber may vary these terms at any time upon giving you written notice.
-
-    2.  If any proposed change in these terms puts you at a material disadvantage you may send us a notice of objection under this clause, in which case the change will not be binding on you.
-
-    3.  Any such written objection must be sent within 14 days of the notice dxw cyber sends you.
-
-    4.  This clause does not apply if it would violate the terms of a framework agreement of which this agreement forms a part.
+    1.  Changes to these terms may be made in writing by mutual agreement of the parties, which must not be unreasonably withheld.
 
 
 19. ### Notices
