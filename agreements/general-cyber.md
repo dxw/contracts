@@ -263,9 +263,14 @@
 
     1.  All intellectual property created by dxw cyber or any member of the Team in the course of the Work remains owned by us.
 
-    2.  Where dxw cyber provides you with a deliverable that contains our intellectual property, we grant you a perpetual, irrevocable, non-exclusive, royalty-free licence to use that intellectual property, solely for the purpose of achieving the Goals.
+    2.  All intellectual property created by you in the course of the Work, or that you have created prior to the Work commencing, remains owned by you.
 
-    3.  You must not use nor distribute materials containing dxw cyber's intellectual property for any purpose (whether commercial or otherwise) other than achieving the Goals, without our prior written consent.
+    3.  Where dxw cyber provides you with a deliverable that contains our intellectual property, we grant you a perpetual, irrevocable, non-exclusive, royalty-free licence to use that intellectual property, solely for the purpose of achieving the Goals.
+
+    4.  You must not use nor distribute materials containing dxw cyber's intellectual property for any purpose (whether commercial or otherwise) other than achieving the Goals, without our prior written consent.
+
+    5.  You grant dxw cyber a non-exclusive, royalty-free licence to use your intellectual property where necessary in order to achieve the Goals, and strictly for no other purpose.
+
 
 15. ### Payments
 
