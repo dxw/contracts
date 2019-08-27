@@ -58,7 +58,7 @@
     2. Urgent tickets must receive a first reply within 1 hour (standard) or 30
        minutes (enhanced), at any time of the day or night.
 
-    3. Tickets created by emailing emergency-support@dxw.com are automatically
+    3. Tickets created by emailing support-emergency@dxw.com are automatically
        marked as urgent.
 
 4. ### High priority tickets
