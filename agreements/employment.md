@@ -109,7 +109,7 @@ This document doubles as a written statement of the particulars of your employme
     4. dxw may suspend all or any of your duties for such period and on such terms as it considers appropriate, including a requirement that you will not attend at dxw’s offices or contact any of its clients, suppliers or staff. dxw can exercise this right at any time (including during a period of notice terminating your employment) and whether or not it is in connection with a disciplinary investigation.
 
 13. ### Holiday entitlement
-    1. We operate a holiday year which runs from 1st July to 30th June in the following year.
+    1. We operate a holiday year which runs from 1st January to 31st December.
     2. Leave accrues throughout the year according to the formula given below, resulting in 33 days paid leave for full time staff and a pro rata proportion for those working part time.
     3. Unless notified otherwise you will be required to take all Bank Holidays and Public Holidays as leave and those days are counted in the total of 33 days.
     4. You may carry over a maximum of five days' leave from one holiday year to the next.
