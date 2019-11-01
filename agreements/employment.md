@@ -3,17 +3,17 @@
 
 ## Statement of particulars of employment
 
-This document doubles as a written statement of the particulars of your employment which we are obliged to give you by section 1 of the Employment Rights Act 1996 and the terms and conditions of your contract of employment with us.
+<p class="wrapped">This document doubles as a written statement of the particulars of your employment which we are obliged to give you by section 1 of the Employment Rights Act 1996 and the terms and conditions of your contract of employment with us.</p>
 
-|**Full name**|<textarea></textarea>|
-|**Address**|<textarea></textarea>|
-|**Job title**|<textarea></textarea>|
-|**Job description**|<textarea class="big"></textarea>|
-|**Pay**|<textarea class="pay"> £XX,000 per annum (permanent, full time, pro rata fixed part time or variable part time) </textarea>|
-|**Location**|<textarea class="big location">The first place you will be required to work for us under this contract will be Unit B7, 8-9 Hoxton Square, Greater London, N1 6NU, United Kingdom. You may be required to work, either temporarily or permanently, at any office within the Greater London Area. You will not be required to work outside the United Kingdom.</textarea>|
-|**Contract date**|<textarea></textarea>|
-|**Commencement date**|<textarea></textarea>|
-|**Previous continuous employment**|<textarea></textarea>|
+|**Full name**|{::nomarkdown}<div class="editable" contenteditable="true"></div>{:/}|
+|**Address**|{::nomarkdown}<div class="editable" contenteditable="true"></div>{:/}|
+|**Job title**|{::nomarkdown}<div class="editable" contenteditable="true"></div>{:/}|
+|**Job description**|{::nomarkdown}<div class="editable" contenteditable="true"></div>{:/}|
+|**Pay**|{::nomarkdown}<div class="editable" contenteditable="true">£XX,000 per annum (permanent, full time, pro rata fixed part time or variable part time)</div>{:/}|
+|**Location**|{::nomarkdown}<div class="editable" contenteditable="true">The first place you will be required to work for us under this contract will be Unit B7, 8-9 Hoxton Square, Greater London, N1 6NU, United Kingdom. You may be required to work, either temporarily or permanently, at any office within the Greater London Area. You will not be required to work outside the United Kingdom.</div>{:/}|
+|**Contract date**|{::nomarkdown}<div class="editable" contenteditable="true"></div>{:/}|
+|**Commencement date**|{::nomarkdown}<div class="editable" contenteditable="true"></div>{:/}|
+|**Previous continuous employment**|{::nomarkdown}<div class="editable" contenteditable="true"></div>{:/}|
 
 <div style="page-break-after:always"></div>
 
@@ -197,21 +197,21 @@ This document doubles as a written statement of the particulars of your employme
 28. ### Third party rights
     1. No one other than a party to this agreement shall have any right to enforce any of its terms.
 
-<small>Version: 15th February 2018</small>
+<small class="wrapped">Version: 15th February 2018</small>
 
 
 ## Signature
 
 ### We agree to employ you on the terms set out above. Signed on behalf of the company:
 
-|**Name:**|<textarea></textarea>|
-|**Role:**|<textarea></textarea>|
-|**Date:**|<textarea></textarea>|
-|**Signed:**|<textarea></textarea>|
+|**Name:**|{::nomarkdown}<div class="editable" contenteditable="true"></div>{:/}|
+|**Role:**|{::nomarkdown}<div class="editable" contenteditable="true"></div>{:/}|
+|**Date:**|{::nomarkdown}<div class="editable" contenteditable="true"></div>{:/}|
+|**Signed:**|{::nomarkdown}<div class="editable" contenteditable="true"></div>{:/}|
 
 
 ### I have read and understood these terms and conditions under which I agree to be employed by you:
 
-|**Name:**|<textarea></textarea>|
-|**Date:**|<textarea></textarea>|
-|**Signed:**|<textarea></textarea>|
+|**Name:**|{::nomarkdown}<div class="editable" contenteditable="true"></div>{:/}|
+|**Date:**|{::nomarkdown}<div class="editable" contenteditable="true"></div>{:/}|
+|**Signed:**|{::nomarkdown}<div class="editable" contenteditable="true"></div>{:/}|
