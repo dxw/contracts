@@ -37,3 +37,7 @@ When we send these terms, we generally include the terms of service for technica
 ## Terms of service for security testing and consultancy
 
 [These are the terms for all of our client work](/general-cyber.md.html).
+
+## Terms for the affiliate network
+
+[These are the terms for our affiliates network](/affiliates.md.html).
