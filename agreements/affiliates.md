@@ -63,10 +63,10 @@ The parties, Dxw Cyber Ltd and the organisation or person listed below, offer co
 
     2.  The Introduction Fee will be calculated as a percentage (the Commission, specified above) of the Total Income.
 
-    3.  The Introduction Fee will be due in instalments as follows:
+    3.  The Introduction Fee will be due in instalments as follows, on production of an invoice by the Introducer:
 
-        1.  40%, two months after the commencement date;
-        2.  30%, seven months after the commencement date;
+        1.  40%, one month after the commencement date;
+        2.  30%, six months after the commencement date;
         3.  30%, twelve months after the commencement date.
 
     4.  In the event that the payments due under the contract change before its first anniversary, the Supplier must
@@ -79,7 +79,7 @@ The parties, Dxw Cyber Ltd and the organisation or person listed below, offer co
         1.  future instalments will be reduced to reflect the lower sum payable; or
         2.  if the new Introduction Fee is less than the value of the instalments paid to date, no refund will be due and no further instalments will be due.
 
-    4.  Fees due under this arrangement shall be paid within 30 days of falling due.
+    4.  Instalments under this arrangement shall be paid within 30 days of falling due.
 
     5.  In the event that a Prospective Client, having been introduced, makes a further introduction to a third party,
         no fees shall be payable under this agreement for that introduction.
