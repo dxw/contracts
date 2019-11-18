@@ -1,6 +1,6 @@
 # Terms of service for security testing and consultancy
 
-## 15th April 2019
+## 11th July 2019
 
 1. ### Parties
 
@@ -219,10 +219,7 @@
 
     5.  Nothing in this agreement should be read as excluding our liability for death or personal injury caused by our negligence, fraud or fraudulent misrepresentation or any other liability that cannot legally be limited.
 
-    6. In any event, dxw cyber’s total liability (which term includes liability in contract, tort (including negligence), breach of statutory duty, or otherwise, arising under or in connection with the agreement) is limited to:
-
-        1. for liability against which dxw cyber is insured, the sum recoverable by dxw cyber from its insurers under the indemnity principle in respect of that liability (our policy wordings are available on request);
-        2. for any other liability, two times the total fees paid for the Work in the twelve months prior to the incident giving rise to the alleged liability taking place.
+    6. In any event, either party’s total liability (which term includes liability in contract, tort (including negligence), breach of statutory duty, or otherwise, arising under or in connection with the agreement) is limited to three times the total fees paid for the Work in the twelve months prior to the incident giving rise to the alleged liability taking place.
 
     7.  You shall indemnify dxw cyber against all liabilities, costs, expenses, damages and losses (including but not limited to any direct, indirect or consequential losses, loss of profit, loss of reputation and all interest, penalties and legal costs (calculated on a full indemnity basis) and all other professional costs and expenses) suffered or incurred by dxw cyber arising out of or in connection with any testing dxw cyber performs against a Host you authorise to include in the Scope without lawful authority.
 

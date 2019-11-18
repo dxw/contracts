@@ -3,17 +3,17 @@
 
 ## Statement of particulars of employment
 
-This document doubles as a written statement of the particulars of your employment which we are obliged to give you by section 1 of the Employment Rights Act 1996 and the terms and conditions of your contract of employment with us.
+<p class="wrapped">This document doubles as a written statement of the particulars of your employment which we are obliged to give you by section 1 of the Employment Rights Act 1996 and the terms and conditions of your contract of employment with us.</p>
 
-|**Full name**|<textarea></textarea>|
-|**Address**|<textarea></textarea>|
-|**Job title**|<textarea></textarea>|
-|**Job description**|<textarea class="big"></textarea>|
-|**Pay**|<textarea class="pay"> £XX,000 per annum (permanent, full time, pro rata fixed part time or variable part time) </textarea>|
-|**Location**|<textarea class="big location">The first place you will be required to work for us under this contract will be Unit B7, 8-9 Hoxton Square, Greater London, N1 6NU, United Kingdom. You may be required to work, either temporarily or permanently, at any office within the Greater London Area. You will not be required to work outside the United Kingdom.</textarea>|
-|**Contract date**|<textarea></textarea>|
-|**Commencement date**|<textarea></textarea>|
-|**Previous continuous employment**|<textarea></textarea>|
+|**Full name**|{::nomarkdown}<div class="editable" contenteditable="true"></div>{:/}|
+|**Address**|{::nomarkdown}<div class="editable" contenteditable="true"></div>{:/}|
+|**Job title**|{::nomarkdown}<div class="editable" contenteditable="true"></div>{:/}|
+|**Job description**|{::nomarkdown}<div class="editable" contenteditable="true"></div>{:/}|
+|**Pay**|{::nomarkdown}<div class="editable" contenteditable="true">£XX,000 per annum (permanent, full time, pro rata fixed part time or variable part time)</div>{:/}|
+|**Location**|{::nomarkdown}<div class="editable" contenteditable="true">The first place you will be required to work for us under this contract will be Unit B7, 8-9 Hoxton Square, Greater London, N1 6NU, United Kingdom. You may be required to work, either temporarily or permanently, at any office within the Greater London Area. You will not be required to work outside the United Kingdom.</div>{:/}|
+|**Contract date**|{::nomarkdown}<div class="editable" contenteditable="true"></div>{:/}|
+|**Commencement date**|{::nomarkdown}<div class="editable" contenteditable="true"></div>{:/}|
+|**Previous continuous employment**|{::nomarkdown}<div class="editable" contenteditable="true"></div>{:/}|
 
 <div style="page-break-after:always"></div>
 
@@ -109,7 +109,7 @@ This document doubles as a written statement of the particulars of your employme
     4. dxw may suspend all or any of your duties for such period and on such terms as it considers appropriate, including a requirement that you will not attend at dxw’s offices or contact any of its clients, suppliers or staff. dxw can exercise this right at any time (including during a period of notice terminating your employment) and whether or not it is in connection with a disciplinary investigation.
 
 13. ### Holiday entitlement
-    1. We operate a holiday year which runs from 1st July to 30th June in the following year.
+    1. We operate a holiday year which runs from 1st January to 31st December.
     2. Leave accrues throughout the year according to the formula given below, resulting in 33 days paid leave for full time staff and a pro rata proportion for those working part time.
     3. Unless notified otherwise you will be required to take all Bank Holidays and Public Holidays as leave and those days are counted in the total of 33 days.
     4. You may carry over a maximum of five days' leave from one holiday year to the next.
@@ -197,21 +197,21 @@ This document doubles as a written statement of the particulars of your employme
 28. ### Third party rights
     1. No one other than a party to this agreement shall have any right to enforce any of its terms.
 
-<small>Version: 15th February 2018</small>
+<small class="wrapped">Version: 15th February 2018</small>
 
 
 ## Signature
 
 ### We agree to employ you on the terms set out above. Signed on behalf of the company:
 
-|**Name:**|<textarea></textarea>|
-|**Role:**|<textarea></textarea>|
-|**Date:**|<textarea></textarea>|
-|**Signed:**|<textarea></textarea>|
+|**Name:**|{::nomarkdown}<div class="editable" contenteditable="true"></div>{:/}|
+|**Role:**|{::nomarkdown}<div class="editable" contenteditable="true"></div>{:/}|
+|**Date:**|{::nomarkdown}<div class="editable" contenteditable="true"></div>{:/}|
+|**Signed:**|{::nomarkdown}<div class="editable" contenteditable="true"></div>{:/}|
 
 
 ### I have read and understood these terms and conditions under which I agree to be employed by you:
 
-|**Name:**|<textarea></textarea>|
-|**Date:**|<textarea></textarea>|
-|**Signed:**|<textarea></textarea>|
+|**Name:**|{::nomarkdown}<div class="editable" contenteditable="true"></div>{:/}|
+|**Date:**|{::nomarkdown}<div class="editable" contenteditable="true"></div>{:/}|
+|**Signed:**|{::nomarkdown}<div class="editable" contenteditable="true"></div>{:/}|
