@@ -40,4 +40,4 @@ When we send these terms, we generally include the terms of service for technica
 
 ## Introducer terms
 
-[These are the terms for our specialists network](/affiliates.md.html).
+[These are the terms for our specialists network](/introducer.md.html).
