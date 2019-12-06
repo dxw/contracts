@@ -1,4 +1,4 @@
-# Affiliates network
+# Introducer agreement
 
 ## Preamble
 
@@ -69,8 +69,8 @@ The parties, Dxw Cyber Ltd and the organisation or person listed below, offer co
         2.  30%, six months after the commencement date;
         3.  30%, twelve months after the commencement date.
 
-    4.  In the event that the payments due under the contract change before its first anniversary, the Supplier must
-        notify the Introducer and inform them in writing of the details of the change.
+    4.  In the event that the Total Income changes after the commencement date, the Supplier must notify the Introducer
+        and inform them in writing of the details of the change and calculate a revised Introduction Fee.
 
     5.  If the new Introduction Fee is higher, future instalments will be increased to reflect the larger sum payable.
 
@@ -79,7 +79,7 @@ The parties, Dxw Cyber Ltd and the organisation or person listed below, offer co
         1.  future instalments will be reduced to reflect the lower sum payable; or
         2.  if the new Introduction Fee is less than the value of the instalments paid to date, no refund will be due and no further instalments will be due.
 
-    4.  Instalments under this arrangement shall be paid within 30 days of falling due.
+    4.  Payments due under this arrangement shall be made within 30 days.
 
     5.  In the event that a Prospective Client, having been introduced, makes a further introduction to a third party,
         no fees shall be payable under this agreement for that introduction.
