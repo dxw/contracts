@@ -38,6 +38,6 @@ When we send these terms, we generally include the terms of service for technica
 
 [These are the terms for all of our client work](/general-cyber.md.html).
 
-## Terms for the affiliate network
+## Introducer terms
 
-[These are the terms for our affiliates network](/affiliates.md.html).
+[These are the terms for our specialists network](/affiliates.md.html).
