@@ -1,4 +1,4 @@
-# Affiliates network
+# Introducer agreement
 
 ## Preamble
 
