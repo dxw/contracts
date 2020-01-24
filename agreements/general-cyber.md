@@ -234,7 +234,8 @@
         2.  Is in the public domain (other than through our default) or which we receive from a third party who is lawfully entitled to disclose it;
         3.  Is known by us prior to receipt of the information from you;
         4.  Is developed by us independently of information obtained as part of our relationship with you;
-        5.  It is required by law to disclose.
+        5.  It is required by law to disclose;
+        6.  You have given us written permission to disclose.
 
     3.  In respect of security vulnerabilities we discover in third party software or systems during the Work, we may, without identifying you:
 
