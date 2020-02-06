@@ -27,17 +27,3 @@ When we send these terms, we generally include the terms of service for technica
 [These are the terms that apply to all employees at dxw digital](/employment.md.html).
 
 
-![dxw cyber](assets/dxw-cyber-logo.png){:width="250px"}
-{:style="padding-top: 50px;"}
-
-## Employment
-
-[These are the terms that apply to all employees at dxw cyber](/employment-cyber.md.html).
-
-## Terms of service for security testing and consultancy
-
-[These are the terms for all of our client work](/general-cyber.md.html).
-
-## Introducer terms
-
-[These are the terms for our specialists network](/introducer.md.html).
