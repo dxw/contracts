@@ -10,7 +10,7 @@
 |**Job title**|{::nomarkdown}<div class="editable" contenteditable="true"></div>{:/}|
 |**Job description**|{::nomarkdown}<div class="editable" contenteditable="true"></div>{:/}|
 |**Pay**|{::nomarkdown}<div class="editable" contenteditable="true">£XX,000 per annum (permanent, full time, pro rata fixed part time or variable part time)</div>{:/}|
-|**Location**|{::nomarkdown}<div class="editable" contenteditable="true">The first place you will be required to work for us under this contract will be Unit B7, 8-9 Hoxton Square, Greater London, N1 6NU, United Kingdom. You may be required to work, either temporarily or permanently, at any office within the Greater London Area. You will not be required to work outside the United Kingdom.</div>{:/}|
+|**Location**|{::nomarkdown}<div class="editable" contenteditable="true"></div>{:/}|
 |**Contract date**|{::nomarkdown}<div class="editable" contenteditable="true"></div>{:/}|
 |**Commencement date**|{::nomarkdown}<div class="editable" contenteditable="true"></div>{:/}|
 |**Previous continuous employment**|{::nomarkdown}<div class="editable" contenteditable="true"></div>{:/}|

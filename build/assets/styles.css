@@ -1,8 +1,9 @@
-@import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
+@import url(https://fonts.googleapis.com/css?family=Poppins:400,600,700);
+@import url(https://fonts.googleapis.com/css?family=Cardo:400,400i);
 
 body
 {
-  font-family: "Lato", sans-serif;
+  font-family: "Cardo", sans-serif;
   background: #eee;
   font-size: 18px;
   line-height: 25px;
@@ -21,8 +22,9 @@ h1,h2,h3 {
   margin-left: 20px;
   margin-top: 20px;
 
-  font-weight: bold;
+  font-weight: 400;
   page-break-after: avoid;
+  font-family: "Poppins", sans-serif;
 }
 
 li > h3, li > h2
