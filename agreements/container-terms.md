@@ -1,7 +1,7 @@
 
 # Secure, scalable container hosting - Terms of Service
 
-## 23 May 2018
+## 30 July 2020
 
 1. ### Parties
 
@@ -348,7 +348,7 @@
 
     1.  To the extent that you are able, you grant us a sufficient licence over
         any material you supply to us to allow us to host your website on
-        GovPress for the duration of this agreement.
+        the service for the duration of this agreement.
 
     2. 	To the extent that you are unable to grant the licence under clause
         16.1 above, you shall take all reasonable steps to ensure that any
