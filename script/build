@@ -1,0 +1,4 @@
+#!/bin/bash
+
+./script/compile && \
+  mv build/index.md.html build/index.html

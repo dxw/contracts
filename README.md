@@ -25,10 +25,10 @@ Most people fork and edit these to suit, but if you find an issue or make an imp
 4. To compile the agreements into HTML:
    
    ```
-   $ bundle exec ./compile
+   $ ./script/compile
    ```
 
-You should find some HTML in the build directory. This tool is a bit rough & ready, and we probably won't spend much time improving it, but do raise an issue if it just doens't work at all.
+You should find some HTML in the build directory.
 
 ## Modification
 

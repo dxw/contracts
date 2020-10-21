@@ -6,20 +6,20 @@ require 'kramdown'
 # Make sure we have the directories
 #
 
-agreements = "#{File.dirname(__FILE__)}/agreements"
+agreements = File.join(__dir__, "..", "agreements")
 #puts agreements
 unless File.exists?(agreements)
   STDERR.puts("Couldn't find the agreements directory at: #{agreements}")
   exit 1
 end
 
-build = "#{File.dirname(__FILE__)}/build"
+build = File.join(__dir__, "..", "build")
 unless File.exists?(build)
   STDERR.puts("Couldn't find the build directory at: #{build}")
   exit 1
 end
 
-html = "#{File.dirname(__FILE__)}/html"
+html = File.join(__dir__, "..", "html")
 unless File.exists?(html)
   STDERR.puts("Couldn't find the html directory at: #{html}")
   exit 1
