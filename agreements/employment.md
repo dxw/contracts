@@ -20,7 +20,7 @@
 ## Terms of your employment
 
 1. ### Employer
-    1. You are employed by The Dextrous Web Ltd, a company registered in England and Wales under number 6617101, trading as dxw. Our registered office is at Unit B7, 8-9 Hoxton Square, Greater London, N1 6NU.
+    1. You are employed by The Dextrous Web Ltd, a company registered in England and Wales under number 6617101, trading as dxw. Our registered office is at Calls Landing, 36-38 The Calls, Leeds, LS2 7EW.
 
 2. ### Date of commencement
     1. The date for the purposes of calculating your statutory period of continuous employment with dxw is your date of commencement, unless otherwise specified in the above table. This takes into account any unbroken employment with us, or any associated company. Service with your previous employer does not count as part of your continuous period of employment with us.
