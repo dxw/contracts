@@ -201,7 +201,7 @@
 28. ### Third party rights
     1. No one other than a party to this agreement shall have any right to enforce any of its terms.
 
-<small class="wrapped">Version: 15th February 2018</small>
+<small class="wrapped">Version: 22nd October 2020</small>
 
 
 ## Signature
