@@ -127,7 +127,11 @@
 14. ### Incapacity
     1. Incapacity means any sickness, injury or other medical condition which prevents the Employee from carrying out their duties.
     2. If you are absent due to incapacity, you must inform dxw by 10:00 on the day of your absence.
-    3. dxw will pay your normal salary for up to ten days of incapacity per year.
+    3. Within any rolling 12 month period, a person will receive:
+        1. full pay for the first 12 days of sickness absence
+        2. half pay (but no less than living wage) for the next 8 days of sickness absence
+        3. real living wage for the next 10 days of sickness absence
+        4. statutory sick pay pay after 30 days of sickness absence
     4. Pension contributions will continue as normal while you are paid at your normal salary. If your pay during any period of incapacity absence, or if you are paid Statutory Sick Pay (SSP) only, the level of contributions made may change, depending on the Aviva pension scheme rules in force at the time.
     5. You agree to consent to medical examination (at dxw's expense) by a doctor nominated by dxw, if we reasonably require you to do so. You agree that any report produced in connection with any such examination may be disclosed to dxw and that we may discuss the contents of the report with the relevant doctor.
     6. Further details of dxw's incapacity absence arrangements are published in the Playbook.
